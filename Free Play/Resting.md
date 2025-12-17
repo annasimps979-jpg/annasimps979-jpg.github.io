@@ -1,6 +1,4 @@
----
-title: Resting
----
+# Resting
 
 After journeying along a path, player characters will have accrued injuries, HP and MP damage, and be drained of Supplies, and will need to rest within the boundaries of a settlement.  If there are no other options available to the player characters, villages and towns will generally tolerate people camping on their outskirts so long as they introduce themselves to local authorities and explain their presence.  Player characters who do this will undergo a Camping Phase as normal, and can take all of the same actions they can while camping along a path.  That being said, there may be consequences for Hunting or Gathering in people's fields, and GMs should warn players of this if they choose to take these actions.  In cities and metropoli, sleeping outside is frowned upon, and will either earn you a beating from the city watch or the local criminal element or get you thrown out of the city in more serious cases.  GMs should simulate this by treating the camp as though the players were on a path with a danger rating of their choice that can go up to 10, corresponding to a likelihood of ambush of 50%.  Unlike most enemies out in the wild, however, the city guard or local mob will accept surrender for either a bribe of 100 cr or an agreement to not sleep outside again.
 
