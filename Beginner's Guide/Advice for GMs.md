@@ -1,6 +1,4 @@
----
-title: Advice for GMs
----
+# Advice for GMs
 
 The Game Master is the most essential member of the gaming group.  If one or two players are missing, that's no big deal, but if you're not there then the game cannot happen at all.  This means you have a greater responsibility than the players do in keeping the game running.  This can be a lot to handle.  It's natural for even experienced GMs to have performance anxiety when it comes to running session.  If you'd like to run Last Odyssey but don't have the courage quite yet, you can always join someone else's group as a player first, and pick up the system that way.  Then, when you're comfortable, you can start your own group as well.  At minimum, when starting a group you need to be familiar with all of the rules of the game.  That means reading the entire corebook cover to cover.  You will probably forget the rules from time to time, especially at first, so when you run the game be sure to have the corebook on hand to reference if you need it.  Your other responsibility is to narrate the world and its attendant NPCs.  In practice, much of this will be done improvisationally, but it's important to have a clear idea of who is doing what, and why, so that when players push against the world you know how to make it push back.
 
