@@ -1,6 +1,4 @@
----
-title: Ranger
----
+# Ranger
 
 A Ranger's core virtue is their **Focus.**  At character creation, they gain the following traits:
 *  Proficiency in Light armor.
