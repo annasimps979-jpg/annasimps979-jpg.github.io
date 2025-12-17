@@ -1,6 +1,4 @@
----
-title: Followers
----
+# Followers
 
 Player characters in need of extra hands while traveling and who have cr to spare can hire NPCs to accompany them on their journey.  Sometimes, NPCs will also travel with the players as part of a quest or when accompanying them as caravan guards.  The kinds of people willing to do this are rare, as exploration is a dangerous task.  Followers for hire, if available, will generally congregate in taverns.  An out-of-the-way tavern might have at most one or two people willing to travel with the player characters for cr, while taverns that are closer to populated areas such as towns and cities will often have a handful whose availability depends on how much work there is in the surrounding area.  On occasion, a larger city or metropolis will also be the home of an adventurer's guild, which is an organization that recruits and trains mercenaries for hire.  If the GM wants to include one of these in their game, they should populate a given adventurer's headquarters with 2d6 followers for hire.
 
