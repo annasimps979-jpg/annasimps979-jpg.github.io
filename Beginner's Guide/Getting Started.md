@@ -1,6 +1,4 @@
----
-title: Getting Started
----
+# Getting Started
 
 The only thing you need for an FRP is _other people._  To play Last Odyssey, you will need a Game Master, 
 3-5 players, and a designated facilitator or facilitators who can handle the work of planning and preparation.  
