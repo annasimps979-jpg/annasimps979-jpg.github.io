@@ -1,6 +1,4 @@
----
-title: Tier 8 Enemies
----
+# Tier 8 Enemies
 
 ## Angels
 The servants of Heaven are just and righteous, but this makes them no less deadly in combat.
