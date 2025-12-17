@@ -1,6 +1,4 @@
----
-title: Metropoli
----
+# Metropoli
 
 Population: 100,000-1m+
 
