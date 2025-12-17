@@ -1,6 +1,4 @@
----
-title: Worldbuilding
----
+# Worldbuilding
 
 Last Odyssey does not come with a prewritten setting in the sense that the political and natural geography of the world that the players are navigating will vary from group to group.  What it does have is an implicit setting, which is a set of assumptions that hold true for all possible games.  This section provides advice for constructing the more ephemeral parts of the world in which a Last Odyssey campaign will take place.
 
