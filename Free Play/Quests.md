@@ -1,6 +1,4 @@
----
-title: Quests
----
+# Quests
 
 Whenever characters in Last Odyssey set a significant goal for themselves or are assigned one by a third party, they should also receive a _quest._  Quests serve two purposes in campaigns.  The first is to ensure that players always have a thread they can follow in order to advance the plot.  The second is to create quantifiable story milestones they can cross that will grant them XP regardless of what else they accomplished along the way.  Every quest the GM assigns to the players will have a definite series of _stages,_ which are subtasks that, when completed, will net them 5 XP.  The completion of a quest that has more than two stages will net players an additional 10 XP.  
 
