@@ -1,6 +1,4 @@
----
-title: Puzzles
----
+# Puzzles
 
 In addition to combat and Lore, player characters can also earn XP via the completion of puzzles.  In Last Odyssey, a _puzzle_ is a task that requires a significant amount of thinking on behalf of the players to solve, as opposed to the player characters solving it within the narrative or through another of the game's mechanics.  In terms of XP, each puzzle is divided into _stages,_ which are discrete problems that the players have to solve in order to advance to the solution.  Each time the players complete a stage of a puzzle, they will earn 5 XP, both as a reward for clever thinking and also to indicate that they are on the right track.  Here are a few examples of possible puzzle stages:
 *  Persuasion.  When the player characters need to convince someone to do them a favor, this counts as a puzzle.  The solution to the puzzle will be an argument that wins them over.  GMs should think about what the character being persuaded wants, and what sort of tactics might make them more or less likely to come over to the players' side.
