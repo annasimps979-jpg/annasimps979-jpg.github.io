@@ -1,6 +1,4 @@
----
-title: Priest
----
+# Priest
 
 The Priest's core virtue is their **Compassion.**  At character creation, they gain the following traits:
 *  Proficiency in Cloth armor.
