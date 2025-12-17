@@ -1,6 +1,4 @@
----
-title: Elemental Types
----
+# Elemental Types
 
 During battle, enemies, eidolons, and many abilities all have an extra property called their _elemental type._  Setting wise, you can think of elemental type as the form in which their magic is expressed.  There are nine elemental types:
 *  Fire magic channels the power of heat and flames, and often has a reddish color.
