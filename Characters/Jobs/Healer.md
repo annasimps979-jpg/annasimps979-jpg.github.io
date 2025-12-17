@@ -1,6 +1,4 @@
----
-title: Healer
----
+# Healer
 
 Healers specialize in abilities that heal, revive, and remove status effects and debuffs.
 
