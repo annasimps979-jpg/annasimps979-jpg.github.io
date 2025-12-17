@@ -1,6 +1,4 @@
----
-title: Battle Items
----
+# Battle Items
 
 Battle items are a specific type of inventory item that is usable during combat.  Most battle items reproduce the effects of an ability such as Heal or Restore Mana, while others have more unique effects.  Each individual item, once used, is expended and disappears from the party inventory.
 
