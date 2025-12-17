@@ -1,6 +1,4 @@
----
-title: Dungeons
----
+# Dungeons
 
 A _dungeon_ is any enclosed, hostile area made up of interconnected encounters.  It could be a cave system, a castle, an insect hive, or any other space that can be subdivided into different distinct areas where each different encounter takes place.  Last Odyssey is not a game about dungeon crawling per se, but dungeons are a natural way to contain quests or even entire adventures.  In particular, the Domains of Monsters will often be dungeons.  There are no hard and fast rules for creating dungeons, but GMs should think of them as a series of rooms connected by doors.  Each door has a specific requirement for passing through it, and each room either hosts an encounter or is an empty area for them to rest.  Most dungeons should be represented by a single node on the overworld, but extremely large ones might instead contain two or more, in which case GMs should treat the paths between them the same way they treat paths in the overworld, with encounters, a navigation difficulty, and a weather table if appropriate.  In addition, many dungeons will also be divided into _levels,_ which are distinct zones that represent different interconnected areas.  In some cases, a level will be a literal level of a building, while in others levels might be adjacent systems of caves or mark the transition between different biomes.  Whenever the players enter a new level of a dungeon, they should earn 1 Discovery XP.
 
