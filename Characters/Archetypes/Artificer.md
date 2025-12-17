@@ -1,6 +1,4 @@
----
-title: Artificer
----
+# Artificer
 
 The Artificer's core virtue is their **Knowledge.**  At character creation, they gain the following traits:
 *  Proficiency in Heavy armor.
