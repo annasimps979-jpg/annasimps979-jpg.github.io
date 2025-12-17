@@ -1,6 +1,4 @@
----
-title: Campaigns
----
+# Campaigns
 
 Last Odyssey is a game designed to facilitate long-form storytelling.  Each round of play of Last Odyssey is called a session.  A _session_ of play is a 2-5 hour long period in which the players and GM tell a single story involving their characters from beginning, to middle, to end.  You can think of a session like an episode of television.  Sessions will often spotlight particular events, such as a siege, a battle, or an important part of a character's story arc.  A group of sessions with a single overarching narrative is called an _adventure._  An adventure should also have a defined beginning, middle, and end, and functions much like a season of television.  A string of adventures that serves to create an even larger overarching narrative is called a _campaign._  In Last Odyssey, the campaign is both the story that drives every other part of the narrative, and also a ladder of progression.  As characters progress through the campaign, they will also progress through each character tier, growing more powerful and gaining better equipment.  While a campaign can be as long or short as the group desires, the ideal Last Odyssey campaign takes players all the way from tier 1 to tier 10.
 
