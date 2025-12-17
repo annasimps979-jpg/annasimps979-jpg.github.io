@@ -1,6 +1,4 @@
----
-title: The Travel Round
----
+# The Travel Round
 
 Each day of travel along a path is represented by something called the _travel round._  To fully traverse a path, players must complete the full number of travel rounds involved as determined by the GM.  Each travel round represents approximately one day of travel, and is divided into three phases: the Navigation Phase, the Encounter Phase, and the Camping Phase.
 
