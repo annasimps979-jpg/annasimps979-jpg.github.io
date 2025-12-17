@@ -1,6 +1,4 @@
----
-title: Defender
----
+# Defender
 
 The Defender specializes in drawing and negating the effects of enemy attacks.
 
