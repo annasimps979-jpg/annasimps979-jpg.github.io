@@ -1,6 +1,10 @@
 # Table of Contents
 
 - **Beginner's Guide**
-  - What Is Fantasy Role Play?
-  - 
+  - [What Is Fantasy Role Play?](Beginner's Guide/What Is Facilitated Role Play?.md)
+  - What Is Last Odyssey?
+  - Getting Started
+  - Advice for Players
+  - Advice for GMs
+  - Advice for Facilitators
 -  **Characters**
