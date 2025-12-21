@@ -8,7 +8,7 @@
   - [Advice for GMs](Beginner's-Guide/Advice-for-GMs.md)
   - [Advice for Facilitators](Beginner's-Guide/Advice-for-Facilitators.md)
   - [Key Terms](Extras/Key-Terms.md)
--  **Characters**
+- **Characters**
   - [Attributes and Statistics](Characters/Attributes-and-Statistics.md)
   - [Character Creation](Characters/Character-Creation.md)
   - [Archetypes](Characters/Archetypes/README.md)
