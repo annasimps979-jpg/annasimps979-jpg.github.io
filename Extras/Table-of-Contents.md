@@ -2,9 +2,102 @@
 
 - **Beginner's Guide**
   - [What Is Fantasy Role Play?](https://annasimps979-jpg.github.io/Beginner's-Guide/What-Is-Fantasy-Role-Play?.md)
-  - What Is Last Odyssey?
-  - Getting Started
-  - Advice for Players
-  - Advice for GMs
-  - Advice for Facilitators
+  - [What Is Last Odyssey?](Beginner's-Guide/What-is-Last-Odyssey.md)
+  - [Getting Started](Beginner's-Guide/Getting-Started.md)
+  - [Advice for Players](Beginner's-Guide/Advice-for-Players.md)
+  - [Advice for GMs](Beginner's-Guide/Advice-for-GMs.md)
+  - [Advice for Facilitators](Beginner's-Guide/Advice-for-Facilitators.md)
+  - [Key Terms](Extras/Key-Terms.md)
 -  **Characters**
+  -  [Attributes and Statistics](Characters/Attributes-and-Statistics.md)
+  -  [Character Creation](Characters/Character-Creation.md)
+  -  [Archetypes](Characters/Archetypes/README.md)
+    - [Artificer](Characters/Archetypes/Artificer.md)
+    - [Commander](Characters/Archetypes/Commander.md)
+    - [Dancer](Characters/Archetypes/Dancer.md)
+    - [Harlequin](Characters/Archetypes/Harlequin.md)
+    - [Knight](Characters/Archetypes/Knight.md)
+    - [Priest](Characters/Archetypes/Priest.md)
+    - [Ranger](Characters/Archetypes/Ranger.md)
+    - [Sage](Characters/Archetypes/Sage.md)
+    - [Thief](Characters/Archetypes/Thief.md)
+  -  [Jobs](Characters/Jobs/README.md)
+    - [Caster](Characters/Jobs/Caster.md)
+    - [Defender](Characters/Jobs/Defender.md)
+    - [Healer](Characters/Jobs/Healer.md)
+    - [Saboteur](Characters/Jobs/Saboteur.md)
+    - [Striker](Characters/Jobs/Striker.md)
+    - [Support](Characters/Jobs/Support.md)
+  -  [Character Advancement](Characters/Character-Advancement.md)
+  -  [Eidolons](Characters/Eidolons.md)
+- **Combat Rules**
+  - Starting Battles
+  - The Combat Round
+  - Attacking and Defending
+  - Elemental Types
+  - Shells
+  - Buffs and Debuffs
+  - Status Effects
+  - Ending Combat
+  - Death and Injury
+- **Enemies**
+  - Encounter Creation
+  - Enemy Creation
+  - Antagonists
+    - Monsters
+    - Villains
+    - Example Antagonists
+  - Example Enemies
+    - Tier 1
+    - Tier 2
+    - Tier 3
+    - Tier 4
+    - Tier 5
+    - Tier 6
+    - Tier 7
+    - Tier 8
+    - Tier 9
+    - Tier 10
+- **Exploration Rules**
+  - Nodes and Paths
+  - The Travel Round
+  - Weather and Climate
+    - Coastal
+    - Temperate
+    - Boreal
+    - Desert
+    - Tropical
+    - Polar
+    - Climate Modifiers
+  - Hazards and Encounters
+- **Free Play**
+  - Resting
+  - Skill Challenges
+  - Investigation
+  - Abilities Outside of Combat
+  - Anima
+  - True Death
+  - Earning XP
+  - Lore
+  - Puzzles
+  - Quests
+- **GM Resources**
+  - Campaigns
+  - Dungeons
+  - Worldbuilding
+  - Settlements
+    - Villages
+    - Towns
+    - Cities
+    - Metropoli
+    - Landmarks
+- **The Economy**
+  - Equipment
+    - Weapons
+    - Armor
+    - Accessories
+  - The Party Inventory
+    - Battle Items
+    - Travel Items
+  - Followers
+  - Merchants
