@@ -5,6 +5,7 @@ Lands with wet and cool climates are represented by this type.  The months of wi
 Example Natural Hazards: a rushing stream, a treacherous bog, a fallen tree.
 
 Weather Table:
+
 |Result|Weather|
 |:-|:-|
 |1-2|Sunny|
