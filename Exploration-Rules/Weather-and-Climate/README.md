@@ -3,6 +3,7 @@
 A large part of the character of an overworld in Last Odyssey is its climate.  From a storytelling perspective, the climate of a given place contributes a great deal to making it feel memorable and distinct from other parts of the game.  Mechanically, it also determines the weather that the players will encounter as they traverse its paths.  For each different distinct climate the players encounter, there is a different corresponding _weather table._  To make a roll on the weather table, the GM should roll a 1d10.  The number shown on the die will correspond to the type of weather that the players will encounter for that day.  The exception to this is if a type of weather called a Storm took place the day before, in which case the GM should instead determine the weather based on the rules for the particular Storm instead.
 
 In order of danger, the possible weather effects are shown in the table below.
+
 |Weather|Effect|
 |:-|:-|
 |Sunny|The sky is a pleasant, clear blue, and the temperature is mild.  The players do not experience any penalties or bonuses.|
