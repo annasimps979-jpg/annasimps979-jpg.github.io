@@ -5,6 +5,7 @@ The farthest reaches of the poles and glaciers and cold regions during the winte
 Example Natural Hazards: fragile ice, a slippery slope, a deep snowbank.
 
 Weather Table:
+
 |Result|Weather|
 |:-|:-|
 |1-3|Bright|
