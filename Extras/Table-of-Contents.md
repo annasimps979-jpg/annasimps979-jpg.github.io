@@ -8,7 +8,7 @@
   - [Advice for GMs](https://annasimps979-jpg.github.io/Beginner's-Guide/Advice-for-GMs.md)
   - [Advice for Facilitators](https://annasimps979-jpg.github.io/Beginner's-Guide/Advice-for-Facilitators.md)
   - [Key Terms](https://annasimps979-jpg.github.io/Extras/Key-Terms.md)
-- **Characters**
+- [**Characters**](https://annasimps979-jpg.github.io/Characters/README.md)
   - [Attributes and Statistics](https://annasimps979-jpg.github.io/Characters/Attributes-and-Statistics.md)
   - [Character Creation](https://annasimps979-jpg.github.io/Characters/Character-Creation.md)
   - [Archetypes](https://annasimps979-jpg.github.io/Characters/Archetypes/README.md)
