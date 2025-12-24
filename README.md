@@ -30,9 +30,9 @@ Last Odyssey has a "trad" TTRPG structure, which its author refers to as FRP, or
 
 * [**Beginner's Guide:**](Beginner's-Guide/) For people new to FRP and people new to Last Odyssey.
 
-* [**Key Terms:**](.../Extras/Key-Terms) Some words you might need to know.
+* [**Key Terms:**](Extras/Key-Terms) Some words you might need to know.
 
-* [**Table of Contents:**](.../Extras/Table-of-Contents) All sections in order of necessity and complexity.
+* [**Table of Contents:**](Extras/Table-of-Contents) All sections in order of necessity and complexity.
 
 ## Acknowledgements
 
