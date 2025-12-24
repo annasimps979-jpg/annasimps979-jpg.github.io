@@ -1,7 +1,7 @@
 # Key Terms
 
 *  A _<dfn id="term-player">player</dfn>_ is a participant who controls a fixed number of characters within the setting.  In Last Odyssey, each player controls one of the story's protagonists.
-*  A _<dfn id="term-player-character">player character</dfn>,_ or PC for short, is a character controlled by one of the players.  In Last Odyssey, each player character also has a set of statistics unique to that character that determine (along with narrative context) the consequences of the actions they take during play.
+*  A _<dfn id="term-player-character">player character</dfn>,_ or <abbr title="player character">PC</abbr> for short, is a character controlled by one of the players.  In Last Odyssey, each player character also has a set of statistics unique to that character that determine (along with narrative context) the consequences of the actions they take during play.
 *  The _<dfn id="term-party">party</dfn>_ is the group of player characters, and their players.  They are, usually, the protagonists of the narrative.
 *  A _<dfn id="term-npc">non-player character</dfn>,_ or <abbr title="non-player character">NPC</abbr> for short, is any character in the narrative who is not controlled by a player.  Not all NPCs have statistics, only those who are capable of standing up to the players in a fight.
 *  The _<dfn id="term-gm">Game Master</dfn>,_ or <abbr title="game master">GM</abbr> for short, is the person or people responsible for describing the world that the PCs inhabit and the behavior of any NPCs.  In Last Odyssey, one person is designated as the GM at a time.
