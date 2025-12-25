@@ -10,3 +10,9 @@ Not every settlement or landmark in a given region needs to be counted in the ov
 *  The settlement is a place to rest on the way to somewhere more important.
 *  The settlement has employment for adventurers, or is the destination of a given quest.
 *  The settlement has Lore the players can learn by exploring it.
+
+* [Villages](Villages)
+* [Towns](Towns)
+* [Cities](Cities)
+* [Metropoli](Metropoli)
+* [Landmarks](Landmarks)
