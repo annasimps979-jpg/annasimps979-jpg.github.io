@@ -9,7 +9,7 @@ The Dancer's core virtue is their **Charm.**  At character creation, they gain t
 *  As a Support, your buff abilities affect Evasion.
 *  As a Saboteur, your debuff abilities affect Magical Accuracy.
 
-Advancements by Rank:
+## Advancements by Rank
 
 **Rank 1:** Copycat. Special. Cost: 10 MP, 1 AP.  You may immediately use one of the abilities that one of your allies used between the end of your last turn and the beginning of your current turn, counting held turns.
 
