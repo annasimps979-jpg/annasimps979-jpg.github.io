@@ -9,7 +9,7 @@ The Thief's core virtue is their **Cunning.**  At character creation, they gain 
 *  As a Support, their buff abilities will affect Physical Attack.
 *  As a Saboteur, their debuff abilities will affect Physical Defense.
 
-Advancements by Rank:
+## Advancements by Rank
 
 **Rank 1:** Steal. Melee. Cost: 1 AP.  Select an enemy and roll on their item table.  If you obtain an item from this roll, you may use it immediately without spending any AP or you may put it in your inventory if you have enough Carrying Capacity.  You may only obtain one item per enemy per battle with this ability.
 
@@ -31,7 +31,7 @@ Advancements by Rank:
 
 **Capstone:** Assassinate. Melee. Cost: 1 Anima, 2 AP.  Select an enemy and roll a 1d10.  That enemy loses a percentage of their remaining combined HP and Shell equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.
 
-Talents:
+## Talents
 
 **Striker:** Lifesteal.  When you use Steal on an enemy and roll a 4 on their item table, you drain an amount of HP from them equal to your current Physical Attack and give it to yourself.
 
