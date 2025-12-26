@@ -31,7 +31,7 @@ The Knight's core virtue is their **Discipline.**  At character creation, they r
 
 **Capstone:** Berserk Charge. Special. Cost: 1 Anima, 2 AP.  Your eidolon applies Focused to itself, and may make as many basic attacks as possible until Focused is removed.
 
-Talents:
+## Talents
 
 **Striker:** Melee.  While you are Focused, you may use physical attacks in addition to your basic attack.  Hitting an enemy with a physical attack increases your bonus damage by 1, while missing an enemy with a physical attack removes the Focused status effect.
 
