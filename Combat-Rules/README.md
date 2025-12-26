@@ -6,12 +6,12 @@ Combat is over when either side is downed, surrenders, or flees.  In Last Odysse
 
 All singular instances of combat involving the player characters in Last Odyssey are referred to as _<dfn id = "term-battle">battles</dfn>._  Each battle takes place between two opposing sides, with the player characters and their allies on one side and their enemies on the other.  Any elements of the battlefield that cannot act by themselves can still be interacted with by characters that use the Interact action.  The effects of the Interact action always trigger during the Effect Phase of the battle.  See the Actions, Turns, and Rounds section for more details.
 
-* [Starting Battles](Starting-Battles:) A guide to the process of starting a battle.
-* [The Combat Round](The-Combat-Round:) How in-game time flows during combat.
-* [Attacking and Defending](Attacking-and-Defending:) Magical attacks, physical attacks, and applying status effects.
-* [Elemental Types](Elemental-Types:) Modifiers to dealt damage.
-* [Shells](Shells:) Protection from physical attacks, and vulnerability to magic.
-* [Buffs and Debuffs](Buffs-and-Debuffs:) Modifying character statistics.
-* [Status Effects](Status-Effects:) How to represent character states.
-* [Ending Combat](Ending-Combat:) The aftermath of a resolved fight.
-* [Death and Injury](Death-and-Injury:) The consequences of losing.
+* [Starting Battles](Starting-Battles): A guide to the process of starting a battle.
+* [The Combat Round](The-Combat-Round): How in-game time flows during combat.
+* [Attacking and Defending](Attacking-and-Defending): Magical attacks, physical attacks, and applying status effects.
+* [Elemental Types](Elemental-Types): Modifiers to dealt damage.
+* [Shells](Shells): Protection from physical attacks, and vulnerability to magic.
+* [Buffs and Debuffs](Buffs-and-Debuffs): Modifying character statistics.
+* [Status Effects](Status-Effects): How to represent character states.
+* [Ending Combat](Ending-Combat): The aftermath of a resolved fight.
+* [Death and Injury](Death-and-Injury): The consequences of losing.
