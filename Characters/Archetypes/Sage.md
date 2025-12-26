@@ -9,7 +9,7 @@ The Sage's core virtue is their **Wisdom.**  At character creation, they gain th
 *  As a Support, their buff abilities will affect Magical Attack.
 *  As a Saboteur, their debuff abilities will affect Magical Defense.
 
-Advancements by Rank:
+## Advancements by Rank
 
 **Rank 1:** Grimoire. Passive.  In addition to MP, you also have a number of Spell Slots equal to your current tier. When you use a magical attack or a flex power, you may expend a single Spell Slot instead of paying the MP cost.
 
@@ -31,7 +31,7 @@ Advancements by Rank:
 
 **Capstone:** Ascension. Self. Cost: 1 Anima, 2 AP.  Your Spell Slots and MP are immediately refilled to full.  For the rest of the battle, your magical attacks only cost 5 MP.
 
-Talents:
+## Talents
 
 **Striker:** Martial Artist.  You may also expend Spell Slots in order to use physical attacks.
 
