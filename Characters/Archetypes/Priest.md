@@ -9,7 +9,7 @@ The Priest's core virtue is their **Compassion.**  At character creation, they g
 *  As a Support, their abilities will buff Magical Defense.
 *  As a Saboteur, their abilities will debuff Magical Attack.
 
-Advancements by Rank:
+## Advancements by Rank
 
 **Rank 1:** Restore MP. Ally. Cost: 5 MP, 1 AP.  You restore the MP of an ally apart from yourself by an amount equal to your Magical Attack.
 
@@ -31,7 +31,7 @@ Advancements by Rank:
 
 **Capstone:** Divine Intervention. Multi. Cost: 1 Anima, 2 AP.  Your eidolon restores your and your allies' MP back to full and reduces the MP of all of your enemies by half of its maximum value.
 
-Talents:
+## Talents
 
 **Striker:** Bludgeon.  You can choose to deal damage to enemies' MP instead of their HP with your physical attacks when they are Shellbroken.
 
