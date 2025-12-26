@@ -9,7 +9,7 @@ The Knight's core virtue is their **Discipline.**  At character creation, they r
 *  As a Support, their buff abilities will affect Physical Defense.
 *  As a Saboteur, their debuff abilities will affect Physical Attack.
 
-Advancements by Rank:
+## Advancements by Rank
 
 **Rank 1:** Focus. Self. Apply the Focused status effect to yourself.  While you are Focused, you may only use your basic attack.  You gain a flat +2 bonus to the damage you deal when you hit an enemy with a physical or magical attack.  Every time you hit an enemy, this bonus increases by 1.  When you miss, the Focused status effect goes away.
 
