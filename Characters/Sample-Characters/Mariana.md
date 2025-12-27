@@ -15,7 +15,7 @@
 ### Attributes
 
 |Body|Mind|Spirit|
-|:-|:-|
+|:-|:-|:-|
 |1|2|3|
 
 
