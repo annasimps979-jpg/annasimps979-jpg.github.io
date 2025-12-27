@@ -8,3 +8,4 @@ In Last Odyssey, characters are like JRPG heroes, with strong personalities and 
 * [Attributes and Statistics:](../Characters/Attributes-and-Statistics) The mechanical heart of every character.
 * [Eidolons:](../Characters/Eidolons) Summoned creatures to use during battle.
 * [Character Advancement:](../Characters/Character-Advancement) How characters grow stronger.
+* [Character Sheet:](../Characters/Last-Odyssey-Fillable-Character-Sheet.pdf) Form-fillable character sheet.  Download it as a pdf and print to edit manually.
