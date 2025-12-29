@@ -10,6 +10,7 @@ While they are a Support, characters gain the following bonuses to their statist
 ## Abilities by Rank
 
 |Rank|Name|Type|Cost|Description|
+|:-|:-|:-|:-|:-|
 |1|Buff|Ally|5 MP, 1 AP|Move the statistic associated with your archetype a single step up the Bonus Tracker for the selected target.|
 |2|Shell|Ally|7 MP, 1 AP|Apply an amount of Shell equal to your Magical Attack of the type of your base elemental type to a single ally.  If they already have a Shell of a different elemental type, its elemental type changes to the elemental type of this ability and increases by the same amount.|
 |3|Protect|Ally|9 MP, 1 AP|Apply the Protected status effect to a single target, which goes away at the beginning of your next turn.  While a character is Protected, they are immune to receiving damage or status effects of your base elemental type.  Characters can be Protected from more than one elemental type at the same time.|
