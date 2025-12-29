@@ -11,25 +11,45 @@ The Priest's core virtue is their **Compassion.**  At character creation, they g
 
 ## Advancements by Rank
 
-**Rank 1:** Restore MP. Ally. Cost: 5 MP, 1 AP.  You restore the MP of an ally apart from yourself by an amount equal to your Magical Attack.
+**Rank 1:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Restore MP|Ally|5 MP, 1 AP|You restore the MP of an ally apart from yourself by an amount equal to your Magical Attack.|
 
 **Rank 2:** You gain +1 Magical Defense.
 
-**Rank 3:** Prayer. Passive.  During the Effect Phase of every round of battle, you and your allies regain 1 MP.  If you are downed during the Effect Phase, this effect does not apply.
+**Rank 3:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Prayer|Passive|N/A|During the Effect Phase of every round of battle, you and your allies regain 1 MP.  If you are downed during the Effect Phase, this effect does not apply.|
 
 **Rank 4:** You gain +1 Magical Defense.
 
-**Rank 5:** Multirestore. Multi. Cost: 20 MP, 1 AP.  You may use any of the abilities that any of your enemies have used between the end of your last turn and the beginning of your current turn, counting held turns.
+**Rank 5:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Multirestore|Multi|20 MP, 1 AP|You may use any of the abilities that any of your enemies have used between the end of your last turn and the beginning of your current turn, counting held turns.|
 
 **Rank 6:** You gain +1 Magical Defense.
 
-**Rank 7:** Blessing. Passive.  You and your allies regain 3 MP per round instead of 1 MP due to the Prayer ability.
+**Rank 7:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Blessing|Passive|N/A|You and your allies regain 3 MP per round instead of 1 MP due to the Prayer ability.|
 
 **Rank 8:** You gain +1 Magical Defense.
 
 **Rank 9:** You gain +1 Magical Defense.
 
-**Capstone:** Divine Intervention. Multi. Cost: 1 Anima, 2 AP.  Your eidolon restores your and your allies' MP back to full and reduces the MP of all of your enemies by half of its maximum value.
+**Capstone:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Divine Intervention|Multi|1 Anima, 2 AP|Your eidolon restores your and your allies' MP back to full and reduces the MP of all of your enemies by half of its maximum value.|
 
 ## Talents
 
