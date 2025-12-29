@@ -11,25 +11,45 @@ The Harlequin's core virtue is their **Daring.**  At character creation, they ga
 
 ## Advancements by Rank
 
-**Rank 1:** Gamble. Ranged. Cost: 1 AP.  Wager up to 5 times your tier HP, MP and Shell against an enemy, who must either match your wager or wager the rest of what they have.  Then, both you and your target roll a 1d10.  The character with the lower roll loses what they wagered.  If the roll is a tie, nothing happens.
+**Rank 1:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Gamble|Ranged|1 AP|Wager up to 5 times your tier HP, MP and Shell against an enemy, who must either match your wager or wager the rest of what they have.  Then, both you and your target roll a 1d10.  The character with the lower roll loses what they wagered.  If the roll is a tie, nothing happens.|
 
 **Rank 2:** You gain +1 Status Accuracy.
 
-**Rank 3:** Jubilee. Special. Cost: 2 AP.  At the end of the round, the initiative order is called again.
+**Rank 3:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Jubilee|Special|2 AP|At the end of the round, the initiative order is called again.|
 
 **Rank 4:** You gain +1 Status Accuracy.
 
-**Rank 5:** Double Or Nothing. Passive.  When you lose with the Gamble ability, you may double your wager against the enemy in exchange for rerolling.  You may double down in this manner until you can no longer bet enough combined HP, MP and Shell to keep up with the bet, at which point you must bet the rest of what you have.
+**Rank 5:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Double Or Nothing|Passive|N/A|When you lose with the Gamble ability, you may double your wager against the enemy in exchange for rerolling.  You may double down in this manner until you can no longer bet enough combined HP, MP and Shell to keep up with the bet, at which point you must bet the rest of what you have.|
 
 **Rank 6:** You gain +1 Status Accuracy.
 
-**Rank 7:** Roulette Wheel. Passive.  When you call initiative, you may choose to call that the result will be even or odd instead of a specific number.  If your call is correct, your initiative counts as 1.5x its value, rounded down, and you always win on a tie.  If your call is incorrect, your initiative counts as 0.75x its value, and you always lose on a tie.
+**Rank 7:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Roulette Wheel|Passive|N/A|When you call initiative, you may choose to call that the result will be even or odd instead of a specific number.  If your call is correct, your initiative counts as 1.5x its value, rounded down, and you always win on a tie.  If your call is incorrect, your initiative counts as 0.75x its value, and you always lose on a tie.|
 
 **Rank 8:** You gain +1 Status Accuracy.
 
 **Rank 9:** You gain +1 Status Accuracy.
 
-**Capstone:** Spin the Revolver. Ranged.  Choose an enemy and roll a 1d6.  If the result is a 6, the enemy takes damage equal to quadruple your eidolon's Magical Attack.  If not, roll again.  If the result is a 6, then your eidolon takes damage equal to quadruple its Magical Attack.  Keep going back and forth with the die like this until either your eidolon or the enemy have taken damage.
+**Capstone:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Spin the Revolver|Ranged|1 Anima, 2 AP|Choose an enemy and roll a 1d6.  If the result is a 6, the enemy takes damage equal to quadruple your eidolon's Magical Attack.  If not, roll again.  If the result is a 6, then your eidolon takes damage equal to quadruple its Magical Attack.  Keep going back and forth with the die like this until either your eidolon or the enemy have taken damage.
 
 ## Talents
 
