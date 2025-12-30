@@ -39,7 +39,7 @@ The Knight's core virtue is their **Discipline.**  At character creation, they r
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Enrage|Passive|Once per round, if you miss an attack while Focused, you may choose to reset your bonus damage back to 2 instead of losing the Focused status effect.|
+|Enrage|Passive|N/A|Once per round, if you miss an attack while Focused, you may choose to reset your bonus damage back to 2 instead of losing the Focused status effect.|
 
 **Rank 8:** You gain +1 Physical Defense.
 
