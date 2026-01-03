@@ -1,9 +1,8 @@
 # Example Enemies
 
-There are 100 example enemies in this folder, plus Antagonists of all tiers.  All of them were generated using the Enemy Creation rules.  Use them as you like.
+This folder contains 100 example enemies organized into 2 groups of 5 per tier.  Each group has a theme that relates to a portion of example lore that ties them together, and all of them were built with the [Enemy Creation](../Enemies/Enemy-Creation) tools.
 
-Enemies by Tier:
-
+## Enemies by Tier
 * [Tier 1](Tier-1-Enemies)
 * [Tier 2](Tier-2-Enemies)
 * [Tier 3](Tier-3-Enemies)
