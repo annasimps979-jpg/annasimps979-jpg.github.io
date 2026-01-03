@@ -7,9 +7,13 @@ In combat, police will swap between rounds where they debuff and rounds where th
 
 Cop (Normal 1, Human, Colorless)
 
-|HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|10|5|4|10|2|4|2|2|1|1|2|4|2|2|
+|HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|10|5|4|10|2|4|2|2|1|
+
+|Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
+|:-|:-|:-|:-|:-|
+|1|2|4|2|2|
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
