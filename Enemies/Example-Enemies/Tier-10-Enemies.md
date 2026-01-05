@@ -7,6 +7,8 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 
 ### Drakeling (Normal 10, Dragon, Earth)
 
+**Statistics**
+
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |42|43|22|75|3|10|10|7|5|
@@ -15,15 +17,25 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 |:-|:-|:-|:-|:-|
 |7|7|10|14|14|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Slash|Melee|1 AP|Makes a basic physical attack.|
 |Thrust|Melee|1 AP, 3 MP|Makes a physical attack that deals colorless physical damage that is multiplied by 1.5 in addition to other modifiers.|
 |Strength in Numbers|Passive|N/A|During the Effect Phase, the Drakeling's Physical Defense and Magical Defense are buffed by a number of steps on the Bonus Tracker equal to the number of other Drakelings still not downed on the battlefield.|
 
-Item Table: Expert Buff Physical Defense/Magical Defense, Expert Physical Colorless Damage, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Expert Buff Physical Defense/Magical Defense|
+|2|Expert Physical Colorless Damage|
+|3|1000 cr|
 
 ### Attendant (Normal 10, Dragon, Earth)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -33,15 +45,25 @@ Item Table: Expert Buff Physical Defense/Magical Defense, Expert Physical Colorl
 |:-|:-|:-|:-|:-|
 |7|8|6|14|14|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Pike|Melee|1 AP|Makes a basic physical attack.|
 |Treat Wound|Ally|1 AP, 11 MP|Heals a single ally by an amount of HP equal to twice the Attendant's Magical Attack.|
 |Treat Disease|Ally|1 AP, 12 MP|Removes all status effects from a single target.|
 
-Item Table: Treatment, Expert Restore HP, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Treatment|
+|2|Expert Restore HP|
+|3|1000 cr|
 
 ### Scholar (Normal 10, Dragon, Earth)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -51,15 +73,25 @@ Item Table: Treatment, Expert Restore HP, 1000 cr.
 |:-|:-|:-|:-|:-|
 |7|5|6|14|14|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Quarterstaff|Melee|1 AP|Makes a basic physical attack.|
 |Gravitational Collapse|Ranged|1 AP, 10 MP|Makes a magical attack that deals magical earth damage on a hit.  Every time this attack breaks an enemy's Shell, the Scholar is able to make another magical attack against another target for free.|
 |Read the Bones|Self|1 AP, 15 MP|The next attack the Scholar makes cannot miss.|
 
-Item Table: Counterspell, Multiscan, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Counterspell|
+|2|Multiscan|
+|3|1000 cr|
 
 ### Warrior (Elite 10, Dragon, Thunder)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -69,6 +101,8 @@ Item Table: Counterspell, Multiscan, 1000 cr.
 |:-|:-|:-|:-|:-|
 |5|11|24|10|10|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bite|Melee|1 AP|Makes a basic physical attack.|
@@ -77,9 +111,17 @@ Item Table: Counterspell, Multiscan, 1000 cr.
 |Basilisk|Multi|1 AP, 18 MP|Uses a status-inflicting ability on all of the Warrior's enemies that inflicts Petrified on a hit.|
 |Dragon Soul|Passive|N/A|The Warrior cannot be downed by any attack that deals a total damage of less than 20.|
 
-Item Table: Expert Inflict Petrify, Multitaunt, 5000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Expert Inflict Petrify|
+|2|Multitaunt|
+|3|5000 cr|
 
 ### Oracle (Elite 10, Dragon, Earth)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -89,6 +131,8 @@ Item Table: Expert Inflict Petrify, Multitaunt, 5000 cr.
 |:-|:-|:-|:-|:-|
 |9|8|10|18|18|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Lodestone|Multi|1 AP, 13 MP|Makes a magical attack against all of the Oracle's enemies that deals magical earth damage on a hit.|
@@ -97,7 +141,13 @@ Item Table: Expert Inflict Petrify, Multitaunt, 5000 cr.
 |Manipulate Fate|Multi|1 AP, 30 MP|Debuffs the Physical, Magical, and Status Accuracy of all of the Oracle's enemies.|
 |Reset Timeline|Special|2 AP|The Oracle uses the Harlequin's Jubilee ability.|
 
-Item: Expert Restore MP (Multi), Raise Dead, 5000 cr.
+**Item Table**
+
+|Result|Item|
+|:-|:-|
+|1|Expert Restore MP (Multi)|
+|2|Raise Dead|
+|3|5000 cr|
 
 ## Magi
 Academic magic-users are just as unpredictable, cruel, and violent as any monster, with the added bonus that they are nearly as intelligent as normal human beings.
@@ -106,6 +156,8 @@ In combat, magi tend to know everything about their opponents, and will play as 
 
 ### White Mage (Normal 10, Human, Light)
 
+**Statistics**
+
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |16|49|22|95|3|6|18|3|9|
@@ -113,6 +165,8 @@ In combat, magi tend to know everything about their opponents, and will play as 
 |Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
 |:-|:-|:-|:-|:-|
 |9|3|6|18|18|
+
+**Abilities**
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
@@ -120,9 +174,17 @@ In combat, magi tend to know everything about their opponents, and will play as 
 |Cure Spell|Multi|1 AP, 18 MP|Removes all status effects and debuffs from the White Mage and their allies.|
 |Resurrection|Multi|1 AP, 30 MP|Revives all of the White Mage's downed allies back to full HP but no Shell.|
 
-Item Table: Expert Restore HP, Expert Restore MP, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Expert Restore HP|
+|2|Expert Restore MP|
+|3|1000 cr|
 
 ### Black Mage (Normal 10, Human, Shadow)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -132,15 +194,25 @@ Item Table: Expert Restore HP, Expert Restore MP, 1000 cr.
 |:-|:-|:-|:-|:-|
 |9|3|6|18|18|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Fire Missile|Ranged|1 AP, 9 MP|Makes a magical attack against a single target that deals magical fire damage on a hit that is multiplied by 2 in addition to other modifiers.|
 |Water Missile|Ranged|1 AP, 9 MP|Makes a magical attack against a single target that deals magical water damage on a hit that is multiplied by 2 in addition to other modifiers.|
 |Earth Missile|Ranged|1 AP, 9 MP|Makes a magical attack against a single target that deals magical earth damage on a hit that is multiplied by 2 in addition to other modifiers.|
 
-Item Table: Expert Magical Colorless Damage, Expert Restore MP, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Expert Magical Colorless Damage|
+|2|Expert Restore MP|
+|3|1000 cr|
 
 ### Homonculus (Normal 10, Human, Colorless)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -150,15 +222,25 @@ Item Table: Expert Magical Colorless Damage, Expert Restore MP, 1000 cr.
 |:-|:-|:-|:-|:-|
 |6|6|12|12|12|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Armblade|Melee|1 AP|Makes a basic physical attack.|
 |Puppets|Passive|N/A|All of the Homonculi on the battlefield share a common pool of AP equal to the sum of the AP each one has.|
 |Uncanny Movement|Passive|N/A|When the Homonculus makes a physical attack, the GM should roll the associated 1d10 twice and choose the result they take.|
 
-Item Table: Treatment, Expert Restore MP, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Treatment|
+|2|Expert Restore MP|
+|3|1000 cr|
 
 ### Blue Mage (Elite 10, Human, Water)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -168,6 +250,8 @@ Item Table: Treatment, Expert Restore MP, 1000 cr.
 |:-|:-|:-|:-|:-|
 |13|5|10|26|26|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Magic Bullet|Ranged|1 AP, 3 MP|Makes a magical attack against a single target that deals magical colorless damage on a hit.|
@@ -176,9 +260,17 @@ Item Table: Treatment, Expert Restore MP, 1000 cr.
 |Empower|Ally|1 AP, 35 MP|Buffs a single target's Magical Attack and Magical Defense by three steps on the Bonus Tracker.|
 |Quicken|Ally|1 AP, 35 MP.  Buffs a single target's Evasion and Resistance by three steps on the Bonus Tracker.|
 
-Item Table: Expert Buff Physical Attack, Expert Buff Magical Attack, 5000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Expert Buff Physical Attack|
+|2|Expert Buff Magical Attack|
+|3|5000 cr|
 
 ### Red Mage (Elite 10, Human, Fire)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -188,6 +280,8 @@ Item Table: Expert Buff Physical Attack, Expert Buff Magical Attack, 5000 cr.
 |:-|:-|:-|:-|:-|
 |12|5|10|24|24|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Magic Bullet|Ranged|1 AP, 3 MP|Makes a magical attack against a single target that deals magical colorless damage on a hit.|
@@ -196,4 +290,10 @@ Item Table: Expert Buff Physical Attack, Expert Buff Magical Attack, 5000 cr.
 |Disempower|Ranged|1 AP, 35 MP|Debuffs a single target's Magical Attack and Magical Defense by three steps on the Bonus Tracker.|
 |Quicken|Ranged|1 AP, 35 MP|Debuffs a single target's Evasion and Resistance by three steps on the Bonus Tracker.|
 
-Item Table: Expert Debuff Physical Defense, Expert Debuff Magical Defense, 5000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Expert Debuff Physical Defense|
+|2|Expert Debuff Magical Defense|
+|3|5000 cr|
