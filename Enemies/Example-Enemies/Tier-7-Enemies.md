@@ -7,6 +7,8 @@ In combat, Orks want to strike terror.  They do this through doing their best to
 
 ### Fodder (Normal 7, Demon, Earth)
 
+**Statistics**
+
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |51|19|14|55|3|12|8|7|4|
@@ -15,15 +17,25 @@ In combat, Orks want to strike terror.  They do this through doing their best to
 |:-|:-|:-|:-|:-|
 |1|7|12|2|2|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Axe|Melee|1 AP|Makes a basic physical attack.|
 |Two-Handed Chop|Melee|1 AP, 5 MP|Makes a physical attack that, on a hit, does colorless physical damage that is multiplied by 2 in addition to other modifiers.|
 |Disposable|Passive|N/A|Fodder will always take damage for any non-Fodder enemies on the battlefield.  If there are multiple Fodder enemies on the battlefield, the GM may choose which one takes the damage.|
 
-Item Table: Guard, Use Power Attack, 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Guard|
+|2|Use Power Attack|
+|3|500 cr|
 
 ### Goblin (Normal 7, Demon, Earth)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -33,15 +45,25 @@ Item Table: Guard, Use Power Attack, 500 cr.
 |:-|:-|:-|:-|:-|
 |7|2|10|14|14|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Sharp Thingy|Melee|1 AP|Makes a basic physical attack.|
 |Boom|Ranged|1 AP, 9 MP|Makes a magical attack against a single enemy that, on a hit, deals magical earth damage that is multiplied by 2 in addition to other multipliers.|
 |Tripwire|Special|1 AP, 5 MP|The next one of the Goblin's enemies to move will automatically gain the Petrified status unless they are immune to it.  Only one Tripwire can be present on the battlefield at a time.  If the Goblin is downed, the Tripwire leaves.|
 
-Item Table: Rare Inflict Petrify, Use Elemental Burst (Earth), 500 cr.
+**Item Table**
+
+|Result|Item|
+|:-|:-|
+|1|Rare Inflict Petrify|
+|2|Use Elemental Burst (Earth)|
+|3|500 cr|
 
 ### Berserker (Normal 7, Demon, Earth)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -51,15 +73,25 @@ Item Table: Rare Inflict Petrify, Use Elemental Burst (Earth), 500 cr.
 |:-|:-|:-|:-|:-|
 |3|4|18|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Chop|Melee|1 AP|Makes a basic physical attack.|
 |Fury|Self|1 AP|Works the same way as the Knight's Focus ability when the Knight has the Melee passive ability active.|
 |Cleave|Multi|1 AP, 7 MP|The Berserker makes a melee physical attack against every character in the front row.  On a hit, this attack does colorless physical damage.|
 
-Item Table: Slow, Cleave, 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Slow|
+|2|Cleave|
+|3|500 cr|
 
 ### Cave Troll (Elite 7, Demon, Earth)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -69,6 +101,8 @@ Item Table: Slow, Cleave, 500 cr.
 |:-|:-|:-|:-|:-|
 |3|10|14|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Scratch|Melee|1 AP|Makes a basic physical attack.|
@@ -77,9 +111,17 @@ Item Table: Slow, Cleave, 500 cr.
 |Landslide|Multi|1 AP, 15 MP|Makes a physical attack against every enemy on the battlefield that deals physical earth damage on a hit.|
 |Adaptation|Passive|N/A|When the Cave Troll is hit by a physical attack, their Physical Defense is buffed by one step on the Bonus Tracker and their Magical Defense is debuffed by one step on the Bonus Tracker.  When the Cave Troll is hit by a magical attack, the reverse happens.|
 
-Item Table: Rare Buff Physical Defense, Rare Physical Earth Damage (Multi), 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Buff Physical Defense|
+|2|Rare Physical Earth Damage (Multi)|
+|3|1000 cr|
 
 ### Bleak Lord (Elite 7, Demon, Shadow)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -89,6 +131,8 @@ Item Table: Rare Buff Physical Defense, Rare Physical Earth Damage (Multi), 1000
 |:-|:-|:-|:-|:-|
 |5|7|18|10|10|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Whip|Melee|1 AP|Makes a basic physical attack.|
@@ -97,7 +141,13 @@ Item Table: Rare Buff Physical Defense, Rare Physical Earth Damage (Multi), 1000
 |Compel|Ranged|1 AP, 7 MP|Uses a status-inflicting ability that, on a hit, allows the Bleak Lord to give one of their AP to the target and force them to use any action they wish.|
 |Master of the Violent and Cruel|Passive|N/A|All of the Bleak Lord's allies take double damage and do double damage from all sources.|
 
-Item Table: Rare Inflict Silence (Multi), Orders, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Inflict Silence (Multi)|
+|2|Orders|
+|3|1000 cr|
 
 ## Devils
 The denizens of Hell are many, but they all have one thing in common: their irrepressible thirst for violence.
@@ -105,6 +155,8 @@ The denizens of Hell are many, but they all have one thing in common: their irre
 In combat, devils are clever and efficient.  While they are cruel, it is not to the point of impeding their ability to win.  They will use tactics on par with the player characters.
 
 ### Imp (Normal 7, Demon, Fire)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -114,15 +166,25 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |:-|:-|:-|:-|:-|
 |8|1|8|16|16|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Nibble|Melee|1 AP|Makes a basic physical attack.|
 |Cigar Toss|Ranged|1 AP, 7 MP|Uses a status-inflicting ability that, on a hit, inflicts the Burned status on a single target.|
 |Hat Trick|Ranged|1 AP, 10 MP|The Imp makes a magical attack against a single opponent that allows them to steal an item from the party inventory.  They may then use this item with the Use Item action.|
 
-Item Table: Rare Inflict Burned, Taunt, 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Inflict Burned|
+|2|Taunt|
+|3|500 cr|
 
 ### Succubus (Normal 7, Demon, Light)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -132,15 +194,25 @@ Item Table: Rare Inflict Burned, Taunt, 500 cr.
 |:-|:-|:-|:-|:-|
 |6|2|6|12|12|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Crack Open|Ranged|1 AP, 8 MP|Makes a magical attack against a single target that deals magical light damage on a hit.  In addition, each hit allows the Succubus to cast this spell for free against one additional target.|
 |Charm|Ranged|1 AP, 7 MP|Uses a status-inflicting ability on a single target that inflicts the Charmed status on a hit.  During the Effect Phase, the GM should roll a d10.  If the roll is above a 7, any Charmed characters on the battlefield will take an extra action of the GM's choice.|
 |Soul Eater|Special|1 AP|The Succubus makes a magical attack against a Charmed character that, on a hit, does magical colorless damage.  The Succubus then regains an amount of Shell equal to the amount of damage done to the target.|
 
-Item Table: Hide, Rare Restore HP (Multi), 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Hide|
+|2|Rare Restore HP (Multi)|
+|3|500 cr|
 
 ### Cambion (Normal 7, Demon, Shadow)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -150,15 +222,25 @@ Item Table: Hide, Rare Restore HP (Multi), 500 cr.
 |:-|:-|:-|:-|:-|
 |5|4|8|10|10|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Stab|Melee|1 AP|Makes a basic physical attack.|
 |Fiery Cleave|Multi|1 AP, 10 MP|Makes a physical attack against every enemy in the front row that does physical fire damage to every character it hits.|
 |Contract|Special|1 AP|The Cambion selects an enemy for a contract.  If they agree, the Cambion will expend 11 MP and the enemy will be healed for 20 HP.  If the Cambion is still standing during the Effect Phase of the following round, that same enemy will take 40 damage.|
 
-Item Table: Elemental Cleave (Fire), Rare Fire Magical Damage (Multi), 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|Elemental Cleave (Fire)|
+|Rare Fire Magical Damage (Multi)|
+|500 cr|
 
 ### Torturer (Elite 7, Demon, Fire)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -168,6 +250,8 @@ Item Table: Elemental Cleave (Fire), Rare Fire Magical Damage (Multi), 500 cr.
 |:-|:-|:-|:-|:-|
 |8|5|10|16|16|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Sickle|Melee|1 AP|Makes a basic physical attack.|
@@ -176,9 +260,17 @@ Item Table: Elemental Cleave (Fire), Rare Fire Magical Damage (Multi), 500 cr.
 |Wheel of Pain|Special|1 AP, 5 MP|Roll a 1d10 and consult the Random Element Table.  The Test Subject takes magical damage of the resulting elemental type that does base damage as though they had been hit by one of the Torturer's attacks.|
 |Wheel of Misfortune|Special|1 AP, 7 MP.  The Torturer's Test subject receives a random extra status effect that cannot be resisted, not even by immunity.  Roll a 1d10 and consult the Torturer's Elemental Table to see which status effect they receive.  Colorless corresponds to the subject not receiving any damage.|
 
-Item Table: Rare Magical Damage (Random), Rare Physical Damage (Random), 1000 cr.
+**Item Table**
+
+|Result|Item|
+|:-|:-|
+|1|Rare Magical Damage (Random)|
+|2|Rare Physical Damage (Random)|
+|3|1000 cr|
 
 ### Balrog (Elite 7, Demon, Fire)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -188,6 +280,8 @@ Item Table: Rare Magical Damage (Random), Rare Physical Damage (Random), 1000 cr
 |:-|:-|:-|:-|:-|
 |3|9|14|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Tail Strike|Melee|1 AP|Makes a basic physical attack.|
@@ -196,4 +290,10 @@ Item Table: Rare Magical Damage (Random), Rare Physical Damage (Random), 1000 cr
 |Heat Exhaustion|Multi|1 AP, 28 MP|Inflicts Slowed on all of the Balrog's enemies.|
 |Being of Fire|Passive|N/A|Any character that hits the Balrog with a physical attack takes 10 base physical fire damage in retaliation.|
 
-Item Table: Rare Restore Mana (Multi), Multislow, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Restore Mana (Multi)|
+|2|Multislow|
+|3|1000 cr|
