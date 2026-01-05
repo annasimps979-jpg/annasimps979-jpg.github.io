@@ -7,6 +7,8 @@ Invaders don't follow too many rules in combat, except for one: do whatever the 
 
 ### Grub (Normal 9, Horror, Colorless)
 
+**Statistics**
+
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |50|35|17|75|3|10|12|8|6|
@@ -15,15 +17,25 @@ Invaders don't follow too many rules in combat, except for one: do whatever the 
 |:-|:-|:-|:-|:-|
 |3|8|10|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bite|Melee|1 AP|Makes a basic physical attack.|
 |Acid Spit|Ranged|1 AP, 5 MP|Makes a magical attack that deals magical wood damage on a hit and also reduces the enemy's Physical Defense by one on the Bonus Tracker.|
 |Accelerated Growth|Passive|N/A|During each Effect Phase, the Grub's Magical Defense, Physical Defense, and Resistance are buffed by one on the Bonus Tracker.|
 
-Item Table: Expert Debuff Physical Defense, Expert Restore HP, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Expert Debuff Physical Defense|
+|2|Expert Restore HP|
+|3|1000 cr|
 
 ### Pupa (Normal 9, Human, Colorless)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -33,15 +45,25 @@ Item Table: Expert Debuff Physical Defense, Expert Restore HP, 1000 cr.
 |:-|:-|:-|:-|:-|
 |5|6|4|10|10|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Standard Missile|Ranged|1 AP, 7 MP|Makes a magical attack against a single target that deals magical colorless damage on a hit that is multiplied by 2 in addition to other multipliers.|
 |Standard Shell|Ally|1 AP, 7 MP|Increases or restores the Shell of the Pupil or one of its allies by 18 points.|
 |Implant Eggs|Special|1 AP|If another character on the battlefield is already downed, the Pupil can use this ability on them.  During the next Effect Phase, a Grub will spawn on the front line of the Pupil's side of the battle.|
 
-Item Table: Implant Eggs, Expert Restore MP, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Implant Eggs|
+|2|Expert Restore MP|
+|3|1000 cr|
 
 ### Infiltrator (Normal 9, Horror, Colorless)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -51,15 +73,25 @@ Item Table: Implant Eggs, Expert Restore MP, 1000 cr.
 |:-|:-|:-|:-|:-|
 |8|4|14|16|16|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Stab|Melee|1 AP|Makes a basic physical attack.|
 |Cloaking Field|Self|1 AP, 10 MP|This ability inflicts the Cloaked status on the Infiltrator, which works the same as the Thief's Hide ability.|
 |Implant|Melee|1 AP, 5 MP|Uses a status-inflicting ability that, on a hit, deals physical colorless damage and inflicts the Athena status.  During the next Effect Phase, characters with the Athena status will have their Magical and Status Accuracies debuffed by three steps on the Bonus Tracker.  A Grub will then spawn in the front row on the Infiltrator's side and the Athena effect will be removed from the character.|
 
-Item Table: Hide, Implant, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Hide|
+|2|Implant|
+|3|1000 cr|
 
 ### Swarm (Elite 9, Horror, Colorless)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -69,6 +101,8 @@ Item Table: Hide, Implant, 1000 cr.
 |:-|:-|:-|:-|:-|
 |10|5|18|20|20|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Biters|Melee|1 AP|Makes two consecutive basic physical attacks.|
@@ -77,9 +111,17 @@ Item Table: Hide, Implant, 1000 cr.
 |Infernal Buzzing|Ranged|1 AP, 10 MP|Reduces the Magical Accuracy of a single target by three steps on the Bonus Tracker.|
 |Agglomerated|Passive|N/A|The Swarm is immune to magical attacks, physical attacks, and status-inflicting abilities that only target a single character.|
 
-Item Table: Expert Inflict Fatigue (Multi), Expert Debuff Physical Accuracy, 5000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Expert Inflict Fatigue (Multi)|
+|2|Expert Debuff Physical Accuracy|
+|3|5000 cr|
 
 ### Illithid (Elite 9, Horror, Colorless)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -89,6 +131,8 @@ Item Table: Expert Inflict Fatigue (Multi), Expert Debuff Physical Accuracy, 500
 |:-|:-|:-|:-|:-|
 |10|5|10|20|20|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Mindstab|Ranged|1 AP, 10 MP|Makes a magical attack against a single target that deals magical colorless damage on a hit and also reduces the target's Magical Attack by one step on the Bonus Tracker.|
@@ -97,7 +141,13 @@ Item Table: Expert Inflict Fatigue (Multi), Expert Debuff Physical Accuracy, 500
 |Puppeteer|Ranged|1 AP, 10 MP|Uses a status-inflicting ability on a single target that, on a hit, allows them to force that enemy to take 2 actions of the GM's choice.|
 |Brain Eater|Melee|1 AP, 3 MP|The Illithid makes a physical attack that, on a hit, deals physical colorless damage.  The Illithid then immediately regains an amount of HP equal to the damage it dealt with this attack.|
 
-Item Table: Brain Eater, Expert Magical Colorless Damage, 5000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Brain Eater|
+|2|Expert Magical Colorless Damage|
+|3|5000 cr|
 
 ## Robots
 Advanced artificial minds often enact their will via numerous servitors, some of which are also equipped for battle.
@@ -105,6 +155,8 @@ Advanced artificial minds often enact their will via numerous servitors, some of
 In battle, robots are part of a single hive mind.  Likewise, they should behave as though they are being coordinated by an intelligent mind that sees them merely as pawns to be sacrificed.
 
 ### Eye (Normal 9, Construct, Colorless)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -114,15 +166,25 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |:-|:-|:-|:-|:-|
 |7|4|6|14|14|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Laser|Melee|1 AP|Makes a basic physical attack.|
 |Database|Multi|1 AP, 10 MP|Uses the Artificer's Multiscan on all of the Eye's enemies.  The next magical attack, status effect, or physical attack dealt to them ignores any of their resistances or immunities to damage or status effects, but not their weaknesses.|
 |Orbital Strike|Multi|1 AP, 15 MP|Makes a magical attack against all of the Eye's enemies that deals magical metal damage on a hit.|
 
-Item Table: Multiscan, Expert Magical Metal Damage, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Multiscan|
+|2|Expert Magical Metal Damage|
+|3|1000 cr|
 
 ### Trooper (Normal 9, Construct, Colorless)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -132,15 +194,25 @@ Item Table: Multiscan, Expert Magical Metal Damage, 1000 cr.
 |:-|:-|:-|:-|:-|
 |4|6|16|8|8|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Shot|Melee|1 AP|Makes a basic physical attack.|
 |Tag|Multi|1 AP, 12 MP|Reduces the Evasion of all of the Trooper's enemies by one level on the Bonus Tracker.|
 |Automatic Fire|Passive|N/A|The Trooper may make one more basic attack per spent AP per subsequent turn it has used a basic attack during.|
 
-Item Table: Expert Magical Physical Damage, Expert Debuff Evasion, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Expert Magical Physical Damage|
+|2|Expert Debuff Evasion|
+|3|1000 cr|
 
 ### Engineer (Normal 9, Human, Thunder)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -150,15 +222,25 @@ Item Table: Expert Magical Physical Damage, Expert Debuff Evasion, 1000 cr.
 |:-|:-|:-|:-|:-|
 |6|6|6|12|12|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Mech-Arm|Melee|1 AP|Makes a basic physical attack.|
 |Jury-Rig|Special|1 AP, 11 MP|The Engineer can transfer up to a total HP, Shell, and MP from one of their allies to another equal to its Magical Attack, so long as they are Construct type characters.|
 |Repairs|Multi|1 AP, 18 MP|Removes all of the status effects and debuffs from the Engineer and all of their allies.|
 
-Item Table: Treatment, Expert Restore MP, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Treatment|
+|2|Expert Restore MP|
+|3|1000 cr|
 
 ### Walker (Elite 9, Construct, Earth)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -168,6 +250,8 @@ Item Table: Treatment, Expert Restore MP, 1000 cr.
 |:-|:-|:-|:-|:-|
 |5|12|18|10|10|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Turret|Melee|1 AP|Makes a basic physical attack.|
@@ -176,9 +260,17 @@ Item Table: Treatment, Expert Restore MP, 1000 cr.
 |Salvageable|Passive|N/A|When the Walker is downed, ordinary healing can bring it back in addition to abilities that revive characters.|
 |Titanium Armor|Passive|N/A|If the Walker is hit by an attack that deals less than 10 damage after modifiers are applied, it does not take any damage.|
 
-Item Table: Expert Physical Metal Damage (Multi), Expert Magical Fire Damage, 5000 cr.
+**Item Table** 
 
-### Overseer (Elite, Construct, Wind)
+|Result|Item|
+|:-|:-|
+|1|Expert Physical Metal Damage (Multi)|
+|2|Expert Magical Fire Damage|
+|3|5000 cr|
+
+### Overseer (Elite 9, Construct, Wind)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -188,6 +280,8 @@ Item Table: Expert Physical Metal Damage (Multi), Expert Magical Fire Damage, 50
 |:-|:-|:-|:-|:-|
 |8|7|14|16|16|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Pistol|Melee|1 AP|Makes a basic physical attack.|
@@ -196,4 +290,10 @@ Item Table: Expert Physical Metal Damage (Multi), Expert Magical Fire Damage, 50
 |Airlock|Multi|1 AP, 18 MP|Removes all status effects and debuffs from all of the Overseer's allies and the Overseer themselves.|
 |Finish Off|Special|1 AP|Makes a magical attack against a single target with 10 HP or less.  If the attack hits, the target is reduced to 0 HP.|
 
-Item Table: Multihaste, Vulnerability (Metal), 5000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Multihaste|
+|2|Vulnerability (Metal)|
+|3|5000 cr|
