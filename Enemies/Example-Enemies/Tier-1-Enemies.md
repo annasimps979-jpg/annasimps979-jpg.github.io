@@ -7,7 +7,7 @@ In combat, police will swap between rounds where they debuff and rounds where th
 
 ### Cop (Normal 1, Human, Colorless)
 
-**Statistics:**
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -17,7 +17,7 @@ In combat, police will swap between rounds where they debuff and rounds where th
 |:-|:-|:-|:-|:-|
 |1|2|4|2|2|
 
-**Abilities:**
+**Abilities**
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
@@ -25,7 +25,7 @@ In combat, police will swap between rounds where they debuff and rounds where th
 |Crowd Control|Ranged|3 MP, 1 AP|The Cop moves a single target's Physical Attack down by one step on the Bonus Tracker.|
 |Body Armor|Passive|N/A|The first time the Cop is hit by a physical attack, they do not take any damage.|
 
-**Item Table:** 
+**Item Table** 
 
 |Result|Item|
 |:-|:-|
