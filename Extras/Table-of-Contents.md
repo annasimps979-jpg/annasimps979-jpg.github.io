@@ -43,7 +43,7 @@
   - [Death and Injury](../Combat-Rules/Death-and-Injury)
 - [**Enemies**](../Enemies/)
   - [Encounter Creation](../Enemies/Encounter-Creation)
-  - [Enemy Creation](../GM-Resources/Enemy-Creation)
+  - [Enemy Creation](../Enemies/Enemy-Creation)
   - [Antagonists](../Enemies/Antagonists/)
     - [Monsters](../Enemies/Antagonists/Monsters)
     - [Villains](../Enemies/Antagonists/Villains)
