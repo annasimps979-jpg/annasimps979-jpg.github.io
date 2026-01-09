@@ -1,6 +1,8 @@
 # The Economy
 
-In the Last Odyssey rulebook, the word "currency" is shortened to "cr."  This number represents the accumulated gold, silver, bronze, platinum, credits, paperbacks, or any other form of currency the players have accumulated, as well as the various valuable but useless items that the players acquire as loot along their journey.  If GMs and players want to simulate trade as a part of their campaign, they can substitute cr with items of equivalent value.  They should keep track of the corresponding cr value of each given item, and change it over time or over space to represent the forces of supply and demand.
+### Currency
+
+In the Last Odyssey rulebook, the word "currency" is shortened to "<dfn id = "term-cr">cr</dfn>."  This number represents the accumulated gold, silver, bronze, platinum, credits, paperbacks, or any other form of currency the players have accumulated, as well as the various valuable but useless items that the players acquire as loot along their journey.  If GMs and players want to simulate trade as a part of their campaign, they can substitute cr with items of equivalent value.  They should keep track of the corresponding cr value of each given item, and change it over time or over space to represent the forces of supply and demand.
 
 Player characters' main source of income will be the rewards they receive from adventuring.  On occasion, they will find themselves short of money.  When they do, they can resort to bartering, selling, or performing labor to earn more cr.  When players are interested in selling an item, they must find a potential buyer.  Merchants that sell a particular variety of item will buy items of that type back for one half of the cr value of the item rounded down.  If players want to sell an item for a higher price than that, they can do so at a market or they can sell to people who need them badly enough.
 
@@ -12,7 +14,9 @@ The opportunity to work for a wage will usually present itself to players who ar
 *  Specialist labor requires a successful skill challenge of the appropriate type, and will earn players 10 cr per day.
 *  Criminal labor, including smuggling and burglary, will net the players 2d8 cr per day and will require a successful skill challenge to avoid facing consequences.
 
-This section outlines the goods and services that players will need during your Last Odyssey campaign.
+### Sections
+
+This section outlines the goods and services that player characters will have access to during a typical Last Odyssey campaign.
 * [Equipment:](Equipment/) Weapons, armor, and accessories.
 * [The Party Inventory:](The-Party-Inventory/) Battle items, travel items, and miscellaneous carried objects.
 * [Followers:](Followers) Characters that the party can hire with cr to aid them during battle.
