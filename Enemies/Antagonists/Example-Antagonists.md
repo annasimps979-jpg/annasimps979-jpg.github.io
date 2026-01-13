@@ -1,6 +1,6 @@
 # Example Antagonists
 
-Entire adventures or even campaigns in Last Odyssey will often revolve around a handful of Antagonists.  Here are a few examples that are ready-made for the GM to use in their game.
+Entire [adventures](../Extras/Key-Terms#term-adventure) or even [campaigns](../Extras/Key-Terms#term-campaign) in Last Odyssey will often revolve around a handful of Antagonists.  Here are a few examples that are ready-made for the GM to use in their game.
 
 ## The Spider Queen
 
@@ -29,7 +29,7 @@ Entire adventures or even campaigns in Last Odyssey will often revolve around a 
 |Bind|Ranged|1 AP, 7 MP|Uses a status-inflicting ability that inflicts Petrify on a hit.|
 |Dissolve Organs|Melee|1 AP, 5 MP|If an enemy has the Petrify status effect, the Webmaster deals magical earth damage that is multiplied by 2 in addition to other modifiers against them without needing to make an attack roll.|
 |Antimagic Field|Special|Variable|The Webmaster can use the Sage's Counterspell ability.|
-|Eggs|Passive|N/A|The Webmaster begins the battle with 3 Eggs that can be used to create Spiderlings.|
+|Eggs|Passive|N/A|The Webmaster begins the [battle](../Extras/Key-Terms#term-battle) with 3 Eggs that can be used to create Spiderlings.|
 |Lay Egg|Special|1 AP, 1 Egg|The Webmaster lays an egg that has 20 Colorless HP and no defenses.  If the Egg is still present during the next effect phase, it hatches into a Spiderling enemy that joins the Initative order during the next combat round.|
 |Spun Web|Passive|N/A|The Webmaster's enemies must spend 2 AP to Move instead of 1.  The Ranger's Forest Walk counteracts this effect.|
 
@@ -198,7 +198,7 @@ Entire adventures or even campaigns in Last Odyssey will often revolve around a 
 |Deep Cuts|Passive|N/A|If the Torture Rack rolls a 1 when making a physical attack against one of its enemies, it will also inflict 1 random injury.|
 |Pain Suppressors|Passive|N/A|The Torture Rack is immune to all debuffs.|
 |Torture|Paradigm Action|1 Anima|The Torture Rack inflicts 2d8 random debuffs on a single target.|
-|Assassinate|Paradigm Action|1 Anima|The Torture rack designates an enemy, and the GM rolls a 1d10.  The target then loses a percentage of their total Health from their combined HP and Shell equal to the result of the roll multiplied by 10.|
+|Assassinate|Paradigm Action|1 Anima|The Torture rack designates an enemy, and the [GM](../Extras/Key-Terms#term-gm) rolls a 1d10.  The target then loses a percentage of their total Health from their combined HP and Shell equal to the result of the roll multiplied by 10.|
 
 ### Form 3 (Growable): Infernal Engine.  (Monster 8, Dragon, Fire)
 
@@ -261,7 +261,7 @@ Entire adventures or even campaigns in Last Odyssey will often revolve around a 
 |Alien Biology|Passive|N/A|The Savior will take damage from abilities and items that heal HP and MP, but will heal due to items that deal damage of any kind.  Damage from all other sources is taken as normal.|
 |They Walk Silently Among Us|Passive|N/A|The Savior is immune to the Scan ability as well as any equivalent abilities or items.|
 |Romance|Paradigm Action|1 Anima|The Savior designates a single one of its enemies as its Lover.  For the rest of the battle, the Lover will receive all damage, status effects, buffs, and debuffs that the Savior does, including Haste and Slow.  This effect cannot be removed by the effects of abilities or items, but the Savior can only have one Lover at a time, meaning that if it designates another Lover the first creature stops being one.|
-|Spin the Bottle|Paradigm Action|1 Anima|The GM rolls a 1d6 and designates a single target.  If the number is a 6, the target of this ability takes a base amount of magical damage equal to 104.  Otherwise, roll again.  If the number is a 6 this time, the Savior takes damage instead of their target.  Go back and forth until either the Savior or their target take damage.|
+|Spin the Bottle|Paradigm Action|1 Anima|The GM rolls a 1d6 and designates a single target.  If the number is a 6, the target of this ability takes a [base](../Extras/Key-Terms#term-base) amount of magical damage equal to 104.  Otherwise, roll again.  If the number is a 6 this time, the Savior takes damage instead of their target.  Go back and forth until either the Savior or their target take damage.|
 |Reveal the Light|Paradigm Action|1 Anima|The Savior inflicts Blind, Slow, and one level of debuff of Magical Defense on the Bonus Tracker on all of its enemies.  This ability cannot be resisted.|
 
 ### Form 2: Unveiled (Villain 10, Horror, Water)
