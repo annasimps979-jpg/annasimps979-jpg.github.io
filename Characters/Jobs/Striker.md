@@ -2,7 +2,7 @@
 
 The Striker specializes in physical attacks.
 
-While they are Strikers, [player characters](../Extras/Key-Terms#term-player-character) gain the following bonuses to their [statistics](../Extras/Key-Terms#term-statistic):
+While they are Strikers, [player characters](../../Extras/Key-Terms#term-player-character) gain the following bonuses to their [statistics](../../Extras/Key-Terms#term-statistic):
 *  Their Physical Attack is increased by an amount equal to their Body.
 *  Their Evasion is increased by an amount equal to their Mind.
 *  Their Physical Defense is increased by an amount equal to their Spirit.
@@ -16,7 +16,7 @@ While they are Strikers, [player characters](../Extras/Key-Terms#term-player-cha
 |3|Power Attack|Melee|5 MP, 1 AP|Make a colorless physical attack.  On a hit, this attack's damage is multiplied by 2 in addition to other modifiers.|
 |4|Cleave|Multi|7 MP, 1 AP|Make a colorless, melee physical attack against all enemies in the front row.|
 |5|Leaping Strike|Ranged|5 MP, 1 AP|Make a colorless physical attack against a single target.|
-|6|Elemental Cleave|Multi|10 MP, 1 AP|Make a melee physical attack against all enemies in the front row whose elemental type is the same as your [base](../Extras/Key-Terms#term-base) elemental type.|
+|6|Elemental Cleave|Multi|10 MP, 1 AP|Make a melee physical attack against all enemies in the front row whose elemental type is the same as your [base](../../Extras/Key-Terms#term-base) elemental type.|
 |7|Whirlwind|Multi|12 MP, 1 AP|Make a colorless physical attack against all enemies on the battlefield.|
 |8|Elemental Leap|Ranged|8 MP, 1 AP|Make a physical attack against a single target whose elemental type is the same as your base elemental type.|
 |9|Elemental Whirlwind|Multi|15 MP, 1 AP|Make a physical attack against all enemies on the battlefield whose elemental type is the same as your base elemental type.|
