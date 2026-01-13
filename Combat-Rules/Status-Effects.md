@@ -12,12 +12,15 @@ When a character successfully hits another with a status-inflicting ability, the
 |4x.|  The target cannot evade this status effect.|
 
 There are nine basic negative status effects that [player](../Extras/Key-Terms#term-player) abilities can inflict, one for each elemental type:
-*  Fire: <dfn id = "term-burned">Burned</dfn>.  The affected character cannot receive any healing and cannot be buffed while this status is active.  Any buffs they have already received remain active until otherwise removed.
-*  Water: <dfn id = "term-confused">Confused</dfn>.  When a Confused character uses an ability with a target other than themselves, the [GM](../Extras/Key-Terms#term-gm) flips a coin and has them call heads or tails.  If they call correctly, their ability is used on the intended target.  If they call incorrectly, the GM chooses the target of their ability instead.  If an enemy is Confused, the role of the player and GM are reversed.
-*  Earth: <dfn id = "term-petrified">Petrified</dfn>.  The affected character is unable to use the Move action, and their [base](../Extras/Key-Terms#term-base) Evasion counts as being half its current value rounded down, not including buffs and debuffs.  They may still advance as normal.
-*  Light: <dfn id = "term-blinded">Blinded</dfn>.  The affected character's Physical, Magical, and Status Accuracy count as half their values rounded down, including buffs and debuffs.
-*  Ice: <dfn id = "term-frostbitten">Frostbitten</dfn>.  The affected character is unable to use their basic attack, use items, or use any abilities that restore Health or Mana.  Any abilities they have that heal passively, such as the Priest's Prayer or the Auto Heal equipment power, are not negated by this status effect.
-*  Wind: <dfn id = "term-fatigued">Fatigued</dfn>.  When the affected character uses an ability that costs MP, the total MP cost they pay to use said ability is doubled.
-*  Thunder: <dfn id = "term-paralyzed">Paralyzed</dfn>.  Any physical attacks the character makes automatically miss.  This includes basic attacks or counterattacks due to abilities.
-*  Shadow: <dfn id = "term-silenced">Silenced</dfn>.  Any magical attacks the character makes automatically miss.  This includes basic attacks or counterattacks due to abilities.
-*  Wood: <dfn id = "term-poisoned">Poisoned</dfn>.  During the Effect Phase at the end of a round, this character takes damage equal to one tenth of their base maximum HP rounded down, with a minimum damage of 1.
+
+|Element|Status Effect|Description|
+|:-|:-|:-|
+|Fire|<dfn id = "term-burned">Burned</dfn>|The affected character cannot receive any healing and cannot be buffed while this status is active.  Any buffs they have already received remain active until otherwise removed.|
+|Water|<dfn id = "term-confused">Confused</dfn>|When a Confused character uses an ability with a target other than themselves, the [GM](../Extras/Key-Terms#term-gm) flips a coin and has them call heads or tails.  If they call correctly, their ability is used on the intended target.  If they call incorrectly, the GM chooses the target of their ability instead.  If an enemy is Confused, the role of the player and GM are reversed.|
+|Earth|<dfn id = "term-petrified">Petrified</dfn>|The affected character is unable to use the Move action, and their [base](../Extras/Key-Terms#term-base) Evasion counts as being half its current value rounded down, not including buffs and debuffs.  They may still advance as normal.|
+|Light|<dfn id = "term-blinded">Blinded</dfn>|The affected character's Physical, Magical, and Status Accuracy count as half their values rounded down, including buffs and debuffs.|
+|Ice|<dfn id = "term-frostbitten">Frostbitten</dfn>|The affected character is unable to use their basic attack, use items, or use any abilities that restore Health or Mana.  Any abilities they have that heal passively, such as the Priest's Prayer or the Auto Heal equipment power, are not negated by this status effect.|
+|Wind|<dfn id = "term-fatigued">Fatigued</dfn>|When the affected character uses an ability that costs MP, the total MP cost they pay to use said ability is doubled.|
+|Thunder|<dfn id = "term-paralyzed">Paralyzed</dfn>|Any physical attacks the character makes automatically miss.  This includes basic attacks or counterattacks due to abilities.|
+|Shadow|<dfn id = "term-silenced">Silenced</dfn>|Any magical attacks the character makes automatically miss.  This includes basic attacks or counterattacks due to abilities.|
+|Wood|<dfn id = "term-poisoned">Poisoned</dfn>|During the Effect Phase at the end of a round, this character takes damage equal to one tenth of their base maximum HP rounded down, with a minimum damage of 1.|
