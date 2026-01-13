@@ -1,8 +1,8 @@
 # Healer
 
-Healers specialize in [abilities](../Extras/Key-Terms#term-ability) that heal, revive, and remove status effects and debuffs.
+Healers specialize in [abilities](../../Extras/Key-Terms#term-ability) that heal, revive, and remove status effects and debuffs.
 
-While they are Healers, [player characters](../Extras/Key-Terms#term-player-character) gain the following bonuses to their [statistics](../Extras/Key-Terms#term-statistic):
+While they are Healers, [player characters](../../Extras/Key-Terms#term-player-character) gain the following bonuses to their [statistics](../../Extras/Key-Terms#term-statistic):
 *  Their Evasion is increased by an amount equal to their Body.
 *  Their Physical Attack is increased by an amount equal to their Mind.
 *  Their Magical Attack is increased by an amount equal to their Spirit.
