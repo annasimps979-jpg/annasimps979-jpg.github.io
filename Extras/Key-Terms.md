@@ -13,12 +13,12 @@
 
 ## Last Odyssey-Specific Terms
 *  A discrete instance of combat in Last Odyssey is called a _<dfn id="term-battle">battle</dfn>._
-*  Any agent that can act during battles is called a _<dfn id="term-character">character</dfn>._
+*  Any agent that can act during battles, exploration, or the narrative at large is called a _<dfn id="term-character">character</dfn>._
 *  An _<dfn id="term-attribute">attribute</dfn>_ is a number from one to ten that represents how strong a character is in a general domain of aptitudes.
 *  A _<dfn id="term-statistic">statistic</dfn>_ is a number from one to ten that represents a specific capability in combat.
 *  An _<dfn id="term-action">action</dfn>_ is a single, discrete thing that a character does during play.  Depending on what phase of gameplay you are in, characters are allowed to take different actions.
 *  _<dfn id="term-ability" title="ability">Abilities</dfn>_ are discrete actions that characters can take during combat that supplement the actions that all characters can take.
 
-Throughout these rules you will sometimes see numbers such as damage or statistics be referred to as <dfn id="term-base">_base_</dfn> numbers.  A number that is _base_ has not been modified by any situation-specific bonuses or penalties.  For example, the base damage of an attack is the damage that it would do to its target if there were no elemental or type modifiers involved, while the base Evasion of a character is what their Evasion is without any applied buffs, debuffs, status effects, or other situational modifiers.  See the [Combat Rules](../Combat-Rules/Combat) for more details.
+Throughout these rules you will sometimes see numbers such as damage or statistics as well as properties such as a character's elemental type be referred to as _<dfn id="term-base">base</dfn>_ numbers.  A number that is _base_ has not been modified by any situation-specific bonuses or penalties.  For example, the base damage of an attack is the damage that it would do to its target if there were no elemental or type modifiers involved, while the base Evasion of a character is what their Evasion is without any applied buffs, debuffs, status effects, or other situational modifiers.  See the [Combat Rules](../Combat-Rules/Combat) for more details.
 
 Many elements of Last Odyssey require its participants to roll polyhedral dice.  This book uses a shorthand common in FRP to refer to which die or dice ought to be rolled.  A group of dice is represented by the number of dice rolled, and then the letter "d," and then the number of sides that the dice being rolled have.  For example, "2d6" means "two six-sided dice," "1d20" means "one twenty-sided die," and so on.  To "roll 3d4," then, is to pick up and roll three four-sided dice.  The most important dice in Last Odyssey are the d10, the d6, and the d4, although each type is used at one point or another.
