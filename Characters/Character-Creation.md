@@ -1,6 +1,6 @@
 # Character Creation
 
-In Last Odyssey, each player has control of a single character.  In Last Odyssey, characters will travel the world, taking on quests, defeating monsters, and being a force for positive change.  As they continue on in the campaign, they will gain new abilities and increase their [attributes and statistics](../Characters/Attributes-and-Statistics).  The basic measure of a character's strength is a number called their _<dfn id="term-tier">tier</dfn>,_ which is a number of 1 to 10 that indicates how high the character's statistics and attributes will be, as well as how many abilities they have.  The following section outlines the process for making a new tier 1 character.  For characters beyond tier 1, see the [Character Advancement](../Characters/Character-Advancement) section.
+In Last Odyssey, each player has control of a single [character](../Extras/Key-Terms#term-character).  In Last Odyssey, characters will travel the world, taking on quests, defeating monsters, and being a force for positive change.  As they continue on in the campaign, they will gain new abilities and increase their [attributes and statistics](../Characters/Attributes-and-Statistics).  The basic measure of a character's strength is a number called their _<dfn id="term-tier">tier</dfn>,_ which is a number of 1 to 10 that indicates how high the character's statistics and attributes will be, as well as how many abilities they have.  The following section outlines the process for making a new tier 1 character.  For characters beyond tier 1, see the [Character Advancement](../Characters/Character-Advancement) section.
 
 ## Create Character Concept
 The first thing you should do before you write down any numbers is think a little bit about what kind of person your character is--their beliefs, their background, any quirks of appearance, and so on.  Write down a few sentences describing any details that immediately come to mind.  Once you've done this, there are two more parts to your character concept that you should decide on before moving forward.  The first of these is their _<dfn id="term-aspiration">Aspiration</dfn>,_ which is what drives them--what they want to accomplish, what kind of person they want to be, or what code of honor or ethics they follow.  The second of these is their _<dfn id="term-relationships">Relationships</dfn>,_ which are the people or groups to which they feel the strongest connection.  This could be anything from ethnic or religious affiliation to a character's family, their best friends, or their lovers.  Writing down Relationships with other player characters is also strongly encouraged.  A character starts with one to three Relationships and one Aspiration, although they can have as many Relationships as they like during the game.  Players will also change their characters' Relationships and Aspirations as the story progresses.  After you have written a sentence or two describing each, you have enough to count as a concept.  You should also begin to think about their name and what they might look like.
@@ -52,23 +52,23 @@ A character's job grants them abilities they can use in combat, and extra action
 
 When you choose your character's starting job, they automatically gain access to that job's Rank 1 ability, which you should mark down on your character sheet.
 
-Each job grants extra bonuses to three different character statistics equal to their [Body](../Characters/Attributes-and-Statistics#term-body), [Mind](../Characters/Attributes-and-Statistics#term-mind), and [Spirit](../Characters/Attributes-and-Statistics#term-spirit) that are listed in their description in the Jobs section.  Whenever you take a new job, including now, you should note down the statistics that they give bonuses to.  When you calculate your statistics, you will take these into account.  Eventually, you will have separate sets of statistics listed for all six of your character's jobs.
+Each job grants extra bonuses to three different character statistics equal to their Body, Mind, and Spirit that are listed in their description in the Jobs section.  Whenever you take a new job, including now, you should note down the statistics that they give bonuses to.  When you calculate your statistics, you will take these into account.  Eventually, you will have separate sets of statistics listed for all six of your character's jobs.
 
 ## Calculate Statistics
 At this point, you should now have enough information to determine your character's statistics.  Below, the formulae for determining each of them are given in shorthand.  To see them in more detail and learn more about what each statistic does, see the [Attributes and Statistics](../Characters/Attributes-and-Statistics) section as well as the [Combat Rules](../Combat-Rules/Combat).
-*  _Health_ determines a character's maximum HP.  It is equal to ([Body](../Characters/Attributes-and-Statistics#term-body))x5 + (Archetype Bonus).
-*  _Initiative_ determines when a character acts during combat.  It is equal to ([Mind](../Characters/Attributes-and-Statistics#term-mind))x2 + (Archetype Bonus).
-*  _Mana_ determines a character's maximum MP.  It is equal to ([Spirit](../Characters/Attributes-and-Statistics#term-spirit))x5 + (Archetype Bonus).
+*  _Health_ determines a character's maximum HP.  It is equal to (Body)x5 + (Archetype Bonus).
+*  _Initiative_ determines when a character acts during combat.  It is equal to (Mind)x2 + (Archetype Bonus).
+*  _Mana_ determines a character's maximum MP.  It is equal to (Spirit)x5 + (Archetype Bonus).
 *  _Physical Attack_ determines a character's base physical damage bonus.  It is equal to (Weapon Bonus) + (Job Bonus if applicable).
 *  _Magical Attack_ determines a character's base magical damage bonus.  It is equal to (Weapon Bonus) + (Job Bonus if applicable).
 *  _Physical Defense_ determines the base reduction to the physical damage a character takes.  It is equal to (Armor Bonus) + (Job Bonus if applicable).
 *  _Magical Defense_ determines the base reduction to the magical damage a character takes.  It is equal to (Armor Bonus) + (Job Bonus if applicable).
 *  _Evasion_ determines the base reduction to enemies' chance to hit a character when they attack.  It is equal to (Accessory Bonus if applicable) + (Job Bonus if applicable).
 *  _Resistance_ determines the base reduction to enemies' chance to inflict a status effect on a character.  It is equal to (Accessory Bonus if applicable) + (Job Bonus if applicable).
-*  _Physical Accuracy_ determines a character's bonus chance to hit with physical attacks.  It is equal to ([Mind](../Characters/Attributes-and-Statistics#term-mind)) + ([Body](../Characters/Attributes-and-Statistics#term-body)).
-*  _Magical Accuracy_ determines a character's bonus chance to hit with magical attacks.  It is equal to ([Spirit](../Characters/Attributes-and-Statistics#term-spirit)) + ([Mind](../Characters/Attributes-and-Statistics#term-mind)).
-*  _Status Accuracy_ determines a character's bonus chance to inflict status effects on enemies.  It is equal to ([Body](../Characters/Attributes-and-Statistics#term-body)) + ([Spirit](../Characters/Attributes-and-Statistics#term-spirit)).
-*  _Carrying Capacity_ determines how many items you can hold in your inventory at once.  It is equal to 10 + ([Body](../Characters/Attributes-and-Statistics#term-body))x5.
+*  _Physical Accuracy_ determines a character's bonus chance to hit with physical attacks.  It is equal to (Mind) + (Body).
+*  _Magical Accuracy_ determines a character's bonus chance to hit with magical attacks.  It is equal to (Spirit) + (Mind).
+*  _Status Accuracy_ determines a character's bonus chance to inflict status effects on enemies.  It is equal to (Body) + (Spirit).
+*  _Carrying Capacity_ determines how many items you can hold in your inventory at once.  It is equal to 10 + (Body)x5.
 
 ## Create Eidolon
 At this stage in the process, you should now be ready to create your character's eidolon.  An eidolon is a being whose appearance in the world is the most powerful manifestation of a character's magic.  Think of them as a combination between a patron saint and a guardian angel.  Each player character has a single eidolon that grows more powerful as they grow more powerful.  In combat, player characters can spend Anima to summon their eidolons.  See the Eidolons section for information on the rules for using them.
@@ -91,7 +91,7 @@ Finally, all characters receive 10 cr at character creation.  Players may use so
 Before you are finished with your character, you should check--have you:
 1.  Given your character a name and appearance?
 2.  Chosen your character's Aspiration and Relationships?
-3.  Set your character's [Body](../Characters/Attributes-and-Statistics#term-body), [Mind](../Characters/Attributes-and-Statistics#term-mind), and [Spirit](../Characters/Attributes-and-Statistics#term-spirit)?
+3.  Set your character's Body, Mind, and Spirit?
 4.  Chosen your character's archetype, and recorded its rank 1 ability?
 5.  Recorded your character's weapon proficiency and starting weapon?
 6.  Recorded your character's armor proficiency and starting armor?
