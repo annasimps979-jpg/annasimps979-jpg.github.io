@@ -1,12 +1,12 @@
 # Sage
 
-The Sage's core virtue is their **Wisdom.**  At character creation, they gain the following traits:
+The Sage's core virtue is their **Wisdom.**  At [character creation](../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Cloth armor.
 *  Proficiency in Staves.
 *  +5 Health
 *  +15 Mana
 *  +4 Initiative
-*  As a Support, their buff abilities will affect Magical Attack.
+*  As a Support, their buff [abilities](../Extras/Key-Terms#term-ability) will affect Magical Attack.
 *  As a Saboteur, their debuff abilities will affect Magical Defense.
 
 ## Advancements by Rank
@@ -49,7 +49,7 @@ The Sage's core virtue is their **Wisdom.**  At character creation, they gain th
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Ascension|Self|1 Anima, 2 AP|Your Spell Slots and MP are immediately refilled to full.  For the rest of the battle, your magical attacks only cost 5 MP.|
+|Ascension|Self|1 Anima, 2 AP|Your Spell Slots and MP are immediately refilled to full.  For the rest of the [battle](../Extras/Key-Terms#term-battle), your magical attacks only cost 5 MP.|
 
 ## Talents
 
