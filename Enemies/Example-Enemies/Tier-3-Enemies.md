@@ -3,7 +3,7 @@
 ## Living Dead
 When necromancers or bioengineers create constructs out of dead bodies, these are the creatures that result.
 
-In combat, the living dead are stupid, aggressive, and totally unconcerned with death.  Insofar as they display cunning, it should purely be to create a sense of dramatic tension and to display animus towards the player characters.
+In combat, the living dead are stupid, aggressive, and totally unconcerned with death.  Insofar as they display cunning, it should purely be to create a sense of dramatic tension and to display animus towards the [player characters](../../Extras/Key-Terms#term-player).
 
 ### Zombie (Normal 3, Undead, Shadow)
 
@@ -175,7 +175,7 @@ Void elves are powerful combatants, but are also quite arrogant.  As a result, t
 |Read Mind|Ranged|1 AP, 2 MP|Works the same as the Artificer's Scan ability.|
 |Mindspike|Ranged|1 AP, 5 MP|Makes a magical light attack against a single enemy.|
 |Corrupt Mind|Ranged|1 AP, 10 MP|Debuffs an enemy's Magical Attack by 3 steps on the Bonus Tracker.|
-|Mindwipe|Ally|1 AP, 8 MP|Removes all buffs and debuffs from a single character.|
+|Mindwipe|Ally|1 AP, 8 MP|Removes all buffs and debuffs from a single [character](../../Extras/Key-Terms#term-character).|
 
 **Item Table** 
 
@@ -205,7 +205,7 @@ Void elves are powerful combatants, but are also quite arrogant.  As a result, t
 |Mindshield|Self|1 AP, 7 MP|Negates the damage of the next magical attack that hits the Empath.|
 |Clean Slate|Ally|1 AP, 11 MP|Removes all status effects from a single target.|
 |Premonition|Multi|1 AP, 10 MP|Buffs the Evasion of the Empath and all of its allies by one step on the Bonus Tracker.|
-|Pain Resonance|Passive|N/A|The Empath starts battle with the Resonant status effect.  While an Empath is Resonant, whenever the Empath receives damage, every other character on the field must resist a status-inflicting roll against the Empath or receive the same amount of damage.|
+|Pain Resonance|Passive|N/A|The Empath starts [battle](../../Extras/Key-Terms#term-battle) with the Resonant status effect.  While an Empath is Resonant, whenever the Empath receives damage, every other character on the field must resist a status-inflicting roll against the Empath or receive the same amount of damage.|
 
 **Item Table** 
 
@@ -235,7 +235,7 @@ Void elves are powerful combatants, but are also quite arrogant.  As a result, t
 |Mindhammer|Ranged|1 AP, 3 MP|Makes a magical attack that does magical colorless damage on a hit.|
 |Fling Object|Ranged|1 AP, 5 MP|Works the same as the Striker's Leaping Strike ability.|
 |Mass Anchor|Ranged|1 AP, 7 MP|Attempts to inflict Fatigue on a single enemy.|
-|Push/Pull|Ranged|1 AP, 5 MP|Makes a status-inflicting ability roll.  On a hit, the Telekinetic can force a single enemy to use the Move action at no AP cost, unless said enemy is immune to effects that move them.|
+|Push/Pull|Ranged|1 AP, 5 MP|Makes a status-inflicting ability roll.  On a hit, the Telekinetic can force a single enemy to use the Move [action](../../Extras/Key-Terms#term-action) at no AP cost, unless said enemy is immune to effects that move them.|
 
 **Item Table** 
 
