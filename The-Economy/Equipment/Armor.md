@@ -1,6 +1,6 @@
 # Armor
 
-A character's _<dfn id = "term-armor">armor</dfn>_ is a special type of equipment provides a bonus to their Magical Defense and a bonus to their Physical Defense.  Characters may only wear one set of armor at a time, and cannot switch what armor set they are wearing during combat.  The rules for armor upgrades are identical to the rules for weapon upgrades, except that armor sets do not receive the same kinds of upgrades as weapons.  There are three varieties of armor, and they also determine the bonuses that characters receive to their statistics: Cloth armor, Light armor, and Heavy armor.
+A [character's](../Extras/Key-Terms#term-character) _<dfn id = "term-armor">armor</dfn>_ is a special type of equipment provides a bonus to their Magical Defense and a bonus to their Physical Defense.  Characters may only wear one set of armor at a time, and cannot switch what armor set they are wearing during combat.  The rules for armor upgrades are identical to the rules for weapon upgrades, except that armor sets do not receive the same kinds of upgrades as weapons.  There are three varieties of armor, and they also determine the bonuses that characters receive to their [statistics](../Extras/Key-Terms#term-statistic): Cloth armor, Light armor, and Heavy armor.
 
 ## Cloth Armor
 
@@ -38,11 +38,11 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 
 |Name|Description|
 |:-|:-|
-|Reinforced|When you are hit by a physical attack while wearing this armor, the damage you take is reduced by a fixed amount after all modifiers to the base damage are applied.  At UV 1, this reduces damage by 1, at UV 2 this reduces damage by 2, and at UV 3 this reduces damage by 3.|
+|Reinforced|When you are hit by a physical attack while wearing this armor, the damage you take is reduced by a fixed amount after all modifiers to the [base](../Extras/Key-Terms#term-base) damage are applied.  At UV 1, this reduces damage by 1, at UV 2 this reduces damage by 2, and at UV 3 this reduces damage by 3.|
 |Inscribed|When you are hit by a magical attack while wearing this armor, the damage you take is reduced by a fixed amount after all modifiers to the base damage are applied.  At UV 1, this reduces damage by 1, at UV 2 this reduces damage by 2, and at UV 3 this reduces damage by 3.|
-|Extra Ability|When a character wears armor with this upgrade, they are able to use a single flex power, job power, or class ability at twice its normal MP cost.  At UV 1, the ability is earned at of Rank 1-3 of the job or class that can use it, at UV 2 the ability is earned at Rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.|
+|Extra Ability|When a character wears armor with this upgrade, they are able to use a single flex power, job power, or archetype [ability](../Extras/Key-Terms#term-ability) at twice its normal MP cost.  At UV 1, the ability is earned at of Rank 1-3 of the job or class that can use it, at UV 2 the ability is earned at Rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.|
 |Elemental Resistance|When you wear this armor set, you resist damage of the specified elemental type based on the value of the upgrade.  At UV 1, damage dealt to you of that elemental type is multiplied by 0.5, at UV 2 it is multiplied by 0.25, and at UV 3 you are completely immune.|
-|Chain Vest|At the beginning of every battle while wearing this armor, you gain an amount of temporary HP depending on the value of this upgrade.  This HP goes away at the end of the battle.  At UV 1, you gain 5 HP, at UV 2 you gain 10, and at UV 3 you have a total of 15 temporary HP every battle.  This temporary HP does not affect the maximum Shell you can have during the battle.|
+|Chain Vest|At the beginning of every [battle](../Extras/Key-Terms#term-battle) while wearing this armor, you gain an amount of temporary HP depending on the value of this upgrade.  This HP goes away at the end of the battle.  At UV 1, you gain 5 HP, at UV 2 you gain 10, and at UV 3 you have a total of 15 temporary HP every battle.  This temporary HP does not affect the maximum Shell you can have during the battle.|
 
 ### UV 1
 
@@ -72,7 +72,7 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 |Enchanted|If you are wearing this armor at the beginning of combat, you automatically gain 20 points of Shell of the specified elemental type of this upgrade.  You still gain this even if your Health is less than 20.  All other rules for Shells apply as normal.|
 |Blessed|You are immune to all debuffs while wearing this armor, and you are also immune to any effects that reduce your AP in any capacity.|
 |Mana Battery|When you begin a battle, you gain 20 temporary MP in addition to your normal MP.  Any remaining amount of this MP goes away at the end of the battle.|
-|Mechanical|When you are wearing this armor, you are immune to any effects that prevent you from using certain actions, such as Silence, Frostbite, or Fear.|
+|Mechanical|When you are wearing this armor, you are immune to any effects that prevent you from using certain [actions](../Extras/Key-Terms#term-action), such as Silence, Frostbite, or Fear.|
 
 ### Unique
 
@@ -85,7 +85,7 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 |Conductive|When you take magical damage due to an enemy's attack while wearing this armor, the enemy immediately also becomes the target of their magical attack as though they had attacked themselves as well as you.|
 |Weapons Platform|While you are wearing this armor, you can swap weapons and accessories without spending any AP as many times as you like per turn.|
 |Angelic|This armor gives you wings that allow you to take the Fly action during combat.  Fly costs 1 AP and puts you within melee range of every enemy on the battlefield as though you were in the front row, while putting you out of melee range of their attacks as though you were in the back row.  However, if you are hit by any attacks while Flying, you will fall back down to the front row of the battlefield.|
-|Utility Belt|While you are wearing this armor, you can use one Item from the party inventory per round without spending any AP.|
+|Utility Belt|While you are wearing this armor, you can use one Item from the [party](../Extras/Key-Terms#term-party) inventory per round without spending any AP.|
 |Masterwork|This armor is of unusual quality.  Cloth armor with this ability gives +4 Magical Defense and +6 Physical Defense, Light armor gives +5 Magical Defense and +5 Physical Defense, and Heavy armor gives +4 Magical Defense and +6 Physical Defense.|
 |Bound|While wearing this armor during combat, you cannot deal any damage, use the Move action, or use items.  However, you also cannot take any damage that would not automatically kill you or break your current Shell.  You can use any other abilities as normal.|
 
