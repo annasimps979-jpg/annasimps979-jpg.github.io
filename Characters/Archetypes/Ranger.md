@@ -3,11 +3,11 @@
 A Ranger's core virtue is their **Focus.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Light armor.
 *  Proficiency in Bows.
-*  +10 Health
-*  +10 Mana
-*  +4 Initiative
-*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) will affect Physical Accuracy.
-*  As a Saboteur, their debuff abilities will affect Evasion.
+*  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
+*  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
+*  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
+*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy).
+*  As a Saboteur, their debuff abilities will affect [Evasion](../../Characters/Attributes-and-Statistics#term-evasion).
 
 ## Advancements by Rank
 
@@ -31,7 +31,7 @@ A Ranger's core virtue is their **Focus.**  At [character creation](../../Charac
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Lay Trap|Special|5 MP, 1 AP|Designate either the front row or the back row of the enemies' side of the battlefield.  The next time an enemy moves into this row, you may either make a basic attack against them, rolling the hit die twice as though they were Hunted, or use Mark Target on them, without spending any AP.|
+|Lay Trap|Special|5 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Designate either the front row or the back row of the enemies' side of the battlefield.  The next time an enemy moves into this row, you may either make a basic attack against them, rolling the hit die twice as though they were Hunted, or use Mark Target on them, without spending any AP.|
 
 **Rank 6:** You gain +1 Physical Accuracy.
 
@@ -57,7 +57,7 @@ A Ranger's core virtue is their **Focus.**  At [character creation](../../Charac
 
 **Caster:** Detonate.  When an enemy triggers the effect of Lay Trap, you may use a single-target magical attack against them rather than a basic attack.  When you do so, you may roll the hit die twice and choose the result you prefer.
 
-**Healer:** Rescuscitate.  You may use your Mark Target ability to apply the Watched status to one of your allies. When they drop to 0 HP or below, the Watched status is removed, and they regain an amount of HP equal to your magical attack as a Healer.  Only one ally may be Watched by you at a time.
+**Healer:** Rescuscitate.  You may use your Mark Target ability to apply the Watched status to one of your allies. When they drop to 0 [HP](../../Characters/Attributes-and-Statistics#term-hp) or below, the Watched status is removed, and they regain an amount of HP equal to your magical attack as a Healer.  Only one ally may be Watched by you at a time.
 
 **Defender:** Forcefield.  You may use the Mark Target ability to apply the Defended status to an ally.  The next time they are hit by a status-inflicting ability, a magical attack, or a physical attack, the damage or status is negated.  Only one ally may be Defended by you at a time.
 
