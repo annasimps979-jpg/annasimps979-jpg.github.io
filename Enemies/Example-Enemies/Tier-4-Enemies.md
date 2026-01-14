@@ -78,8 +78,8 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Sleep|Ranged|1 AP, 7 MP|Attempts to inflict Fatigued on a single enemy.|
-|Steal|Special|1 AP|This ability can be used on all characters when the Kitsune is in the front row, and only on the front row when the Kitsune is in the back row.  The Kitsune makes a magical attack that, on a hit, takes a single item from the party inventory that the Kitsune can use the Use Item ability to deploy.|
-|Mock|Ranged|1 AP|Taunts one of the Kitsune's enemies.  Works the same as the Defender's Taunt, except that Taunted player characters that cannot target the Kitsune are not able to act.|
+|Steal|Special|1 AP|This ability can be used on all [characters](../../Extras/Key-Terms#term-character) when the Kitsune is in the front row, and only on the front row when the Kitsune is in the back row.  The Kitsune makes a magical attack that, on a hit, takes a single item from the [party](../../Extras/Key-Terms#term-party) inventory that the Kitsune can use the Use Item ability to deploy.|
+|Mock|Ranged|1 AP|Taunts one of the Kitsune's enemies.  Works the same as the Defender's Taunt, except that Taunted [player characters](../../Extras/Key-Terms#term-player-character) that cannot target the Kitsune are not able to act.|
 
 **Item Table** 
 
@@ -136,7 +136,7 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Brass Knuckles|Melee|1 AP|Makes a basic physical attack.|
-|Distribute Winnings|Ranged|1 AP, 5 MP|Makes a magical attack against a single target on the battlefield that, on a hit, deals base magical colorless damage equal to the current Betting Pool, which is then reset to zero.|
+|Distribute Winnings|Ranged|1 AP, 5 MP|Makes a magical attack against a single target on the battlefield that, on a hit, deals [base](../../Extras/Key-Terms#term-base) magical colorless damage equal to the current Betting Pool, which is then reset to zero.|
 |Color Burst|Ranged|1 AP, 8 MP|Makes a magical attack against a single enemy that, on a hit, deals magical damage of a random element that is multiplied by 2 in addition to other modifiers.|
 |Rig Game|Ranged|1 AP, 12 MP|Lowers a random Accuracy of all of the Casinoman's enemies by one level on the Bonus Tracker.|
 |Ante Up|Passive|N/A|During the Effect Phase, all characters must either donate 1 MP or immediately take 1 unblockable damage.  Each time a character donates, they add 1 to a counter called the Betting Pool.|
