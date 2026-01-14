@@ -7,9 +7,9 @@ The first thing you should do before you write down any numbers is think a littl
 
 ## Set Attributes
 After you have made your character concept, the next step is to determine your character's attributes.  These will also determine their starting statistics.  In Last Odyssey, each player character has three of these:
-*  A character's _[Body](../Characters/Attributes-and-Statistics#term-body)_ contributes to their Health, Physical Accuracy, and Status Accuracy.
-*  A character's _[Mind](../Characters/Attributes-and-Statistics#term-mind)_ contributes to their Initiative, Magical Accuracy, and Physical Accuracy.
-*  A character's _[Spirit](../Characters/Attributes-and-Statistics#term-spirit)_ contributes to their Mana, Status Accuracy, and Magical Accuracy.
+*  A character's _[Body](../Characters/Attributes-and-Statistics#term-body)_ contributes to their [Health](../Characters/Attributes-and-Statistics#term-health), Physical Accuracy, and Status Accuracy.
+*  A character's _[Mind](../Characters/Attributes-and-Statistics#term-mind)_ contributes to their [Initiative](../Characters/Attributes-and-Statistics#term-initiative), Magical Accuracy, and Physical Accuracy.
+*  A character's _[Spirit](../Characters/Attributes-and-Statistics#term-spirit)_ contributes to their [Mana](../Characters/Attributes-and-Statistics#term-mana), Status Accuracy, and Magical Accuracy.
 
 At character creation, you may either set the value of all of your attributes to 2, or set one to 3, one to 2, and one to 1.
 
@@ -27,14 +27,14 @@ Next, choose your character's archetype, which gives them extra abilities and ta
 
 At character creation, your archetype determines the following traits:
 *  Armor Proficiency: A character's _<dfn id="term-armor-proficiency">armor proficiency</dfn>_ is what type of armor they can wear.  At character creation, your character starts with a Mundane piece of that type of armor equipped.
-*  Weapon Proficiency: A character's _<dfn id="term-weapon-proficiency">weapon proficiency</dfn>_ is what type of weapon they can wield.  At character creation, your character starts with a Mundane version of that type of weapon equipped.  Make sure to note down what statistic your character's weapon gives them a bonus to in addition to Physical Attack and Magical Attack.
+*  Weapon Proficiency: A character's _<dfn id="term-weapon-proficiency">weapon proficiency</dfn>_ is what type of weapon they can wield.  At character creation, your character starts with a Mundane version of that type of weapon equipped.  Make sure to note down what statistic your character's weapon gives them a bonus to in addition to [Physical Attack](../Characters/Attributes-and-Statistics#term-physical-attack) and [Magical Attack](../Characters/Attributes-and-Statistics#term-magical-attack).
 *  Buff: Archetype sets the statistic that the character buffs when they occupy the Support job.  Later on, they will also gain permanent bonuses to it as they advance in tier.
 *  Debuff: This sets the statistic that the character debuffs when they occupy the Saboteur job.
 *  Stat Bonuses: A character's archetype grants them fixed bonuses to their Health, Initiative, and Mana.
 
 A character's archetype also provides them with a set of abilities they can use regardless of what job they occupy as well as a set of passive abilities called talents that they can acquire as they advance in tier.  At character creation, they begin with the ability to use their archetype's rank 1 ability.
 
-Finally, before you move on you should give your character either a Lucky accessory or a Mystical accessory that has no attached upgrade that they can equip in their accessory slot.  A Lucky accessory gives them a +1 bonus to their Evasion, while a Mystical accessory gives them a +1 bonus to their Resistance.
+Finally, before you move on you should give your character either a Lucky accessory or a Mystical accessory that has no attached upgrade that they can equip in their accessory slot.  A Lucky accessory gives them a +1 bonus to their [Evasion](../Characters/Attributes-and-Statistics#term-evasion), while a Mystical accessory gives them a +1 bonus to their [Resistance](../Characters/Attributes-and-Statistics#term-resistance).
 
 ## Choose Elemental Type
 A character's elemental type determines the elemental type of some of the abilities they gain from their jobs.  More specifically, they determine the elemental type of the damage they deal with certain Striker and Caster abilities, the element of the Shells they apply and the damage they can immunize their [party](../Extras/Key-Terms#term-party) members from as a Support, and the status effect they can apply as a Saboteur.  The nine elements are Fire, Water, Earth, Wind, Thunder, Ice, Wood, Light, and Shadow.  See the [Elemental Types](../Combat-Rules/Elemental-Types) section of the Combat Rules for more details.
@@ -45,7 +45,7 @@ By default, characters count as colorless for the purposes of calculating damage
 A character's job grants them abilities they can use in combat, and extra actions they can take during exploration.  It also grants them bonuses to three different statistics that depend on which job they currently occupy.  As they advance in Tier, characters will gain multiple jobs that they can switch between during the Paradigm Phase of combat.  Eventually, every character in the party will be able to use any job.  However, at character creation all characters start with only one job available.  See the [Jobs](../Characters/Jobs/) section for more details.  In Last Odyssey, there are six jobs:
 *  _[Strikers](../Characters/Jobs/Striker)_ specialize in dealing physical damage to their enemies.
 *  _[Casters](../Characters/Jobs/Caster)_ specialize in dealing magical damage to their enemies.
-*  _[Healers](../Characters/Jobs/Healer)_ specialize in restoring their allies' HP and negating debuffs and status effects.
+*  _[Healers](../Characters/Jobs/Healer)_ specialize in restoring their allies' [HP](../Characters/Attributes-and-Statistics#term-hp) and negating debuffs and status effects.
 *  _[Defenders](../Characters/Jobs/Defender)_ specialize in drawing enemy attacks and negating the damage they do to allies.
 *  _[Supports](../Characters/Jobs/Support)_ specialize in buffing allies and applying Shells, which are a form of temporary HP.
 *  _[Saboteurs](../Characters/Jobs/Saboteur)_ specialize in debuffing and applying negative status effects to enemies.
@@ -58,16 +58,16 @@ Each job grants extra bonuses to three different character statistics equal to t
 At this point, you should now have enough information to determine your character's statistics.  Below, the formulae for determining each of them are given in shorthand.  To see them in more detail and learn more about what each statistic does, see the [Attributes and Statistics](../Characters/Attributes-and-Statistics) section as well as the [Combat Rules](../Combat-Rules/Combat).
 *  _Health_ determines a character's maximum HP.  It is equal to (Body)x5 + (Archetype Bonus).
 *  _Initiative_ determines when a character acts during combat.  It is equal to (Mind)x2 + (Archetype Bonus).
-*  _Mana_ determines a character's maximum MP.  It is equal to (Spirit)x5 + (Archetype Bonus).
+*  _Mana_ determines a character's maximum [MP](../Characters/Attributes-and-Statistics#term-mp).  It is equal to (Spirit)x5 + (Archetype Bonus).
 *  _Physical Attack_ determines a character's [base](../Extras/Key-Terms#term-base) physical damage bonus.  It is equal to (Weapon Bonus) + (Job Bonus if applicable).
 *  _Magical Attack_ determines a character's base magical damage bonus.  It is equal to (Weapon Bonus) + (Job Bonus if applicable).
-*  _Physical Defense_ determines the base reduction to the physical damage a character takes.  It is equal to (Armor Bonus) + (Job Bonus if applicable).
-*  _Magical Defense_ determines the base reduction to the magical damage a character takes.  It is equal to (Armor Bonus) + (Job Bonus if applicable).
+*  _[Physical Defense](../Characters/Attributes-and-Statistics#term-physical-defense)_ determines the base reduction to the physical damage a character takes.  It is equal to (Armor Bonus) + (Job Bonus if applicable).
+*  _[Magical Defense](../Characters/Attributes-and-Statistics#term-magical-defense)_ determines the base reduction to the magical damage a character takes.  It is equal to (Armor Bonus) + (Job Bonus if applicable).
 *  _Evasion_ determines the base reduction to enemies' chance to hit a character when they attack.  It is equal to (Accessory Bonus if applicable) + (Job Bonus if applicable).
 *  _Resistance_ determines the base reduction to enemies' chance to inflict a status effect on a character.  It is equal to (Accessory Bonus if applicable) + (Job Bonus if applicable).
-*  _Physical Accuracy_ determines a character's bonus chance to hit with physical attacks.  It is equal to (Mind) + (Body).
-*  _Magical Accuracy_ determines a character's bonus chance to hit with magical attacks.  It is equal to (Spirit) + (Mind).
-*  _Status Accuracy_ determines a character's bonus chance to inflict status effects on enemies.  It is equal to (Body) + (Spirit).
+*  _[Physical Accuracy](../Characters/Attributes-and-Statistics#term-physical-accuracy)_ determines a character's bonus chance to hit with physical attacks.  It is equal to (Mind) + (Body).
+*  _[Magical Accuracy](../Characters-Attributes-and-Statistics#term-magical-accuracy)_ determines a character's bonus chance to hit with magical attacks.  It is equal to (Spirit) + (Mind).
+*  _[Status Accuracy](../Characters/Attributes-and-Statistics#term-status-accuracy)_ determines a character's bonus chance to inflict status effects on enemies.  It is equal to (Body) + (Spirit).
 *  _Carrying Capacity_ determines how many items you can hold in your inventory at once.  It is equal to 10 + (Body)x5.
 
 ## Create Eidolon
