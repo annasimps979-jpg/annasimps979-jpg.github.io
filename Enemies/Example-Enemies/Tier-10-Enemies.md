@@ -137,9 +137,9 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 |:-|:-|:-|:-|
 |Lodestone|Multi|1 AP, 13 MP|Makes a magical attack against all of the Oracle's enemies that deals magical earth damage on a hit.|
 |Sinkhole|Ranged|1 AP, 9 MP|Makes a magical attack against a single target that deals magical earth damage on a hit and inflicts the Sinking status, which deals magical earth damage during every subsequent Effect Phase until cured.|
-|Turn Back the Clock|Ally|1 AP, 20 MP|Revives a single downed character with full HP, MP, and Shell.|
+|Turn Back the Clock|Ally|1 AP, 20 MP|Revives a single downed [character](../../Extras/Key-Terms#term-character) with full HP, MP, and Shell.|
 |Manipulate Fate|Multi|1 AP, 30 MP|Debuffs the Physical, Magical, and Status Accuracy of all of the Oracle's enemies.|
-|Reset Timeline|Special|2 AP|The Oracle uses the Harlequin's Jubilee ability.|
+|Reset Timeline|Special|2 AP|The Oracle uses the Harlequin's Jubilee [ability](../../Extras/Key-Terms#term-ability).|
 
 **Item Table**
 
@@ -228,7 +228,7 @@ In combat, magi tend to know everything about their opponents, and will play as 
 |:-|:-|:-|:-|
 |Armblade|Melee|1 AP|Makes a basic physical attack.|
 |Puppets|Passive|N/A|All of the Homonculi on the battlefield share a common pool of AP equal to the sum of the AP each one has.|
-|Uncanny Movement|Passive|N/A|When the Homonculus makes a physical attack, the GM should roll the associated 1d10 twice and choose the result they take.|
+|Uncanny Movement|Passive|N/A|When the Homonculus makes a physical attack, the [GM](../../Extras/Key-Terms#term-gm) should roll the associated 1d10 twice and choose the result they take.|
 
 **Item Table** 
 
