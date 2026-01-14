@@ -3,11 +3,11 @@
 The Artificer's core virtue is their **Knowledge.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Heavy armor.
 *  Proficiency in Guns.
-*  +10 [Health](../Characters/Attributes-and-Statistics#term-health)
-*  +10 [Mana](../Characters/Attributes-and-Statistics#term-mana)
-*  +4 [Initiative](../Characters/Attributes-and-Statistics#term-initiative)
-*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Magical Accuracy](../Characters/Attributes-and-Statistics#term-magical-accuracy).
-*  As a Saboteur, their debuff abilities will affect [Resistance](../Characters/Attributes-and-Statistics#term-resistance).
+*  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
+*  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
+*  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
+*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy).
+*  As a Saboteur, their debuff abilities will affect [Resistance](../../Characters/Attributes-and-Statistics#term-resistance).
 
 ## Advancements by Rank
 
@@ -15,7 +15,7 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Scan|Ranged|2 [MP](../Characters/Attributes-and-Statistics#term-mp), 1 AP|Select an enemy.  You immediately learn its current [HP](../Characters/Attributes-and-Statistics#term-hp), MP, Shell, and elemental type.  Subsequent uses of this ability on the same enemy will allow you to learn the same information, or allow you to learn the value of one of its [statistics](../../Extras/Key-Terms#term-statistic), its item table, or reveal one of its abilities.|
+|Scan|Ranged|2 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Select an enemy.  You immediately learn its current [HP](../../Characters/Attributes-and-Statistics#term-hp), MP, Shell, and elemental type.  Subsequent uses of this ability on the same enemy will allow you to learn the same information, or allow you to learn the value of one of its [statistics](../../Extras/Key-Terms#term-statistic), its item table, or reveal one of its abilities.|
 
 **Rank 2:** You gain +1 Magical Accuracy.
 
@@ -55,12 +55,12 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 **Striker:** Sniper.  When you use an item that does physical damage to an enemy, you may add your Physical Attack to its [base](../../Extras/Key-Terms#term-base) damage.
 
-**Caster:** Magic Ammo.  When you use an item that does magical damage to an enemy, you may add your [Magical Attack](../Characters/Attributes-and-Statistics#term-magical-attack) to its base damage.
+**Caster:** Magic Ammo.  When you use an item that does magical damage to an enemy, you may add your [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) to its base damage.
 
 **Healer:** First Aid.  When you use an item that heals an ally, you may add your Magical Attack to its base healing.
 
 **Defender:** Optimize Defenses.  If you use the Scan ability on an ally, it inflicts the Optimized status effect on them.  The next physical attack, magical attack, or status-inflicting ability that hits them will ignore any of their weaknesses.  The Optimized status effect is then removed.
 
-**Support:** Targeting Systems.  When you use Scan on an ally, they gain a temporary +5 to their [Physical](../Characters/Attributes-and-Statistics#term-physical-accuracy), Magical, and [Status Accuracies](../Characters/Attributes-and-Statistics#term-status-accuracy) that does not count on the bonus tracker until the end of their next turn.
+**Support:** Targeting Systems.  When you use Scan on an ally, they gain a temporary +5 to their [Physical](../../Characters/Attributes-and-Statistics#term-physical-accuracy), Magical, and [Status Accuracies](../../Characters/Attributes-and-Statistics#term-status-accuracy) that does not count on the bonus tracker until the end of their next turn.
 
 **Saboteur:** Monkeywrench.  When you use an item that inflicts a status effect on an enemy, you may subtract your Status Accuracy from the result on the hit die to determine if they are hit.
