@@ -3,11 +3,11 @@
 The Priest's core virtue is their **Compassion.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Cloth armor.
 *  Proficiency in Scepters.
-*  +10 Health
-*  +15 Mana
-*  +2 Initiative
-*  As a Support, their abilities will buff Magical Defense.
-*  As a Saboteur, their abilities will debuff Magical Attack.
+*  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
+*  +15 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
+*  +2 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
+*  As a Support, their abilities will buff [Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense).
+*  As a Saboteur, their abilities will debuff [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack).
 
 ## Advancements by Rank
 
@@ -15,7 +15,7 @@ The Priest's core virtue is their **Compassion.**  At [character creation](../..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Restore MP|Ally|5 MP, 1 AP|You restore the MP of an ally apart from yourself by an amount equal to your Magical Attack.|
+|Restore [MP](../../Characters/Attributes-and-Statistics#term-mp)|Ally|5 MP, 1 AP|You restore the MP of an ally apart from yourself by an amount equal to your Magical Attack.|
 
 **Rank 2:** You gain +1 Magical Defense.
 
@@ -23,7 +23,7 @@ The Priest's core virtue is their **Compassion.**  At [character creation](../..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Prayer|Passive|N/A|During the Effect Phase of every round of [battle](../../Extras/Key-Terms#term-battle), you and your allies regain 1 MP.  If you are downed during the Effect Phase, this effect does not apply.|
+|Prayer|Passive|N/A|During the Effect Phase of every round of [battle](../../Extras/Key-Terms#term-battle), you and your allies regain 1 MP.  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed) during the Effect Phase, this effect does not apply.|
 
 **Rank 4:** You gain +1 Magical Defense.
 
@@ -53,7 +53,7 @@ The Priest's core virtue is their **Compassion.**  At [character creation](../..
 
 ## Talents
 
-**Striker:** Bludgeon.  You can choose to deal damage to enemies' MP instead of their HP with your physical attacks when they are Shellbroken.
+**Striker:** Bludgeon.  You can choose to deal damage to enemies' MP instead of their [HP](../../Characters/Attributes-and-Statistics#term-hp) with your physical attacks when they are Shellbroken.
 
 **Caster:** Divine Wrath.  During the Effect Phase, Prayer and Blessing inflict the same amount of fixed damage to all enemies that they heal your allies' MP for.
 
