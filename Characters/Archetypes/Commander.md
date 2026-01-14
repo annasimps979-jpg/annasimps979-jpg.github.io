@@ -3,10 +3,10 @@
 The Commander's core virtue is their **Leadership.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Heavy armor.
 *  Proficiency in Swords.
-*  +15 [Health]
-*  +5 Mana
-*  +4 Initiative
-*  As a Support, your buff [abilities](../../Extras/Key-Terms#term-ability) will affect Resistance.
+*  +15 [Health](../../Characters/Attributes-and-Statistics#term-health)
+*  +5 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
+*  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
+*  As a Support, your buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Resistance](../../Characters/Attributes-and-Statistics#term-resistance).
 *  As a Saboteur, your debuff abilities will affect Status Accuracy.
 
 ## Advancements by Rank
@@ -23,7 +23,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Standard Bearer|Passive|N/A|Your allies gain a +1 bonus to their Status, Physical, and Magical Accuracies when they act after you in the initiative order that does not count on the bonus tracker.  If you are [downed](../Characters/Attributes-and-Statistics#term-downed), this effect does not apply.|
+|Standard Bearer|Passive|N/A|Your allies gain a +1 bonus to their [Status](../../Characters/Attributes-and-Statistics#term-status-accuracy), [Physical](../../Characters/Attributes-and-Statistics#term-physical-accuracy), and [Magical Accuracies](../../Characters/Attributes-and-Statistics#term-magical-accuracy) when they act after you in the initiative order that does not count on the bonus tracker.  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed), this effect does not apply.|
 
 **Rank 4:** You gain +1 Resistance.
 
@@ -53,9 +53,9 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 ## Talents
 
-**Striker:** Vanguard.  When an ally makes a physical attack using the AP you granted them with Orders, they may substitute your Physical Accuracy and Physical Attack for theirs.
+**Striker:** Vanguard.  When an ally makes a physical attack using the AP you granted them with Orders, they may substitute your Physical Accuracy and [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack) for theirs.
 
-**Caster:** Siege Engineer.  When an ally makes a magical attack using the AP you granted them with Orders, they may substitute your Magical Accuracy and Magical Attack for theirs.
+**Caster:** Siege Engineer.  When an ally makes a magical attack using the AP you granted them with Orders, they may substitute your Magical Accuracy and [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) for theirs.
 
 **Healer:** Medical Tent.  When an ally uses a Healer ability using the AP you granted them with Orders, they may substitute your Magical Attack for theirs.
 
