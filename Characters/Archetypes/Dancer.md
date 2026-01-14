@@ -3,11 +3,11 @@
 The Dancer's core virtue is their **Charm.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
 *  Proficiency in Cloth armor.
 *  Proficiency in Fans.
-*  +10 Health
-*  +10 Mana
-*  +4 Initiative
-*  As a Support, your buff [abilities](../../Extras/Key-Terms#term-ability) affect Evasion.
-*  As a Saboteur, your debuff abilities affect Magical Accuracy.
+*  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
+*  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
+*  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
+*  As a Support, your buff [abilities](../../Extras/Key-Terms#term-ability) affect [Evasion](../../Characters/Attributes-and-Statistics#term-evasion).
+*  As a Saboteur, your debuff abilities affect [Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy).
 
 ## Advancements by Rank
 
@@ -15,7 +15,7 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Copycat|Special|10 MP, 1 AP|You may immediately use one of the abilities that one of your allies used between the end of your last turn and the beginning of your current turn, counting held turns.|
+|Copycat|Special|10 [MP](../../Characters/Attributes-and-Statistics), 1 AP|You may immediately use one of the abilities that one of your allies used between the end of your last turn and the beginning of your current turn, counting held turns.|
 
 **Rank 2:** You gain +1 Evasion.
 
@@ -23,7 +23,7 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Dancer's Mask|Passive|N/A|Whenever you use an ability that has an elemental type, you may obtain the Masked status effect, which means you now count as having HP and Shell of that elemental type for the purpose of calculating received damage.  While you are Masked, you may use the Unmask ability, which costs 1 AP and removed the Masked status effect from you.|
+|Dancer's Mask|Passive|N/A|Whenever you use an ability that has an elemental type, you may obtain the Masked status effect, which means you now count as having [HP](../../Characters/Attributes-and-Statistics) and Shell of that elemental type for the purpose of calculating received damage.  While you are Masked, you may use the Unmask ability, which costs 1 AP and removed the Masked status effect from you.|
 
 **Rank 4:** You gain +1 Evasion.
 
