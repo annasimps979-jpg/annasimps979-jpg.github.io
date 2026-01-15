@@ -12,7 +12,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 
 **Statistics**
 
-|HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
+|[HP](../Characters/Abilities-and-Statistics#term-hp)|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |12|18|8|30|2|4|4|2|2|
 
