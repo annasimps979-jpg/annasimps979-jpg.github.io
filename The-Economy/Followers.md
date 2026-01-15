@@ -18,7 +18,7 @@ Followers capable of helping during combat will have an elemental type, and will
 
 _Strikers_ specialize in the Striker job, and carry a Physical weapon of the GM's choice and Heavy armor.
 
-|Template|Salary|Body|Mind|Spirit|AP|Equipment Quality|Accessories|Battle Items|
+|Template|Salary|[Body](../Characters/Abilities-and-Statistics#term-body)|[Mind](../Characters/Abilities-and-Statistics#term-mind)|[Spirit](../Characters/Abilities-and-Statistics#term-spirit)|AP|Equipment Quality|Accessories|Battle Items|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |Beginner|100 cr|3|2|1|2|Mundane|1|1d4 Mundane|
 |Intermediate|500 cr|6|4|2|3|Rare|2|1d4 Rare|
@@ -64,7 +64,7 @@ _Saboteurs_ specialize in the Saboteur job, and carry a Physical weapon of the G
 |Intermediate|1250 cr|4|2|6|3|Rare|2|1d4 Rare|
 |Advanced|2500 cr|6|3|9|3|Expert|3|1d4 Expert|
 
-The rules for True Death do not apply to followers.  Instead, if a follower is downed in battle or killed when the rest of the [party](../Extras/Key-Terms#term-party) is downed, the GM rolls a 1d10.  If the result of the roll is equal to or lower than the NPC's Body attribute, they will revive at 1 HP after the battle is over and sustain an injury.  If the result of the roll is greater than the NPC's Body, the NPC is permanently dead.  All loot and XP as a result of battle are distributed to the player characters as normal unless they decide otherwise, as it is customary that the spoils from battle be paid out by a follower's salary.  If an NPC did not participate in the combat encounter and the players are all downed, what happens to them is determined by GM [fiat](../Extras/Key-Terms#term-gm).
+The rules for True Death do not apply to followers.  Instead, if a follower is [downed](../Characters/Abilities-and-Statistics#term-downed) in battle or killed when the rest of the [party](../Extras/Key-Terms#term-party) is downed, the GM rolls a 1d10.  If the result of the roll is equal to or lower than the NPC's Body attribute, they will revive at 1 [HP](../Characters/Abilities-and-Statistics#term-hp) after the battle is over and sustain an injury.  If the result of the roll is greater than the NPC's Body, the NPC is permanently dead.  All loot and XP as a result of battle are distributed to the player characters as normal unless they decide otherwise, as it is customary that the spoils from battle be paid out by a follower's salary.  If an NPC did not participate in the combat encounter and the players are all downed, what happens to them is determined by GM [fiat](../Extras/Key-Terms#term-gm).
 
 ## Followers During Exploration
 During the travel round, Followers will have their own Supplies prepared.  Regardless of what their other capabilities are, they can always take the Cook, Shelter, Recover, and Explore actions during the camping phase.  If they have sustained an injury, they obey the same rules that the player characters do for recovering from them.  Some followers will also have the ability to assist during travel.  The price of these skills is outlined below.
