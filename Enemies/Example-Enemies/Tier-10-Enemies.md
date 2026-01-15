@@ -13,7 +13,7 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |42|43|22|75|3|10|10|7|5|
 
-|[Evasion](../../Characters/Abilities-and-Statistics#term-evasion)|[Resistance](../../Characters/Abilities-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy)|[Magical Accuracy]|[Status Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy)|
+|[Evasion](../../Characters/Abilities-and-Statistics#term-evasion)|[Resistance](../../Characters/Abilities-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy)|[Status Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |7|7|10|14|14|
 
