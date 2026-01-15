@@ -11,16 +11,16 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 
 |Effect|Base Cost|Description|
 |:-|:-|:-|
-|Restore HP|1 cr|When used, this item restores a fixed amount of HP to a single [character](../../Extras/Key-Terms#term-character).  If it is Mundane, it restores 5 HP, if it is Rare it restores 10, and if it is Expert it restores 20.|
-|Restore MP|3 cr|When used, this item restores a fixed amount of MP to a single character.  If it is Mundane, it restores 5 HP, if it is Rare it restores 10, and if it is Expert it restores 20.|
+|Restore HP|1 cr|When used, this item restores a fixed amount of [HP](../../Characters/Abilities-and-Statistics#term-hp) to a single [character](../../Extras/Key-Terms#term-character).  If it is Mundane, it restores 5 HP, if it is Rare it restores 10, and if it is Expert it restores 20.|
+|Restore MP|3 cr|When used, this item restores a fixed amount of [MP](../../Characters/Abilities-and-Statistics#term-mp) to a single character.  If it is Mundane, it restores 5 MP, if it is Rare it restores 10, and if it is Expert it restores 20.|
 |Physical Damage|5 cr|When used, this item deals base colorless physical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Magical Damage|5 cr|When used, this item deals base colorless magical damage to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Special Damage|7 cr|When used, this item deals base elemental physical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Elemental Damage|7 cr|When used, this item deals base elemental magical damage of a specified type to a single character that can be affected by damage modifiers.  If it is Mundane it deals 5 damage, if it is Rare it deals 10 damage, and if it is Expert it deals 20 damage.|
 |Debuff|9 cr|When used, this item inflicts a debuff of the specified type.  If it is Mundane, it debuffs by one level on the Bonus Tracker, if it is Rare it debuffs by two, and if it is Expert it debuffs by three.|
 |Buff|9 cr|When used, this item applies a buff of the specified type.  If it is Mundane, it buffs by one level on the Bonus Tracker, if it is Rare it buffs by two, and if it is Expert it buffs by three.|
-|Inflict Status|12 cr|When you use this item, make a status-inflicting ability roll against the target's Resistance to determine whether or not the specified status is inflicted.  If the item is Mundane, do not subtract anything from the roll.  If the item is Rare, subtract 2 from the roll, and if the Expert then subtract 5 from the roll.|
-|Revive|15 cr|When you use this item, the targeted character is revived from being downed.  If the item is Mundane, they are revived to 1 HP.  If the item is Rare they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
+|Inflict Status|12 cr|When you use this item, make a status-inflicting ability roll against the target's [Resistance](../../Characters/Abilities-and-Statistics#term-resistance) to determine whether or not the specified status is inflicted.  If the item is Mundane, do not subtract anything from the roll.  If the item is Rare, subtract 2 from the roll, and if the Expert then subtract 5 from the roll.|
+|Revive|15 cr|When you use this item, the targeted character is revived from being [downed](../../Characters/Abilities-and-Statistics#term-downed).  If the item is Mundane, they are revived to 1 HP.  If the item is Rare they are revived to half their maximum HP, rounded down, and if the item is Expert then they are revived to their current maximum HP.|
 
 ### Non-Leveled Item Effects
 
@@ -59,7 +59,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Shark Tooth Charm|Rare|Special Damage (Water)|N/A|70 cr|
 |Smelling Salts|Rare|Revive|Row|750 cr|
 |Poison Dart|Rare|Inflict Toxin|Delay|90 cr|
-|Experimental Combat Stim|Expert|Buff Physical Attack/Buff Physical Accuracy|Dual|9000 cr|
+|Experimental Combat Stim|Expert|Buff [Physical Attack](../../Characters/Abilities-and-Statistics#term-physical-attack)/Buff [Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy)|Dual|9000 cr|
 |Exquisite Fire Gem|Expert|Elemental Damage (Fire)|Multi|7000 cr|
 |Mandragora|N/A|Summon Creature (Dryad)|4000 cr|
 
