@@ -9,11 +9,11 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 
 **Statistics**
 
-|HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
+|[HP](../../Characters/Abilities-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Abilities-and-Statistics#term-initiative)|[Mana](../../Characters/Abilities-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Abilities-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Abilities-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Abilities-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Abilities-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |42|43|22|75|3|10|10|7|5|
 
-|Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
+|[Evasion](../../Characters/Abilities-and-Statistics#term-evasion)|[Resistance](../../Characters/Abilities-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy)|[Magical Accuracy]|[Status Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |7|7|10|14|14|
 
@@ -22,8 +22,8 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Slash|Melee|1 AP|Makes a basic physical attack.|
-|Thrust|Melee|1 AP, 3 MP|Makes a physical attack that deals colorless physical damage that is multiplied by 1.5 in addition to other modifiers.|
-|Strength in Numbers|Passive|N/A|During the Effect Phase, the Drakeling's Physical Defense and Magical Defense are buffed by a number of steps on the Bonus Tracker equal to the number of other Drakelings still not downed on the battlefield.|
+|Thrust|Melee|1 AP, 3 [MP](../../Characters/Abilities-and-Statistics#term-mp)|Makes a physical attack that deals colorless physical damage that is multiplied by 1.5 in addition to other modifiers.|
+|Strength in Numbers|Passive|N/A|During the Effect Phase, the Drakeling's Physical Defense and Magical Defense are buffed by a number of steps on the Bonus Tracker equal to the number of other Drakelings still not [downed](../../Characters/Abilities-and-Statistics#term-downed) on the battlefield.|
 
 **Item Table** 
 
