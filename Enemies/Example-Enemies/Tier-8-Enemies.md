@@ -9,11 +9,11 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 
 **Statistics**
 
-|HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
+|[HP](../../Characters/Abilities-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Abilities-and-Statistics#term-initiative)|[Mana](../../Characters/Abilities-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Abilities-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Abilities-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Abilities-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Abilities-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |32|38|15|75|3|6|14|6|7|
 
-|Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
+|[Evasion](../../Characters/Abilities-and-Statistics#term-evasion)|[Resistance](../../Characters/Abilities-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Abilities-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |4|6|6|8|8|
 
@@ -22,8 +22,8 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Strike|Melee|1 AP|Makes a basic physical attack.|
-|Behold!|Multi|1 AP, 18 MP|Uses a status-inflicting ability on all of the Herald's enemies that inflicts the Blinded status on a hit.|
-|The First Seal|Passive|N/A|When the Herald is downed, all of the Herald's enemies have their Magical Accuracy debuffed by one step on the Bonus Tracker.|
+|Behold!|Multi|1 AP, 18 [MP](../../Characters/Abilities-and-Statistics#term-mp)|Uses a status-inflicting ability on all of the Herald's enemies that inflicts the Blinded status on a hit.|
+|The First Seal|Passive|N/A|When the Herald is [downed](../../Characters/Abilities-and-Statistics#term-downed), all of the Herald's enemies have their Magical Accuracy debuffed by one step on the Bonus Tracker.|
 
 **Item Table** 
 
