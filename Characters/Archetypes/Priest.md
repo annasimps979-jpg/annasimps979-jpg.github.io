@@ -49,7 +49,7 @@ The Priest's core virtue is their **Compassion.**  At [character creation](../..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Divine Intervention|Multi|1 Anima, 2 AP|Your eidolon restores your and your allies' MP back to full and reduces the MP of all of your enemies by half of its maximum value.|
+|Divine Intervention|Multi|1 Anima, 2 AP|Restores your and your allies' MP back to full and reduces the MP of all of your enemies by half of its maximum value.|
 
 ## Talents
 
