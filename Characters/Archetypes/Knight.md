@@ -1,8 +1,8 @@
 # Knight
 
 The Knight's core virtue is their **Discipline.**  At [character creation](../../Characters/Character-Creation), they receive the following traits:
-*  Proficiency in Heavy armor.
-*  Proficiency in Lances.
+*  [Proficiency](../../Characters/Character-Creation#term-armor-proficiency) in Heavy armor.
+*  [Proficiency](../../Characters/Character-Creation#term-weapon-proficiency) in Lances.
 *  +15 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +2 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
