@@ -49,7 +49,7 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Berserk Charge|Special|1 Anima, 2 AP|Your eidolon applies Focused to itself, and may make as many basic attacks as possible until Focused is removed.|
+|Berserk Charge|Special|1 Anima, 2 AP|Applies Focused to your [eidolon](../../Characters/Eidolons#term-eidolon), and may make as many basic attacks as possible until Focused is removed.|
 
 ## Talents
 
