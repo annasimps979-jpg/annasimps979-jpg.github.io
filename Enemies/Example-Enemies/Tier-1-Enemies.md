@@ -9,11 +9,11 @@ In combat, police will swap between rounds where they debuff and rounds where th
 
 **Statistics**
 
-|[HP](../../Characters/Abilities-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Abilities-and-Statistics#term-initiative)|[Mana](../../Characters/Abilities-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Abilities-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Abilities-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Abilities-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Abilities-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |10|5|4|10|2|4|2|2|1|
 
-|[Evasion](../../Characters/Abilities-and-Statistics#term-evasion)|[Resistance](../../Characters/Abilities-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Abilities-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy)|
+|[Evasion](../../Characters/Attributes-and-Statistics#term-evasion)|[Resistance](../../Characters/Attributes-and-Statistics#term-resistance)|[Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy)|[Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy)|[Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy)|
 |:-|:-|:-|:-|:-|
 |1|2|4|2|2|
 
@@ -22,7 +22,7 @@ In combat, police will swap between rounds where they debuff and rounds where th
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Truncheon|Melee|1 AP|The Cop makes a basic physical attack.|
-|Crowd Control|Ranged|3 [MP](../../Characters/Abilities-and-Statistics#term-mp), 1 AP|The Cop moves a single target's Physical Attack down by one step on the Bonus Tracker.|
+|Crowd Control|Ranged|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|The Cop moves a single target's Physical Attack down by one step on the Bonus Tracker.|
 |Body Armor|Passive|N/A|The first time the Cop is hit by a physical attack, they do not take any damage.|
 
 **Item Table** 
