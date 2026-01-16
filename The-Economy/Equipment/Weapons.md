@@ -1,15 +1,15 @@
 # Weapons
 
-Each [character](../../Extras/Key-Terms#term-character) can wield a single weapon at a time during combat, and may swap out their current weapon for another one they are proficient in during combat with the Swap Weapon action.  All weapons give bonuses to a character's [base](../../Extras/Key-Terms#term-base) [Physical Attack](../../Characters/Abilities-and-Statistics#term-physical-attack) and their base [Magical Attack](../../Characters/Abilities-and-Statistics#term-magical-attack) while they are being wielded.  The values of these bonuses are determined by the weapon's Quality and weapon type.  A weapon's _<dfn id = "term-weapon-type">weapon type</dfn>_ determines the base bonuses it gives to the wielder's Physical Attack and Magical Attack.  There are three categories of weapon type: Balanced, Physical, and Magical, and three Qualities, Mundane, Rare, and Expert.  There are also Unique weapons, which are Expert weapons with a single extra weapon upgrade that is not available to any other type.  Each individual weapon type grants an additional unique +1 bonus to a single [statistic](../../Extras/Key-Terms#term-statistic) while a character is wielding them that does not count as a bonus on the Bonus Tracker.  There are 9 weapon types in total:
-*  Lances grant a +1 bonus to the [Physical Defense](../../Characters/Abilities-and-Statistics#term-physical-defense) of their wielder.
+Each [character](../../Extras/Key-Terms#term-character) can wield a single weapon at a time during combat, and may swap out their current weapon for another one they are proficient in during combat with the Swap Weapon action.  All weapons give bonuses to a character's [base](../../Extras/Key-Terms#term-base) [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack) and their base [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) while they are being wielded.  The values of these bonuses are determined by the weapon's Quality and weapon type.  A weapon's _<dfn id = "term-weapon-type">weapon type</dfn>_ determines the base bonuses it gives to the wielder's Physical Attack and Magical Attack.  There are three categories of weapon type: Balanced, Physical, and Magical, and three Qualities, Mundane, Rare, and Expert.  There are also Unique weapons, which are Expert weapons with a single extra weapon upgrade that is not available to any other type.  Each individual weapon type grants an additional unique +1 bonus to a single [statistic](../../Extras/Key-Terms#term-statistic) while a character is wielding them that does not count as a bonus on the Bonus Tracker.  There are 9 weapon types in total:
+*  Lances grant a +1 bonus to the [Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense) of their wielder.
 *  Swords grant a +1 bonus to the Physical Attack of their wielder.
-*  Bows grant a +1 bonus to the [Physical Accuracy](../../Characters/Abilities-and-Statistics#term-physical-accuracy) of their wielder.
-*  Guns grant a +1 bonus to the [Magical Accuracy](../../Characters/Abilities-and-Statistics#term-magical-accuracy) of their wielder.
-*  Daggers grant a +1 bonus to the [Evasion](../../Characters/Abilities-and-Statistics#term-evasion) of their wielder.
-*  Claws grant a +1 bonus to the [Status Accuracy](../../Characters/Abilities-and-Statistics#term-status-accuracy) of their wielder.
+*  Bows grant a +1 bonus to the [Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy) of their wielder.
+*  Guns grant a +1 bonus to the [Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy) of their wielder.
+*  Daggers grant a +1 bonus to the [Evasion](../../Characters/Attributes-and-Statistics#term-evasion) of their wielder.
+*  Claws grant a +1 bonus to the [Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy) of their wielder.
 *  Staves grant a +1 bonus to the Magical Attack of their wielder.
-*  Fans grant a +1 bonus to the [Magical Defense](../../Characters/Abilities-and-Statistics#term-magical-defense) of their wielder.
-*  Scepters grant a +1 bonus to the [Resistance](../../Characters/Abilities-and-Statistics#term-resistance) of their wielder.
+*  Fans grant a +1 bonus to the [Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense) of their wielder.
+*  Scepters grant a +1 bonus to the [Resistance](../../Characters/Attributes-and-Statistics#term-resistance) of their wielder.
 
 ## Physical Weapons 
 
@@ -49,7 +49,7 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons provide a greater bonus 
 |:-|:-|
 |Keen|This upgrade gives a bonus to either your Status, Magical, or Physical Accuracy whose value depends on its UV.  UV 1 gives a +1, UV 2 gives a +3, and UV 3 gives a +5.|
 |Extra Ability|When a character wields a weapon with this upgrade, they are able to use a single flex power, job power, or archetype [ability](../../Extras/Key-Terms#term-ability) at twice its normal MP cost.  At UV 1, the ability is earned at of Rank 1-3 of the job or class that can use it, at UV 2 the ability is earned at Rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.|
-|Fast|This upgrade gives a bonus to the wielder's [Initiative](../../Characters/Abilities-and-Statistics#term-initiative).  At UV 1, the bonus is +1, at UV 2 the bonus is +2, and at UV 3 the bonus is +3.|
+|Fast|This upgrade gives a bonus to the wielder's [Initiative](../../Characters/Attributes-and-Statistics#term-initiative).  At UV 1, the bonus is +1, at UV 2 the bonus is +2, and at UV 3 the bonus is +3.|
 |Sharpened|After you hit an enemy with a physical attack while wielding a weapon with this upgrade, you can add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) given by the UV of the upgrade.  UV 1 gives +1 extra damage, UV 2 gives +2 extra damage, and UV 3 gives +3 extra damage.|
 |Energized|After you hit an enemy with a magical attack while wielding a weapon with this upgrade, you can add an amount of damage to the end result of the damage calculation (that is, after all multipliers have been applied) given by the UV of the upgrade.  UV 1 gives +1 extra damage, UV 2 gives +2 extra damage, and UV 3 gives +3 extra damage.|
 
