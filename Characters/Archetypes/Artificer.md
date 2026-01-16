@@ -1,8 +1,8 @@
 # Artificer
 
 The Artificer's core virtue is their **Knowledge.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
-*  Proficiency in Heavy armor.
-*  Proficiency in Guns.
+*  [Proficiency](../../Characters/Character-Creation#term-armor-proficiency) in Heavy armor.
+*  [Proficiency](../../Characters/Character-Creation#term-weapon-proficiency) in Guns.
 *  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
