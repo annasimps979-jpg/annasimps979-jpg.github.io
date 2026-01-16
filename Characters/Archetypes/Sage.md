@@ -1,8 +1,8 @@
 # Sage
 
 The Sage's core virtue is their **Wisdom.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
-*  Proficiency in Cloth armor.
-*  Proficiency in Staves.
+*  [Proficiency](../../Characters/Character-Creation#term-armor-proficiency) in Cloth armor.
+*  [Proficiency](../../Characters/Character-Creation#term-weapon-proficiency) in Staves.
 *  +5 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +15 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
