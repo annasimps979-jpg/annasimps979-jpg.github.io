@@ -11,7 +11,7 @@ New Villains created by the GM begin with 5 Anima.  There are four circumstances
 Villains can spend Anima to subvert players for the sake of their Ambition by taking the following [actions](../../Extras/Key-Terms#term-action):
 *  Interrupt.  A Villain may spend 1 Anima during combat to take one additional action during, before, or after another [character's](../../Extras/Key-Terms#term-character) turn.  This action does not cost them any AP.
 *  Intervene.  When the narrative or mechanics indicate that a player character would succeed at doing something to thwart a Villain's Ambition, such as after a Skill Challenge, the Villain may spend 3 Anima to make them fail instead.  This also includes successful rolls made during combat.
-*  Kill.  If at least one player character is [downed](../../Characters/Abilities-and-Statistics#term-downed) during the paradigm phase, a Villain may spend 3 Anima to grant them True Death.  This counts as a paradigm action when used.
+*  Kill.  If at least one player character is [downed](../../Characters/Attributes-and-Statistics#term-downed) during the paradigm phase, a Villain may spend 3 Anima to grant them True Death.  This counts as a paradigm action when used.
 *  Summon Eidolon.  A Villain may spend 5 Anima during combat to summon their Eidolon.  The same rules apply for a Villain's Eidolon that apply for a player character's, including that the Villain must spend 1 Anima per round to keep their Eidolon on the field, with the exception that the Villain may summon their Eidolon as a reaction to a player summoning theirs before the player's Eidolon can act.
 *  Sacrifice.  A Villain may spend 10 Anima to grant a player character True Death out of combat.
 
