@@ -49,7 +49,7 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Spin the Revolver|Ranged|1 Anima, 2 AP|Choose an enemy and roll a 1d6.  If the result is a 6, the enemy takes damage equal to quadruple your eidolon's [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack).  If not, roll again.  If the result is a 6, then your eidolon takes damage equal to quadruple its Magical Attack.  Keep going back and forth with the die like this until either your eidolon or the enemy have taken damage.|
+|Spin the Revolver|Ranged|1 Anima, 2 AP|Choose an enemy and roll a 1d6.  If the result is a 6, the enemy takes damage equal to quadruple your [eidolon's](../../Characters/Eidolons#term-eidolon) [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack).  If not, roll again.  If the result is a 6, then your eidolon takes damage equal to quadruple its Magical Attack.  Keep going back and forth with the die like this until either your eidolon or the enemy have taken damage.|
 
 ## Talents
 
