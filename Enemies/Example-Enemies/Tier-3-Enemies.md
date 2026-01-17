@@ -172,7 +172,7 @@ Void elves are powerful combatants, but are also quite arrogant.  As a result, t
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Read Mind|Ranged|1 AP, 2 MP|Works the same as the Artificer's Scan ability.|
+|Read Mind|Ranged|1 AP, 2 MP|Works the same as the [Artificer's](../../Characters/Archetypes/Artificer) Scan ability.|
 |Mindspike|Ranged|1 AP, 5 MP|Makes a magical light attack against a single enemy.|
 |Corrupt Mind|Ranged|1 AP, 10 MP|Debuffs an enemy's Magical Attack by 3 steps on the Bonus Tracker.|
 |Mindwipe|Ally|1 AP, 8 MP|Removes all buffs and debuffs from a single [character](../../Extras/Key-Terms#term-character).|
@@ -262,7 +262,7 @@ Void elves are powerful combatants, but are also quite arrogant.  As a result, t
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Stab|Melee|1 AP|Makes a basic physical attack.|
-|Command|Ally|1 AP|Works the same as the Comander's Orders ability.|
+|Command|Ally|1 AP|Works the same as the [Commander's](../../Characters/Archetypes/Commander) Orders ability.|
 |Compulsion|Ranged|1 AP, 7 MP|Makes a status-inflicting ability roll that, when successful, forces the target to make an action of the Lord's choice.|
 |Psi Lance|Ranged|1 AP, 7 MP|Makes a magical attack that deals magical colorless damage on a hit that is multiplied by 2 in addition to other modifiers.|
 |Cheat Death|Ally|1 AP, 10 MP|Revives a single downed ally back to 1 HP.|
@@ -288,7 +288,7 @@ Void elves are powerful combatants, but are also quite arrogant.  As a result, t
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Double Strike|Melee|1 AP|Makes two basic physical attacks whose damage on a hit is multiplied by 0.75 in addition to other modifiers.|
-|Cloaking Field|Self|1 AP|Works the same as the Thief's Hide ability.|
+|Cloaking Field|Self|1 AP|Works the same as the [Thief's](../../Characters/Archetypes/Thief) Hide ability.|
 |Precision Attack|Melee|1 AP, 5 MP|Makes a physical attack that deals physical colorless damage that is multiplied by 2 in addition to other modifiers.|
 |Wired Reflexes|Self|1 AP, 12 MP|Inflicts Hasted on the Infiltrator.|
 |Hamstring|Melee|1 AP, 12 MP|Makes a basic physical attack.  On a hit, also inflicts Slowed on the enemy.|
