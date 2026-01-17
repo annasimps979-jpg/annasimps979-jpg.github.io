@@ -64,5 +64,5 @@ As characters advance in tier, they will unlock special capstone abilities that 
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Reduce|Ranged|1 AP|Bring the Bonus Tracker of the statistic that their summoner's archetype debuffs to -7 for a single target and apply Slowed as though the eidolon had used the Slow ability on them.|
+|Reduce|Ranged|1 AP|Bring the Bonus Tracker of the statistic that their summoner's [archetype](../Characters/Archetypes/) debuffs to -7 for a single target and apply Slowed as though the eidolon had used the Slow ability on them.|
 |Sabotage|Ranged|1 AP|Make a status-inflicting ability roll against a single target.  If it succeeds, inflict the status effect associated with their elemental type on the target.|
