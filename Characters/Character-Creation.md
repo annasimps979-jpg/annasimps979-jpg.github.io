@@ -14,7 +14,7 @@ After you have made your character concept, the next step is to determine your c
 At character creation, you may either set the value of all of your attributes to 2, or set one to 3, one to 2, and one to 1.
 
 ## Choose Archetype
-Next, choose your character's archetype, which gives them extra abilities and talents that they can acquire as they level up, as well as bonuses to their statistics.  In Last Odyssey, there are nine archetypes in total:
+Next, choose your character's [archetype](../Characters/Archetypes/), which gives them extra abilities and talents that they can acquire as they level up, as well as bonuses to their statistics.  In Last Odyssey, there are nine archetypes in total:
 *  _[Rangers](../Characters/Archetypes/Ranger)_ are heroes of exceptional focus.
 *  _[Thieves](../Characters/Archetypes/Thief)_ are heroes of exceptional cunning.
 *  _[Artificers](../Characters/Archetypes/Artificer)_ are heroes of exceptional knowledge.
