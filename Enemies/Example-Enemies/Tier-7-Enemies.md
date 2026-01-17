@@ -234,9 +234,9 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 
 |Result|Item|
 |:-|:-|
-|Elemental Cleave (Fire)|
-|Rare Fire Magical Damage (Multi)|
-|500 cr|
+|1|Elemental Cleave (Fire)|
+|2|Rare Fire Magical Damage (Multi)|
+|3|500 cr|
 
 ### Torturer (Elite 7, Demon, Fire)
 
@@ -256,9 +256,9 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |:-|:-|:-|:-|
 |Sickle|Melee|1 AP|Makes a basic physical attack.|
 |Test Subject|Ranged|1 AP|The Torturer inflicts the Test Subject status on a single target.  This status can be healed, and only one character can be a Test Subject at a time.  The Torturer's Test Subject receives +1 total damage from all sources.|
-|Wheel of Knives|Special|1 AP, 8 MP.  Roll a 1d10 and consult the Random Element Table.  The Test Subject takes physical damage of the resulting elemental type that does [base](../../Extras/Key-Terms#term-base) damage as though they had been hit by one of the Torturer's physical attacks.|
+|Wheel of Knives|Special|1 AP, 8 MP|Roll a 1d10 and consult the Random Element Table.  The Test Subject takes physical damage of the resulting elemental type that does [base](../../Extras/Key-Terms#term-base) damage as though they had been hit by one of the Torturer's physical attacks.|
 |Wheel of Pain|Special|1 AP, 5 MP|Roll a 1d10 and consult the Random Element Table.  The Test Subject takes magical damage of the resulting elemental type that does base damage as though they had been hit by one of the Torturer's magical attacks.|
-|Wheel of Misfortune|Special|1 AP, 7 MP.  The Torturer's Test subject receives a random extra status effect that cannot be resisted, not even by immunity.  Roll a 1d10 and consult the Torturer's Elemental Table to see which status effect they receive.  Colorless corresponds to the subject not receiving any damage.|
+|Wheel of Misfortune|Special|1 AP, 7 MP|The Torturer's Test subject receives a random extra status effect that cannot be resisted, not even by immunity.  Roll a 1d10 and consult the Torturer's Elemental Table to see which status effect they receive.  Colorless corresponds to the subject not receiving any damage.|
 
 **Item Table**
 
@@ -286,7 +286,7 @@ In combat, devils are clever and efficient.  While they are cruel, it is not to 
 |:-|:-|:-|:-|
 |Tail Strike|Melee|1 AP|Makes a basic physical attack.|
 |Fire Breath|Multi|1 AP, 13 MP|Makes a magical attack against all of the Balrog's enemies that deals magical fire damage on a hit.|
-|Meteor|Ranged|1 AP, 7 MP.  Makes a magical attack against a single target that deals magical fire damage on a hit that is multiplied by 2 in addition to other modifiers.|
+|Meteor|Ranged|1 AP, 7 MP|Makes a magical attack against a single target that deals magical fire damage on a hit that is multiplied by 2 in addition to other modifiers.|
 |Heat Exhaustion|Multi|1 AP, 28 MP|Inflicts Slowed on all of the Balrog's enemies.|
 |Being of Fire|Passive|N/A|Any character that hits the Balrog with a physical attack takes 10 base physical fire damage in retaliation.|
 
