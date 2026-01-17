@@ -78,7 +78,7 @@ In combat, Orks want to strike terror.  They do this through doing their best to
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Chop|Melee|1 AP|Makes a basic physical attack.|
-|Fury|Self|1 AP|Works the same way as the Knight's Focus [ability](../../Extras/Key-Terms#term-ability) when the Knight has the Melee passive ability active.|
+|Fury|Self|1 AP|Works the same way as the [Knight's](../../Characters/Archetypes/Knight) Focus [ability](../../Extras/Key-Terms#term-ability) when the Knight has the Melee passive ability active.|
 |Cleave|Multi|1 AP, 7 MP|The Berserker makes a melee physical attack against every character in the front row.  On a hit, this attack does colorless physical damage.|
 
 **Item Table** 
