@@ -257,7 +257,7 @@ In combat, dwarves are highly coordinated opponents, with each one focusing on t
 |Dagger|Melee|1 AP|Makes a basic physical attack.|
 |Hip Blade|Self|1 AP, 7 MP|Inflicts the Countering status on the Assassin until the beginning of their next turn.|
 |Poison Dagger|Melee|1 AP, 7 MP|Makes a basic physical attack.  On a hit, the target also receives the Toxin status effect unless they are immune.|
-|Assassin's Mark|Ranged|1 AP|Applies the Hunted status effect to a single enemy.  Works the same as the Ranger's Mark Target.|
+|Assassin's Mark|Ranged|1 AP|Applies the Hunted status effect to a single enemy.  Works the same as the [Ranger's](../Characters/Archetypes/Ranger) Mark Target ability.|
 |Parkour|Passive|N/A|The Assassin has the Ranger's Forest Walk ability.|
 
 **Item Table** 
