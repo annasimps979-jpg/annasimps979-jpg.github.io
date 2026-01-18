@@ -6,8 +6,8 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 *  +15 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +5 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a Support, your buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Resistance](../../Characters/Attributes-and-Statistics#term-resistance).
-*  As a Saboteur, your debuff abilities will affect Status Accuracy.
+*  As a [Support](../../Characters/Jobs/Support), your buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Resistance](../../Characters/Attributes-and-Statistics#term-resistance).
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), your debuff abilities will affect Status Accuracy.
 
 ## Advancements by Rank
 
@@ -53,13 +53,13 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 ## Talents
 
-**Striker:** Vanguard.  When an ally makes a physical attack using the AP you granted them with Orders, they may substitute your Physical Accuracy and [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack) for theirs.
+**[Striker](../../Characters/Jobs/Striker):** Vanguard.  When an ally makes a physical attack using the AP you granted them with Orders, they may substitute your Physical Accuracy and [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack) for theirs.
 
-**Caster:** Siege Engineer.  When an ally makes a magical attack using the AP you granted them with Orders, they may substitute your Magical Accuracy and [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) for theirs.
+**[Caster](../../Characters/Jobs/Caster):** Siege Engineer.  When an ally makes a magical attack using the AP you granted them with Orders, they may substitute your Magical Accuracy and [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) for theirs.
 
-**Healer:** Medical Tent.  When an ally uses a Healer ability using the AP you granted them with Orders, they may substitute your Magical Attack for theirs.
+**[Healer](../../Characters/Jobs/Healer):** Medical Tent.  When an ally uses a Healer ability using the AP you granted them with Orders, they may substitute your Magical Attack for theirs.
 
-**Defender:** Shield Wall.  When you use the Taunt or Multitaunt abilities, you may direct the target to attack one of your allies instead of you.
+**[Defender](../../Characters/Jobs/Defender):** Shield Wall.  When you use the Taunt or Multitaunt abilities, you may direct the target to attack one of your allies instead of you.
 
 **Support:** Trenches.  All of your allies gain the bonus from Standard Bearer regardless of their place in the Initiative Order.  This does not apply if you are downed.
 
