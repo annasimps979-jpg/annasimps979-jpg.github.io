@@ -6,8 +6,8 @@ A Ranger's core virtue is their **Focus.**  At [character creation](../../Charac
 *  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy).
-*  As a Saboteur, their debuff abilities will affect [Evasion](../../Characters/Attributes-and-Statistics#term-evasion).
+*  As a [Support](../../Characters/Jobs/Support), their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy).
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), their debuff abilities will affect [Evasion](../../Characters/Attributes-and-Statistics#term-evasion).
 
 ## Advancements by Rank
 
@@ -53,13 +53,13 @@ A Ranger's core virtue is their **Focus.**  At [character creation](../../Charac
 
 ## Talents
 
-**Striker:** True Strike.  When you use a physical attack against a Hunted enemy, you may remove the Hunted status effect in order to guarantee that you hit regardless of the result of the hit die.
+**[Striker](../../Characters/Jobs/Striker):** True Strike.  When you use a physical attack against a Hunted enemy, you may remove the Hunted status effect in order to guarantee that you hit regardless of the result of the hit die.
 
-**Caster:** Detonate.  When an enemy triggers the effect of Lay Trap, you may use a single-target magical attack against them rather than a basic attack.  When you do so, you may roll the hit die twice and choose the result you prefer.
+**[Caster](../../Characters/Jobs/Caster):** Detonate.  When an enemy triggers the effect of Lay Trap, you may use a single-target magical attack against them rather than a basic attack.  When you do so, you may roll the hit die twice and choose the result you prefer.
 
-**Healer:** Rescuscitate.  You may use your Mark Target ability to apply the Watched status to one of your allies. When they drop to 0 [HP](../../Characters/Attributes-and-Statistics#term-hp) or below, the Watched status is removed, and they regain an amount of HP equal to your magical attack as a Healer.  Only one ally may be Watched by you at a time.
+**[Healer](../../Characters/Jobs/Healer):** Rescuscitate.  You may use your Mark Target ability to apply the Watched status to one of your allies. When they drop to 0 [HP](../../Characters/Attributes-and-Statistics#term-hp) or below, the Watched status is removed, and they regain an amount of HP equal to your magical attack as a Healer.  Only one ally may be Watched by you at a time.
 
-**Defender:** Forcefield.  You may use the Mark Target ability to apply the Defended status to an ally.  The next time they are hit by a status-inflicting ability, a magical attack, or a physical attack, the damage or status is negated.  Only one ally may be Defended by you at a time.
+**[Defender](../../Characters/Jobs/Defender):** Forcefield.  You may use the Mark Target ability to apply the Defended status to an ally.  The next time they are hit by a status-inflicting ability, a magical attack, or a physical attack, the damage or status is negated.  Only one ally may be Defended by you at a time.
 
 **Support:** Herbal Medicine.  You may use the Mark Target ability to apply the Treated status to an ally.  Treated allies ignore the cumulative effects of all debuffs that have been applied to them, although this does not affect the position of any of their [statistics](../../Extras/Key-Terms#term-statistic) on the Bonus Tracker.
 
