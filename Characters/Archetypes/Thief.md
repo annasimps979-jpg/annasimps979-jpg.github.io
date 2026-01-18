@@ -6,8 +6,8 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 *  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +5 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +6 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack).
-*  As a Saboteur, their debuff abilities will affect [Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense).
+*  As a [Support](../../Characters/Jobs/Support), their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack).
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), their debuff abilities will affect [Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense).
 
 ## Advancements by Rank
 
@@ -53,13 +53,13 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 
 ## Talents
 
-**Striker:** Lifesteal.  When you use Steal on an enemy and roll a 4 on their item table, you drain an amount of HP from them equal to your current Physical Attack and give it to yourself.
+**[Striker](../../Characters/Jobs/Striker):** Lifesteal.  When you use Steal on an enemy and roll a 4 on their item table, you drain an amount of HP from them equal to your current Physical Attack and give it to yourself.
 
-**Caster:** Manasteal.  When you use Steal on an enemy and roll a 4 on their item table, you drain an amount of [MP](../../Characters/Attributes-and-Statistics#term-mp) from them equal to your current [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) and give it to yourself.
+**[Caster](../../Characters/Jobs/Caster):** Manasteal.  When you use Steal on an enemy and roll a 4 on their item table, you drain an amount of [MP](../../Characters/Attributes-and-Statistics#term-mp) from them equal to your current [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) and give it to yourself.
 
-**Healer:** Night Shift.  You may use your Healer abilities while Hidden without removing the status effect from yourself.
+**[Healer](../../Characters/Jobs/Healer):** Night Shift.  You may use your Healer abilities while Hidden without removing the status effect from yourself.
 
-**Defender:** Ninja Bodyguard.  You may use Guard, Shield, Counter, and Reflect without losing the Hidden status effect.  If any of the effects of these abilities are triggered while you are Hidden, you lose the Hidden status effect.
+**[Defender](../../Characters/Jobs/Defender):** Ninja Bodyguard.  You may use Guard, Shield, Counter, and Reflect without losing the Hidden status effect.  If any of the effects of these abilities are triggered while you are Hidden, you lose the Hidden status effect.
 
 **Support:** Shellsteal.  When you use Steal on an enemy and roll a 4 on their item table, you drain an amount of Shell from them equal to your current Magical Attack and give it to yourself.  Your current Shell will then become the elemental type of the drained Shell.
 
