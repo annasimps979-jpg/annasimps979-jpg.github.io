@@ -6,8 +6,8 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 *  +5 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +6 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) affect [Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy).
-*  As a Saboteur, their debuff abilities affect [Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy).
+*  As a [Support](../../Characters/Jobs/Support), their buff [abilities](../../Extras/Key-Terms#term-ability) affect [Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy).
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), their debuff abilities affect [Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy).
 
 ## Advancements by Rank
 
@@ -53,13 +53,13 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 ## Talents
 
-**Striker:** Random Strike.  When you use a physical attack, you may roll on the Random Element Table to determine its elemental type.
+**[Striker](../../Characters/Jobs/Striker):** Random Strike.  When you use a physical attack, you may roll on the Random Element Table to determine its elemental type.
 
-**Caster:** Rainbow Bolt.  When you use a magical attack, you may roll on the Random Element Table to determine its elemental type.
+**[Caster](../../Characters/Jobs/Caster):** Rainbow Bolt.  When you use a magical attack, you may roll on the Random Element Table to determine its elemental type.
 
-**Healer:** Bet Your Life.  When you heal an ally with a Healer ability, have them call a number and then roll a 1d10.  If the result is less than what they called, the amount of healing they receive is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing they receive is increased by the number they called.
+**[Healer](../../Characters/Jobs/Healer):** Bet Your Life.  When you heal an ally with a Healer ability, have them call a number and then roll a 1d10.  If the result is less than what they called, the amount of healing they receive is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing they receive is increased by the number they called.
 
-**Defender:** Call Bluff.  When a Taunted enemy attacks you with a physical or magical attack, you may roll a 1d10 before the [GM](../../Extras/Key-Terms#term-gm) rolls the hit die.  If your result is less than theirs, the attack misses.  Otherwise, if the attack hits, you take double damage.
+**[Defender](../../Characters/Jobs/Defender):** Call Bluff.  When a Taunted enemy attacks you with a physical or magical attack, you may roll a 1d10 before the [GM](../../Extras/Key-Terms#term-gm) rolls the hit die.  If your result is less than theirs, the attack misses.  Otherwise, if the attack hits, you take double damage.
 
 **Support:** Random Buff.  When you use a buff ability, you may roll on the Random Statistic Table to determine which [statistic](../../Extras/Key-Terms#term-statistic) you buff.
 
