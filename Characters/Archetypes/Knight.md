@@ -6,8 +6,8 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 *  +15 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +2 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense).
-*  As a Saboteur, their debuff abilities will affect [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack).
+*  As a [Support](../../Characters/Jobs/Support), their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense).
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), their debuff abilities will affect [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack).
 
 ## Advancements by Rank
 
@@ -53,13 +53,13 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 ## Talents
 
-**Striker:** Melee.  While you are Focused, you may use physical attacks in addition to your basic attack.  Hitting an enemy with a physical attack increases your bonus damage by 1, while missing an enemy with a physical attack removes the Focused status effect.
+**[Striker](../../Characters/Jobs/Striker):** Melee.  While you are Focused, you may use physical attacks in addition to your basic attack.  Hitting an enemy with a physical attack increases your bonus damage by 1, while missing an enemy with a physical attack removes the Focused status effect.
 
-**Caster:** Artillery.  While you are Focused, you may use magical attacks in addition to your basic attack.  Hitting an enemy with a magical attack increases your bonus damage by 1, while missing an enemy with a magical attack removes the Focused status effect.
+**[Caster](../../Characters/Jobs/Caster):** Artillery.  While you are Focused, you may use magical attacks in addition to your basic attack.  Hitting an enemy with a magical attack increases your bonus damage by 1, while missing an enemy with a magical attack removes the Focused status effect.
 
-**Healer:** Medic.  While you are Focused, you may use your healing abilities.  The damage bonus to your attacks allows you to heal your allies for more [HP](../../Characters/Attributes-and-Statistics#term-hp) equal to your damage bonus with abilities that heal their HP.
+**[Healer](../../Characters/Jobs/Healer):** Medic.  While you are Focused, you may use your healing abilities.  The damage bonus to your attacks allows you to heal your allies for more [HP](../../Characters/Attributes-and-Statistics#term-hp) equal to your damage bonus with abilities that heal their HP.
 
-**Defender:** Tower.  While you are Focused, you may use the Guard, Taunt, Multiguard, and Multitaunt abilities, and you take reduced damage from physical and magical attacks equal to your current damage bonus.
+**[Defender](../../Characters/Jobs/Defender):** Tower.  While you are Focused, you may use the Guard, Taunt, Multiguard, and Multitaunt abilities, and you take reduced damage from physical and magical attacks equal to your current damage bonus.
 
 **Support:** Relentless.  While you are Focused, you gain 1 Shell of your elemental type every time you hit an enemy.  If you have a Shell of a different elemental type active, you gain 1 Shell of that elemental type instead.
 
