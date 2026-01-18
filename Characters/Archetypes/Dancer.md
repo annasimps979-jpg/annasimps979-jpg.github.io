@@ -6,8 +6,8 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 *  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +10 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a Support, your buff [abilities](../../Extras/Key-Terms#term-ability) affect [Evasion](../../Characters/Attributes-and-Statistics#term-evasion).
-*  As a Saboteur, your debuff abilities affect [Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy).
+*  As a [Support](../../Characters/Jobs/Support), your buff [abilities](../../Extras/Key-Terms#term-ability) affect [Evasion](../../Characters/Attributes-and-Statistics#term-evasion).
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), your debuff abilities affect [Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy).
 
 ## Advancements by Rank
 
@@ -53,13 +53,13 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 
 ## Talents
 
-**Striker:** Athletic Outfit.  Using your Dancer's Mask ability also makes the elemental type of all of your colorless physical attacks into your current elemental type due to Masked.
+**[Striker](../../Characters/Jobs/Striker):** Athletic Outfit.  Using your Dancer's Mask ability also makes the elemental type of all of your colorless physical attacks into your current elemental type due to Masked.
 
-**Caster:** School Uniform.  Using your Dancer's Mask ability also makes the elemental type of all of your colorless magical attacks into your current elemental type due to Masked.
+**[Caster](../../Characters/Jobs/Caster):** School Uniform.  Using your Dancer's Mask ability also makes the elemental type of all of your colorless magical attacks into your current elemental type due to Masked.
 
-**Healer:** Regal Clothing.  If you use a healing ability due to Mimic or Copycat, you may use it twice instead of once.
+**[Healer](../../Characters/Jobs/Healer):** Regal Clothing.  If you use a healing ability due to Mimic or Copycat, you may use it twice instead of once.
 
-**Defender:** Outdoor Wear.  While you are Masked, you are immune to the effects of physical attacks, magical attacks, and status-inflicting abilities of your current elemental type.
+**[Defender](../../Characters/Jobs/Defender):** Outdoor Wear.  While you are Masked, you are immune to the effects of physical attacks, magical attacks, and status-inflicting abilities of your current elemental type.
 
 **Support:** Casual Dress.  When Masked, your Shell-applying abilities have their elemental type changed to your current elemental type.
 
