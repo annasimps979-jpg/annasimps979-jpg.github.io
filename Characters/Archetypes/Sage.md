@@ -6,8 +6,8 @@ The Sage's core virtue is their **Wisdom.**  At [character creation](../../Chara
 *  +5 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +15 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a Support, their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack).
-*  As a Saboteur, their debuff abilities will affect [Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense).
+*  As a [Support](../../Characters/Jobs/Support), their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack).
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), their debuff abilities will affect [Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense).
 
 ## Advancements by Rank
 
@@ -31,7 +31,7 @@ The Sage's core virtue is their **Wisdom.**  At [character creation](../../Chara
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Cantrip|Passive|N/A|You may use the Magic Missile ability for free regardless of what job you currently occupy.|
+|Cantrip|Passive|N/A|You may use the Magic Missile ability for free regardless of what [job](../../Characters/Jobs/) you currently occupy.|
 
 **Rank 6:** You gain +1 Magical Attack.
 
@@ -53,13 +53,13 @@ The Sage's core virtue is their **Wisdom.**  At [character creation](../../Chara
 
 ## Talents
 
-**Striker:** Martial Artist.  You may also expend Spell Slots in order to use physical attacks.
+**[Striker](../../Characters/Jobs/Striker):** Martial Artist.  You may also expend Spell Slots in order to use physical attacks.
 
-**Caster:** Empowered Staff.  Your Elemental Bolt ability does not cost any MP.
+**[Caster](../../Characters/Jobs/Caster):** Empowered Staff.  Your Elemental Bolt ability does not cost any MP.
 
-**Healer:** Alchemy.  You may expend Spell Slots in order to use your Healer abilities.
+**[Healer](../../Characters/Jobs/Healer):** Alchemy.  You may expend Spell Slots in order to use your Healer abilities.
 
-**Defender:** Arcane Shield.  You may use Counterspell to negate enemy physical attacks.  Negating an enemy's basic attack costs 5 MP.
+**[Defender](../../Characters/Jobs/Defender):** Arcane Shield.  You may use Counterspell to negate enemy physical attacks.  Negating an enemy's basic attack costs 5 MP.
 
 **Support:** Ward.  You may use Counterspell to negate enemy debuffs and status-inflicting abilities.
 
