@@ -6,8 +6,8 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 *  +15 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +5 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a [Support](../../Characters/Jobs/Support), your buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Resistance](../../Characters/Attributes-and-Statistics#term-resistance).
-*  As a [Saboteur](../../Characters/Jobs/Saboteur), your debuff abilities will affect Status Accuracy.
+*  As a [Support](../../Characters/Jobs/Support), your [buff](../../Combat-Rules/Buffs-and-Debuffs#term-buff) [abilities](../../Extras/Key-Terms#term-ability) will affect [Resistance](../../Characters/Attributes-and-Statistics#term-resistance).
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), your [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) abilities will affect Status Accuracy.
 
 ## Advancements by Rank
 
@@ -23,7 +23,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Standard Bearer|[Passive](../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Your allies gain a +1 bonus to their [Status](../../Characters/Attributes-and-Statistics#term-status-accuracy), [Physical](../../Characters/Attributes-and-Statistics#term-physical-accuracy), and [Magical Accuracies](../../Characters/Attributes-and-Statistics#term-magical-accuracy) when they act after you in the initiative order that does not count on the bonus tracker.  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed), this effect does not apply.|
+|Standard Bearer|[Passive](../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Your allies gain a +1 bonus to their [Status](../../Characters/Attributes-and-Statistics#term-status-accuracy), [Physical](../../Characters/Attributes-and-Statistics#term-physical-accuracy), and [Magical Accuracies](../../Characters/Attributes-and-Statistics#term-magical-accuracy) when they act after you in the initiative order that does not count on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed), this effect does not apply.|
 
 **Rank 4:** You gain +1 Resistance.
 
