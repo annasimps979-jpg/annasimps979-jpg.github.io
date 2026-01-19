@@ -21,9 +21,9 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Faerie Fire|Ranged|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack that does magical damage of the Wisp's elemental type on a hit.|
-|Curse|Multi|1 AP, 18 MP|Attempts to inflict the status associated with the Wisp's element on all enemies on the battlefield.|
-|Magic Ward|Ally|1 AP, 7 MP|Applies 16 points of Shell to a single ally of the Wisp's current elemental type.|
+|Faerie Fire|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) that does magical damage of the Wisp's elemental type on a hit.|
+|Curse|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 18 MP|Attempts to inflict the status associated with the Wisp's element on all enemies on the battlefield.|
+|Magic Ward|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 7 MP|Applies 16 points of Shell to a single ally of the Wisp's current elemental type.|
 
 **Item Table** 
 
@@ -49,10 +49,10 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Strike|Melee|1 AP, 3 MP|The Homid makes an attack that deals damage of its elemental type.|
-|Physical Form|Self|1 AP|The Homid becomes immune to magical damage, and all of their attacks deal physical damage.|
+|Strike|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP, 3 MP|The Homid makes an attack that deals damage of its elemental type.|
+|Physical Form|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|The Homid becomes immune to magical damage, and all of their attacks deal physical damage.|
 |Magical Form|Self|1 AP|The Homid becomes immune to physical damage, and all of their attacks deal magical damage.|
-|Vacillation|Passive|N/A|The Homid begins battle with either Physical or Magical Form active, whichever the [GM](../../Extras/Key-Terms#term-gm) chooses.  If Physical Form is active during the Effect Phase, the Homid will use Magical Form.  If Magical Form is active during the Effect Phase, the Homid will use Physical Form.|
+|Vacillation|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The Homid begins battle with either Physical or Magical Form active, whichever the [GM](../../Extras/Key-Terms#term-gm) chooses.  If Physical Form is active during the Effect Phase, the Homid will use Magical Form.  If Magical Form is active during the Effect Phase, the Homid will use Physical Form.|
 
 **Item Table** 
 
@@ -78,7 +78,7 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Bite|Melee|1 AP|Makes a basic physical attack.|
+|Bite|Melee|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Slime|Ranged|1 AP, 12 MP|Inflicts the Slow status on a single enemy.  Works the same as the Saboteur's Slow ability.|
 |Absorb Element|Passive|N/A|If the Salamander would take damage of its elemental type, it instead gains an amount of HP equal to the damage it would have taken.|
 
@@ -201,7 +201,7 @@ Sahuagin are somewhat physically weak, and as a result will focus on wearing the
 |:-|:-|:-|:-|
 |Spear|Melee|1 AP|Makes a basic physical attack.|
 |Waterstrike|Melee|1 AP, 3 MP|Makes a physical attack against a single target that deals physical water damage on a hit.|
-|Expose Weakness|Ranged|1 AP, 8 MP|Makes a status-inflicting ability roll that, on a hit, inflicts the Vulnerable (Water) status.  This works the same as the Saboteur's Vulnerability power.|
+|Expose Weakness|Ranged|1 AP, 8 MP|Makes a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) roll that, on a hit, inflicts the Vulnerable (Water) status.  This works the same as the Saboteur's Vulnerability power.|
 
 **Item Table** 
 
