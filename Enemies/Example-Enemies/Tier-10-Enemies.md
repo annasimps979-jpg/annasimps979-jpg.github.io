@@ -19,11 +19,11 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 
 **Abilities**
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Slash|Melee|1 AP|Makes a basic physical attack.|
+|Slash|[Melee](../../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Thrust|Melee|1 AP, 3 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack that deals colorless physical damage that is multiplied by 1.5 in addition to other modifiers.|
-|Strength in Numbers|Passive|N/A|During the Effect Phase, the Drakeling's Physical Defense and Magical Defense are buffed by a number of steps on the Bonus Tracker equal to the number of other Drakelings still not [downed](../../Characters/Attributes-and-Statistics#term-downed) on the battlefield.|
+|Strength in Numbers|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the Effect Phase, the Drakeling's Physical Defense and Magical Defense are buffed by a number of steps on the Bonus Tracker equal to the number of other Drakelings still not [downed](../../Characters/Attributes-and-Statistics#term-downed) on the battlefield.|
 
 **Item Table** 
 
@@ -50,7 +50,7 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Pike|Melee|1 AP|Makes a basic physical attack.|
-|Treat Wound|Ally|1 AP, 11 MP|Heals a single ally by an amount of HP equal to twice the Attendant's Magical Attack.|
+|Treat Wound|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 11 MP|Heals a single ally by an amount of HP equal to twice the Attendant's Magical Attack.|
 |Treat Disease|Ally|1 AP, 12 MP|Removes all status effects from a single target.|
 
 **Item Table** 
@@ -78,8 +78,8 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Quarterstaff|Melee|1 AP|Makes a basic physical attack.|
-|Gravitational Collapse|Ranged|1 AP, 10 MP|Makes a magical attack that deals magical earth damage on a hit.  Every time this attack breaks an enemy's Shell, the Scholar is able to make another magical attack against another target for free.|
-|Read the Bones|Self|1 AP, 15 MP|The next attack the Scholar makes cannot miss.|
+|Gravitational Collapse|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 10 MP|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) that deals magical earth damage on a hit.  Every time this attack breaks an enemy's Shell, the Scholar is able to make another magical attack against another target for free.|
+|Read the Bones|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 15 MP|The next attack the Scholar makes cannot miss.|
 
 **Item Table** 
 
@@ -107,8 +107,8 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 |:-|:-|:-|:-|
 |Bite|Melee|1 AP|Makes a basic physical attack.|
 |Thunder Claw|Melee|1 AP, 10 MP|Makes a physical attack against a single target that deals physical thunder damage that is multiplied by 2 in addition to other modifiers.|
-|Thunder Breath|Multi|1 AP, 15 MP|Makes a physical attack against all of the Warrior's enemies that does physical thunder damage on a hit.|
-|Basilisk|Multi|1 AP, 18 MP|Uses a status-inflicting ability on all of the Warrior's enemies that inflicts Petrified on a hit.|
+|Thunder Breath|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 15 MP|Makes a physical attack against all of the Warrior's enemies that does physical thunder damage on a hit.|
+|Basilisk|Multi|1 AP, 18 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Warrior's enemies that inflicts Petrified on a hit.|
 |Dragon Soul|Passive|N/A|The Warrior cannot be downed by any attack that deals a total damage of less than 20.|
 
 **Item Table** 
@@ -139,7 +139,7 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 |Sinkhole|Ranged|1 AP, 9 MP|Makes a magical attack against a single target that deals magical earth damage on a hit and inflicts the Sinking status, which deals magical earth damage during every subsequent Effect Phase until cured.|
 |Turn Back the Clock|Ally|1 AP, 20 MP|Revives a single downed [character](../../Extras/Key-Terms#term-character) with full HP, MP, and Shell.|
 |Manipulate Fate|Multi|1 AP, 30 MP|Debuffs the Physical, Magical, and Status Accuracy of all of the Oracle's enemies.|
-|Reset Timeline|Special|2 AP|The Oracle uses the [Harlequin's](../../Characters/Archetypes/Harlequin) Jubilee [ability](../../Extras/Key-Terms#term-ability).|
+|Reset Timeline|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|2 AP|The Oracle uses the [Harlequin's](../../Characters/Archetypes/Harlequin) Jubilee [ability](../../Extras/Key-Terms#term-ability).|
 
 **Item Table**
 
