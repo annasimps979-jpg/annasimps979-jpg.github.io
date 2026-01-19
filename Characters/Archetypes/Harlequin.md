@@ -15,7 +15,7 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Gamble|Ranged|1 AP|Wager up to 5 times your tier [HP](../../Characters/Attributes-and-Statistics#term-hp), [MP](../../Characters/Attributes-and-Statistics#term-mp) and Shell against an enemy, who must either match your wager or wager the rest of what they have.  Then, both you and your target roll a 1d10.  The character with the lower roll loses what they wagered.  If the roll is a tie, nothing happens.|
+|Gamble|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP|Wager up to 5 times your tier [HP](../../Characters/Attributes-and-Statistics#term-hp), [MP](../../Characters/Attributes-and-Statistics#term-mp) and Shell against an enemy, who must either match your wager or wager the rest of what they have.  Then, both you and your target roll a 1d10.  The character with the lower roll loses what they wagered.  If the roll is a tie, nothing happens.|
 
 **Rank 2:** You gain +1 Status Accuracy.
 
@@ -23,7 +23,7 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Jubilee|Special|2 AP|At the end of the round, the initiative order is called again.|
+|Jubilee|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|2 AP|At the end of the round, the initiative order is called again.|
 
 **Rank 4:** You gain +1 Status Accuracy.
 
@@ -31,7 +31,7 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Double Or Nothing|Passive|N/A|When you lose with the Gamble ability, you may double your wager against the enemy in exchange for rerolling.  You may double down in this manner until you can no longer bet enough combined HP, MP and Shell to keep up with the bet, at which point you must bet the rest of what you have.|
+|Double Or Nothing|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|When you lose with the Gamble ability, you may double your wager against the enemy in exchange for rerolling.  You may double down in this manner until you can no longer bet enough combined HP, MP and Shell to keep up with the bet, at which point you must bet the rest of what you have.|
 
 **Rank 6:** You gain +1 Status Accuracy.
 
@@ -53,13 +53,13 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 ## Talents
 
-**[Striker](../../Characters/Jobs/Striker):** Random Strike.  When you use a physical attack, you may roll on the Random Element Table to determine its elemental type.
+**[Striker](../../Characters/Jobs/Striker):** Random Strike.  When you use a [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), you may roll on the Random Element Table to determine its elemental type.
 
-**[Caster](../../Characters/Jobs/Caster):** Rainbow Bolt.  When you use a magical attack, you may roll on the Random Element Table to determine its elemental type.
+**[Caster](../../Characters/Jobs/Caster):** Rainbow Bolt.  When you use a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), you may roll on the Random Element Table to determine its elemental type.
 
 **[Healer](../../Characters/Jobs/Healer):** Bet Your Life.  When you heal an ally with a Healer ability, have them call a number and then roll a 1d10.  If the result is less than what they called, the amount of healing they receive is reduced by the difference between the result and their called number.  If the result is greater, then the amount of healing they receive is increased by the number they called.
 
-**[Defender](../../Characters/Jobs/Defender):** Call Bluff.  When a Taunted enemy attacks you with a physical or magical attack, you may roll a 1d10 before the [GM](../../Extras/Key-Terms#term-gm) rolls the hit die.  If your result is less than theirs, the attack misses.  Otherwise, if the attack hits, you take double damage.
+**[Defender](../../Characters/Jobs/Defender):** Call Bluff.  When a Taunted enemy attacks you with a physical or magical attack, you may roll a 1d10 before the [GM](../../Extras/Key-Terms#term-gm) rolls the [hit die](../../Combat-Rules/Attacking-and-Defending#term-hit-die).  If your result is less than theirs, the attack misses.  Otherwise, if the attack hits, you take double damage.
 
 **Support:** Random Buff.  When you use a buff ability, you may roll on the Random Statistic Table to determine which [statistic](../../Extras/Key-Terms#term-statistic) you buff.
 
