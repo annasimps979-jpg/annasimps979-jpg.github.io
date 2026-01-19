@@ -19,11 +19,11 @@ Invaders don't follow too many rules in combat, except for one: do whatever the 
 
 **Abilities**
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Bite|Melee|1 AP|Makes a basic physical attack.|
-|Acid Spit|Ranged|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack that deals magical wood damage on a hit and also reduces the enemy's Physical Defense by one on the Bonus Tracker.|
-|Accelerated Growth|Passive|N/A|During each Effect Phase, the Grub's Magical Defense, Physical Defense, and Resistance are buffed by one on the Bonus Tracker.|
+|Bite|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic physical attack.|
+|Acid Spit|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack that deals magical wood damage on a hit and also reduces the enemy's Physical Defense by one on the Bonus Tracker.|
+|Accelerated Growth|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During each Effect Phase, the Grub's Magical Defense, Physical Defense, and Resistance are buffed by one on the Bonus Tracker.|
 
 **Item Table** 
 
@@ -50,8 +50,8 @@ Invaders don't follow too many rules in combat, except for one: do whatever the 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Standard Missile|Ranged|1 AP, 7 MP|Makes a magical attack against a single target that deals magical colorless damage on a hit that is multiplied by 2 in addition to other multipliers.|
-|Standard Shell|Ally|1 AP, 7 MP|Increases or restores the Shell of the Pupil or one of its allies by 18 points.|
-|Implant Eggs|Special|1 AP|If another character on the battlefield is already [downed](../../Characters/Attributes-and-Statistics#term-downed), the Pupil can use this [ability](../../Extras/Key-Terms#term-ability) on them.  During the next Effect Phase, a Grub will spawn on the front line of the Pupil's side of the [battle](../../Extras/Key-Terms#term-battle).|
+|Standard Shell|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 7 MP|Increases or restores the Shell of the Pupil or one of its allies by 18 points.|
+|Implant Eggs|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP|If another character on the battlefield is already [downed](../../Characters/Attributes-and-Statistics#term-downed), the Pupil can use this [ability](../../Extras/Key-Terms#term-ability) on them.  During the next Effect Phase, a Grub will spawn on the front line of the Pupil's side of the [battle](../../Extras/Key-Terms#term-battle).|
 
 **Item Table** 
 
@@ -78,7 +78,7 @@ Invaders don't follow too many rules in combat, except for one: do whatever the 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Stab|Melee|1 AP|Makes a basic physical attack.|
-|Cloaking Field|Self|1 AP, 10 MP|This ability inflicts the Cloaked status on the Infiltrator, which works the same as the [Thief's](../../Characters/Archetypes/Thief) Hide ability.|
+|Cloaking Field|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 10 MP|This ability inflicts the Cloaked status on the Infiltrator, which works the same as the [Thief's](../../Characters/Archetypes/Thief) Hide ability.|
 |Implant|Melee|1 AP, 5 MP|Uses a status-inflicting ability that, on a hit, deals physical colorless damage and inflicts the Athena status.  During the next Effect Phase, characters with the Athena status will have their Magical and Status Accuracies debuffed by three steps on the Bonus Tracker.  A Grub will then spawn in the front row on the Infiltrator's side and the Athena effect will be removed from the character.|
 
 **Item Table** 
@@ -107,7 +107,7 @@ Invaders don't follow too many rules in combat, except for one: do whatever the 
 |:-|:-|:-|:-|
 |Biters|Melee|1 AP|Makes two consecutive basic physical attacks.|
 |Drink Blood|Melee|1 AP, 12 MP|The Swarm makes a physical attack on a single target.  On a hit, they deal colorless physical damage and regain an amount of HP equal to the damage they dealt.|
-|Overwhelm|Multi|1 AP, 12 MP|Makes a physical attack against all of the Swarm's enemies that deals physical colorless damage on a hit.|
+|Overwhelm|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 12 MP|Makes a physical attack against all of the Swarm's enemies that deals physical colorless damage on a hit.|
 |Infernal Buzzing|Ranged|1 AP, 10 MP|Reduces the Magical Accuracy of a single target by three steps on the Bonus Tracker.|
 |Agglomerated|Passive|N/A|The Swarm is immune to magical attacks, physical attacks, and status-inflicting abilities that only target a single character.|
 
@@ -227,7 +227,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Mech-Arm|Melee|1 AP|Makes a basic physical attack.|
-|Jury-Rig|Special|1 AP, 11 MP|The Engineer can transfer up to a total HP, Shell, and MP from one of their allies to another equal to its Magical Attack, so long as they are Construct type [characters](../../Extras/Key-Terms#term-character).|
+|Jury-Rig|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 11 MP|The Engineer can transfer up to a total HP, Shell, and MP from one of their allies to another equal to its Magical Attack, so long as they are Construct type [characters](../../Extras/Key-Terms#term-character).|
 |Repairs|Multi|1 AP, 18 MP|Removes all of the status effects and debuffs from the Engineer and all of their allies.|
 
 **Item Table** 
