@@ -15,7 +15,7 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Steal|Melee|1 AP|Select an enemy and roll on their item table.  If you obtain an item from this roll, you may use it immediately without spending any AP or you may put it in your inventory if you have enough Carrying Capacity.  You may only obtain one item per enemy per [battle](../../Extras/Key-Terms#term-battle) with this ability.|
+|Steal|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Select an enemy and roll on their item table.  If you obtain an item from this roll, you may use it immediately without spending any AP or you may put it in your inventory if you have enough Carrying Capacity.  You may only obtain one item per enemy per [battle](../../Extras/Key-Terms#term-battle) with this ability.|
 
 **Rank 2:** You gain +1 Physical Attack.
 
@@ -23,7 +23,7 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Hide|Self|1 AP|You apply the Hidden status effect to yourself.  While you are Hidden, you cannot be the target of any single-target enemy abilities.  At the beginning of your next turn, if you act while Hidden, or if you are the only allied [character](../../Extras/Key-Terms#term-character) remaining on the battlefield, the Hidden status effect is removed.|
+|Hide|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|You apply the Hidden status effect to yourself.  While you are Hidden, you cannot be the target of any single-target enemy abilities.  At the beginning of your next turn, if you act while Hidden, or if you are the only allied [character](../../Extras/Key-Terms#term-character) remaining on the battlefield, the Hidden status effect is removed.|
 
 **Rank 4:** You gain +1 Physical Attack.
 
@@ -31,7 +31,7 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Pickpocket|Reaction|N/A|When an enemy misses you using a physical attack, magical attack, or status-inflicting ability, you may use Steal on them immediately without spending any AP.|
+|Pickpocket|[Reaction](../../Combat-Rules/Attacking-and-Defending#term-reaction)|N/A|When an enemy misses you using a [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), or [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability), you may use Steal on them immediately without spending any AP.|
 
 **Rank 6:** You gain +1 Physical Attack.
 
@@ -39,7 +39,7 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Sneak Attack|Passive|If you use a physical attack, magical attack, or status-inflicting ability while Hidden, you may roll the hit die twice and choose the result you prefer.|
+|Sneak Attack|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|If you use a physical attack, magical attack, or status-inflicting ability while Hidden, you may roll the [hit die](../../Combat-Rules/Attacking-and-Defending#term-hit-die) twice and choose the result you prefer.|
 
 **Rank 8:** You gain +1 Physical Attack.
 
