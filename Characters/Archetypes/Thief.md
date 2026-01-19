@@ -6,8 +6,8 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 *  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +5 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +6 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a [Support](../../Characters/Jobs/Support), their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack).
-*  As a [Saboteur](../../Characters/Jobs/Saboteur), their debuff abilities will affect [Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense).
+*  As a [Support](../../Characters/Jobs/Support), their [buff](../../Combat-Rules/Buffs-and-Debuffs#term-buff) [abilities](../../Extras/Key-Terms#term-ability) will affect [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack).
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), their [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) abilities will affect [Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense).
 
 ## Advancements by Rank
 
