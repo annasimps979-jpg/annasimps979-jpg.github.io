@@ -9,7 +9,7 @@ While they are Saboteurs, [player characters](../../Extras/Key-Terms#term-player
 
 ## Abilities by Rank
 
-|Rank|Name|Type|Cost|Description|
+|Rank|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|:-|
 |1|Debuff|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Move an enemy down one level on the Bonus Tracker for the statistic that your [archetype](../../Characters/Archetypes/) debuffs.|
 |2|Debilitate|Ranged|7 MP, 1 AP|Use a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on a single target that inflicts the status effect associated with your elemental type on a hit.|
