@@ -15,7 +15,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Orders|Ally|1 AP|Grant a free AP to a single ally that can then use it to act during your turn.  You may only use this ability once per round.|
+|Orders|[Ally](../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP|Grant a free AP to a single ally that can then use it to act during your turn.  You may only use this ability once per round.|
 
 **Rank 2:** You gain +1 Resistance.
 
@@ -23,7 +23,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Standard Bearer|Passive|N/A|Your allies gain a +1 bonus to their [Status](../../Characters/Attributes-and-Statistics#term-status-accuracy), [Physical](../../Characters/Attributes-and-Statistics#term-physical-accuracy), and [Magical Accuracies](../../Characters/Attributes-and-Statistics#term-magical-accuracy) when they act after you in the initiative order that does not count on the bonus tracker.  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed), this effect does not apply.|
+|Standard Bearer|[Passive](../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Your allies gain a +1 bonus to their [Status](../../Characters/Attributes-and-Statistics#term-status-accuracy), [Physical](../../Characters/Attributes-and-Statistics#term-physical-accuracy), and [Magical Accuracies](../../Characters/Attributes-and-Statistics#term-magical-accuracy) when they act after you in the initiative order that does not count on the bonus tracker.  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed), this effect does not apply.|
 
 **Rank 4:** You gain +1 Resistance.
 
@@ -49,13 +49,13 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Charge!|Special|1 Anima, 2 AP|Grants all of your allies an immediate full turn.  When they use abilities during this turn, they can substitute its [statistics](../../Extras/Key-Terms#term-statistic) for theirs.|
+|Charge!|[Special](../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 Anima, 2 AP|Grants all of your allies an immediate full turn.  When they use abilities during this turn, they can substitute its [statistics](../../Extras/Key-Terms#term-statistic) for theirs.|
 
 ## Talents
 
-**[Striker](../../Characters/Jobs/Striker):** Vanguard.  When an ally makes a physical attack using the AP you granted them with Orders, they may substitute your Physical Accuracy and [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack) for theirs.
+**[Striker](../../Characters/Jobs/Striker):** Vanguard.  When an ally makes a [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack) using the AP you granted them with Orders, they may substitute your Physical Accuracy and [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack) for theirs.
 
-**[Caster](../../Characters/Jobs/Caster):** Siege Engineer.  When an ally makes a magical attack using the AP you granted them with Orders, they may substitute your Magical Accuracy and [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) for theirs.
+**[Caster](../../Characters/Jobs/Caster):** Siege Engineer.  When an ally makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) using the AP you granted them with Orders, they may substitute your Magical Accuracy and [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) for theirs.
 
 **[Healer](../../Characters/Jobs/Healer):** Medical Tent.  When an ally uses a Healer ability using the AP you granted them with Orders, they may substitute your Magical Attack for theirs.
 
@@ -63,4 +63,4 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 **Support:** Trenches.  All of your allies gain the bonus from Standard Bearer regardless of their place in the Initiative Order.  This does not apply if you are downed.
 
-**Saboteur:** Spymaster.  When an ally uses a status-inflicting ability using the AP you granted them with Orders, they may substitute your Status Accuracy for theirs.
+**Saboteur:** Spymaster.  When an ally uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) using the AP you granted them with Orders, they may substitute your Status Accuracy for theirs.
