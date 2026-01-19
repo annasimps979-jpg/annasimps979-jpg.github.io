@@ -19,11 +19,11 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 
 **Abilities**
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Punch|Melee|1 AP|Makes a basic physical attack.|
-|Dragon Kick|Multi|1 AP, 10 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack against every enemy in the front row that deals physical fire damage on a hit.|
-|Gang Up|Passive|N/A|During the Effect Phase, the Goon's Physical Attack is buffed by one level on the Bonus Tracker for every one of the Goon's allies more than enemies the Goon has remaining.|
+|Punch|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Dragon Kick|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 10 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack against every enemy in the front row that deals physical fire damage on a hit.|
+|Gang Up|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the Effect Phase, the Goon's Physical Attack is buffed by one level on the Bonus Tracker for every one of the Goon's allies more than enemies the Goon has remaining.|
 
 **Item Table**
 
@@ -50,8 +50,8 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Hairpin|Melee|1 AP|Makes a basic physical attack.|
-|Veil|Ally|1 AP, 9 MP|Confers the Protected status on a single ally or on the Dancer.  The element that that ally is Protected from is the same as the Dancer's current elemental type.|
-|Copycat|Special|1 AP, 10 MP|Uses one of the abilities that the Dancer's enemies used after the end of its last turn.|
+|Veil|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 9 MP|Confers the Protected status on a single ally or on the Dancer.  The element that that ally is Protected from is the same as the Dancer's current elemental type.|
+|Copycat|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 10 MP|Uses one of the abilities that the Dancer's enemies used after the end of its last turn.|
 
 **Item Table** 
 
@@ -77,8 +77,8 @@ In combat, Gangsters will beat on the weakest enemy.  They will also never engag
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Sleep|Ranged|1 AP, 7 MP|Attempts to inflict Fatigued on a single enemy.|
-|Steal|Special|1 AP|This ability can be used on all [characters](../../Extras/Key-Terms#term-character) when the Kitsune is in the front row, and only on the front row when the Kitsune is in the back row.  The Kitsune makes a magical attack that, on a hit, takes a single item from the [party](../../Extras/Key-Terms#term-party) inventory that the Kitsune can use the Use Item ability to deploy.|
+|Sleep|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 7 MP|Attempts to inflict Fatigued on a single enemy.|
+|Steal|Special|1 AP|This ability can be used on all [characters](../../Extras/Key-Terms#term-character) when the Kitsune is in the front row, and only on the front row when the Kitsune is in the back row.  The Kitsune makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) that, on a hit, takes a single item from the [party](../../Extras/Key-Terms#term-party) inventory that the Kitsune can use the Use Item ability to deploy.|
 |Mock|Ranged|1 AP|Taunts one of the Kitsune's enemies.  Works the same as the Defender's Taunt, except that Taunted [player characters](../../Extras/Key-Terms#term-player-character) that cannot target the Kitsune are not able to act.|
 
 **Item Table** 
@@ -257,7 +257,7 @@ Frost dwellers, if they are attacking, are most likely attempting to defend thei
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bash|Melee|1 AP, 5 MP|Makes a colorless physical attack that has its damage multiplied by two on a hit in addition to other multipliers.|
-|Troll Regeneration|Self|1 AP, 15 MP|Restores the Troll's HP back to full.|
+|Troll Regeneration|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 15 MP|Restores the Troll's HP back to full.|
 |Berserk|Self|1 AP|Works the same as the [Knight's](../../Characters/Archetypes/Knight) Focus ability.|
 |Insulating Fat|Passive|N/A|The Troll is immune to Frostbite and ice damage.|
 
@@ -285,7 +285,7 @@ Frost dwellers, if they are attacking, are most likely attempting to defend thei
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Reap|Reaction|When an enemy drops to 5 HP or below, the Specter is able to make a free physical attack against them immediately.|
+|Reap|[Reaction](../../Combat-Rules/Attacking-and-Defending#term-reaction)|When an enemy drops to 5 HP or below, the Specter is able to make a free physical attack against them immediately.|
 |Bonechill|1 AP, 7 MP.  Attempts to inflict Frostbite on a single target.|
 |Scythe|Multi|1 AP, 10 MP|Makes a physical attack against all enemies in the front row that can only be made from the front row that deals physical ice damage to all hit targets.|
 |Ice Storm|Multi|1 AP, 13 MP|Makes a magical attack against all of the Specter's enemies that does magical ice damage on a hit.|
