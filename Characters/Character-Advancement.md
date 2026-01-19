@@ -30,16 +30,16 @@ When a character takes this improvement, they gain an extra ability called a _<d
 
 During character advancement, players may purchase any of the following flex powers:
 
-|Name|Type|Cost|Description|
+|Name|[Type](../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Flex Buff|Ally|10 [MP](../Characters/Attributes-and-Statistics#term-mp), 1 AP|When you take this power, choose one of the nine character statistics.  Using this ability raises the specified statistic of the target by one level on the Bonus Tracker.|
-|Flex Debuff|Ranged|6 MP, 1 AP|When you take this power, choose one of the nine character statistics.  Using this ability lowers the specified statistic of the target by one level on the Bonus Tracker.|
-|Flex Bolt|Ranged|10 MP, 1 AP|When you take this power, choose a non-colorless elemental type.  Using this ability makes a magical attack of that elemental type against a single target.|
-|Flex Strike|Melee|10 MP, 1 AP|When you take this power, choose a non-colorless elemental type.  Using this ability makes a physical attack of that elemental type against a single target.|
-|Flex Debilitate|Ranged|14 MP, 1 AP|When you take this power, choose a status effect.  Using this ability triggers a status-inflicting ability against a single target that inflicts this status effect on a hit.|
+|Flex Buff|[Ally](../Combat-Rules/Attacking-and-Defending#term-ally-ability)|10 [MP](../Characters/Attributes-and-Statistics#term-mp), 1 AP|When you take this power, choose one of the nine character statistics.  Using this ability raises the specified statistic of the target by one level on the Bonus Tracker.|
+|Flex Debuff|[Ranged](../Combat-Rules/Attacking-and-Defending#term-ranged)|6 MP, 1 AP|When you take this power, choose one of the nine character statistics.  Using this ability lowers the specified statistic of the target by one level on the Bonus Tracker.|
+|Flex Bolt|Ranged|10 MP, 1 AP|When you take this power, choose a non-colorless elemental type.  Using this ability makes a [magical attack](../Combat-Rules/Attacking-and-Defending#term-magical-attack) of that elemental type against a single target.|
+|Flex Strike|[Melee](../Combat-Rules/Attacking-and-Defending#term-melee)|10 MP, 1 AP|When you take this power, choose a non-colorless elemental type.  Using this ability makes a [physical attack](../Combat-Rules/Attacking-and-Defending#term-physical-attack) of that elemental type against a single target.|
+|Flex Debilitate|Ranged|14 MP, 1 AP|When you take this power, choose a status effect.  Using this ability triggers a [status-inflicting ability](../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) against a single target that inflicts this status effect on a hit.|
 |Flex Shell|Ally|14 MP, 1 AP|When you take this power, choose a non-colorless elemental type.  Using this ability increases the Shell of a single target by your current [Magical Attack](../Characters/Attributes-and-Statistics#term-magical-attack).  This power works the same as the [Support's](../Characters/Jobs/Support) Shell ability.|
 |Flex Protect|Ally|18 MP, 1 AP|When you take this power, choose a non-colorless elemental type.  Using this ability makes you or a single ally Protected against that elemental type.|
-|Flex Statistic|Passive|N/A|You gain a permanent +5 bonus to your character's [Health](../Characters/Attributes-and-Statistics#term-health), +5 bonus to their [Mana](../Characters/Attributes-and-Statistics#term-mana), or a +2 bonus to their [Initiative](../Characters/Attributes-and-Statistics#term-initiative).|
+|Flex Statistic|[Passive](../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|You gain a permanent +5 bonus to your character's [Health](../Characters/Attributes-and-Statistics#term-health), +5 bonus to their [Mana](../Characters/Attributes-and-Statistics#term-mana), or a +2 bonus to their [Initiative](../Characters/Attributes-and-Statistics#term-initiative).|
 |Flex Proficiency|Passive|N/A|You become [proficient](../Characters/Character-Creation#term-weapon-proficiency) in a type of weapon or armor you were not previously proficient in.|
 
 ## Advancing Tier
