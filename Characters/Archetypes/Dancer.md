@@ -15,7 +15,7 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Copycat|Special|10 [MP](../../Characters/Attributes-and-Statistics), 1 AP|You may immediately use one of the abilities that one of your allies used between the end of your last turn and the beginning of your current turn, counting held turns.|
+|Copycat|[Special](../Combat-Rules/Attacking-and-Defending#term-special-ability)|10 [MP](../../Characters/Attributes-and-Statistics), 1 AP|You may immediately use one of the abilities that one of your allies used between the end of your last turn and the beginning of your current turn, counting held turns.|
 
 **Rank 2:** You gain +1 Evasion.
 
@@ -23,7 +23,7 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Dancer's Mask|Passive|N/A|Whenever you use an ability that has an elemental type, you may obtain the Masked status effect, which means you now count as having [HP](../../Characters/Attributes-and-Statistics) and Shell of that elemental type for the purpose of calculating received damage.  While you are Masked, you may use the Unmask ability, which costs 1 AP and removed the Masked status effect from you.|
+|Dancer's Mask|[Passive](../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Whenever you use an ability that has an elemental type, you may obtain the Masked status effect, which means you now count as having [HP](../../Characters/Attributes-and-Statistics) and Shell of that elemental type for the purpose of calculating received damage.  While you are Masked, you may use the Unmask ability, which costs 1 AP and removed the Masked status effect from you.|
 
 **Rank 4:** You gain +1 Evasion.
 
@@ -39,7 +39,7 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Costume Change|Self|2 AP|You may change your elemental type to an elemental type of your choosing as though you had just used Dancer's Mask.|
+|Costume Change|[Self](../Combat-Rules/Attacking-and-Defending#term-self-ability)|2 AP|You may change your elemental type to an elemental type of your choosing as though you had just used Dancer's Mask.|
 
 **Rank 8:** You gain +1 Evasion.
 
@@ -53,13 +53,13 @@ The Dancer's core virtue is their **Charm.**  At [character creation](../../Char
 
 ## Talents
 
-**[Striker](../../Characters/Jobs/Striker):** Athletic Outfit.  Using your Dancer's Mask ability also makes the elemental type of all of your colorless physical attacks into your current elemental type due to Masked.
+**[Striker](../../Characters/Jobs/Striker):** Athletic Outfit.  Using your Dancer's Mask ability also makes the elemental type of all of your colorless [physical attacks](../../Combat-Rules/Attacking-and-Defending#term-physical-attack) into your current elemental type due to Masked.
 
 **[Caster](../../Characters/Jobs/Caster):** School Uniform.  Using your Dancer's Mask ability also makes the elemental type of all of your colorless magical attacks into your current elemental type due to Masked.
 
 **[Healer](../../Characters/Jobs/Healer):** Regal Clothing.  If you use a healing ability due to Mimic or Copycat, you may use it twice instead of once.
 
-**[Defender](../../Characters/Jobs/Defender):** Outdoor Wear.  While you are Masked, you are immune to the effects of physical attacks, magical attacks, and status-inflicting abilities of your current elemental type.
+**[Defender](../../Characters/Jobs/Defender):** Outdoor Wear.  While you are Masked, you are immune to the effects of physical attacks, [magical attacks](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), and [status-inflicting abilities](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) of your current elemental type.
 
 **Support:** Casual Dress.  When Masked, your Shell-applying abilities have their elemental type changed to your current elemental type.
 
