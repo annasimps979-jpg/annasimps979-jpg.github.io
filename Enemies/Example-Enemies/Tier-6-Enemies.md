@@ -19,7 +19,7 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 
 **Abilities**
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Faerie Fire|Ranged|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack that does magical damage of the Wisp's elemental type on a hit.|
 |Curse|Multi|1 AP, 18 MP|Attempts to inflict the status associated with the Wisp's element on all enemies on the battlefield.|
