@@ -1,4 +1,4 @@
-# Status Effects
+# Statuses
 
 A _<dfn id = "term-status">status</dfn>_ is an adjective that sets an extra rule that the [character](../Extras/Key-Terms#term-character) it describes follows while it applies.  In some cases, these create exceptions to existing rules, while in others they add new ones.  For example, a character with the Silenced status effect may not make magical attacks, while a character with the Slowed status effect can take fewer [actions](../Extras/Key-Terms#term-action) per combat round than normal.  Some [abilities](../Extras/Key-Terms#term-ability) apply status effects automatically, while others are only applied to the target with a successful roll of the [hit die](../Combat-Rules/Attacking-and-Defending#term-hit-die).  The latter type are known as [status-inflicting abilities](../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability).
 
