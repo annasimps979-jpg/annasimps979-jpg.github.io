@@ -21,9 +21,9 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Strike|Melee|1 AP|Makes a basic physical attack.|
-|Behold!|Multi|1 AP, 18 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Uses a status-inflicting ability on all of the Herald's enemies that inflicts the Blinded status on a hit.|
-|The First Seal|Passive|N/A|When the Herald is [downed](../../Characters/Attributes-and-Statistics#term-downed), all of the Herald's enemies have their Magical Accuracy debuffed by one step on the Bonus Tracker.|
+|Strike|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Behold!|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 18 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Herald's enemies that inflicts the Blinded status on a hit.|
+|The First Seal|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|When the Herald is [downed](../../Characters/Attributes-and-Statistics#term-downed), all of the Herald's enemies have their Magical Accuracy debuffed by one step on the Bonus Tracker.|
 
 **Item Table** 
 
@@ -50,8 +50,8 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bow|Melee|1 AP|Makes a basic physical attack.|
-|Arrow of Light|Ranged|1 AP, 8 MP|Makes a physical attack against a single target that deals physical light damage on a hit.|
-|Inscrutable Form|Passive|N/A|The Seeker does not take double damage from physical or magical attacks depending on whether or not its shell or HP are being damaged.  All other multipliers still apply.|
+|Arrow of Light|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 8 MP|Makes a physical attack against a single target that deals physical light damage on a hit.|
+|Inscrutable Form|Passive|N/A|The Seeker does not take double damage from physical or [magical attacks](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) depending on whether or not its shell or HP are being damaged.  All other multipliers still apply.|
 
 **Item Table**
 
@@ -107,9 +107,9 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |:-|:-|:-|:-|
 |Greatsword|Melee|1 AP|Makes a basic physical attack.|
 |Baleful Strike|Melee|1 AP, 3 MP|Makes a physical attack against a single target that deals physical fire damage on a hit.|
-|Blessed Sword|Ally|1 AP, 16 MP|Buffs the Physical Attack of either the Avenger or their allies by three levels on the Bonus Tracker.|
+|Blessed Sword|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 16 MP|Buffs the Physical Attack of either the Avenger or their allies by three levels on the Bonus Tracker.|
 |Condemn|Ranged|1 AP|Designates one of the Avenger's enemies as Condemned.  When the Avenger or one of their allies uses a physical or magical attack or a status-inflicting ability on a Condemned target, the GM may roll the associated 1d10 twice and choose which result they want.|
-|Final Judgment|Special|2 AP|When the Avenger uses this [ability](../../Extras/Key-Terms#term-ability), the GM selects one of their enemies and rolls a 1d10.  If the result is above a 5, the Condemned enemy takes the total amount of damage they have dealt in the [battle](../../Extras/Key-Terms#term-battle) minus the amount of healing they have received.  It is possible that this result could be negative, in which case they are healed instead.  If the result is a 5 or below, nothing happens.  In either case, however, the Condemned status is removed and cannot be applied to them again for the rest of the battle.|
+|Final Judgment|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|2 AP|When the Avenger uses this [ability](../../Extras/Key-Terms#term-ability), the GM selects one of their enemies and rolls a 1d10.  If the result is above a 5, the Condemned enemy takes the total amount of damage they have dealt in the [battle](../../Extras/Key-Terms#term-battle) minus the amount of healing they have received.  It is possible that this result could be negative, in which case they are healed instead.  If the result is a 5 or below, nothing happens.  In either case, however, the Condemned status is removed and cannot be applied to them again for the rest of the battle.|
 
 **Item Table** 
 
@@ -137,7 +137,7 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |:-|:-|:-|:-|
 |Hammer|Melee|1 AP|Makes a basic physical attack.|
 |Sworn Protector|Multi|1 AP, 10 MP|This ability works the same as the Defender's Multiguard ability.|
-|Light Barrier|Self|1 AP, 20 MP|The Protector inflicts the Light Barrier status on themselves.  The next time a [character](../../Extras/Key-Terms#term-character) hits them with a magical or physical attack, the Protector uses a status-inflicting ability for free that causes their attacker to become Blinded on a hit.|
+|Light Barrier|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 20 MP|The Protector inflicts the Light Barrier status on themselves.  The next time a [character](../../Extras/Key-Terms#term-character) hits them with a magical or physical attack, the Protector uses a status-inflicting ability for free that causes their attacker to become Blinded on a hit.|
 |Retribution|Passive|N/A|When the Protector takes damage from an attack due to one of their allies being Guarded, the Protector automatically uses Hammer against the attacker.|
 |Righteous Guardian|Passive|N/A|When the Protector is hit by a magical attack, the attacker's Magical Attack is reduced by one step on the Bonus Tracker.|
 
@@ -200,7 +200,7 @@ The Thrall, Ghoul, and Spawn are dumb servants who will attack mindlessly.  Howe
 |:-|:-|:-|:-|
 |Relentless Attack|Melee|1 AP|Makes two physical attacks that each deal physical colorless damage on a hit that is multiplied by 0.75 in addition to other modifiers.|
 |Curdle Blood|Ranged|1 AP, 10 MP|Reduces the Physical Accuracy of a single target by three steps on the Bonus Tracker.|
-|Bloodthirst|Reaction|N/A|When one of the Ghoul's enemies is downed, the Ghoul can immediately use Relentless Attack on a single enemy within range without spending any AP.  If there are no enemies within range, this effect does not apply.|
+|Bloodthirst|[Reaction](../../Combat-Rules/Attacking-and-Defending#term-reaction)|N/A|When one of the Ghoul's enemies is downed, the Ghoul can immediately use Relentless Attack on a single enemy within range without spending any AP.  If there are no enemies within range, this effect does not apply.|
 
 **Item Table** 
 
