@@ -19,11 +19,11 @@ Test subjects without their masters are very much insane.  They will not use any
 
 **Abilities**
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Pseudopod|Melee|1 AP|Makes a basic physical attack.|
-|Bolt|Ranged|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack against a single target that deals magical damage of the Slime's current elemental type on a hit.|
-|Elemental Absorption|Passive|N/A|The Slime's elemental type is the elemental type of the last magical attack, physical attack, or status-inflicting ability that hit it.  This can include colorless.  The change triggers before Divide activates.|
+|Pseudopod|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Bolt|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single target that deals magical damage of the Slime's current elemental type on a hit.|
+|Elemental Absorption|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The Slime's elemental type is the elemental type of the last magical attack, physical attack, or [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that hit it.  This can include colorless.  The change triggers before Divide activates.|
 
 **Item Table**
 
@@ -50,7 +50,7 @@ Test subjects without their masters are very much insane.  They will not use any
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bite|Melee|1 AP|Makes a basic physical attack.|
-|Frenzy|Self|1 AP, 12 MP|Hastes the Ghoul as though it had used the Support's Haste spell on itself.|
+|Frenzy|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 12 MP|Hastes the Ghoul as though it had used the Support's Haste spell on itself.|
 |Corpse Rot|Passive|N/A|If the Ghoul does damage to an enemy's HP, they will be Slowed as though they were affected by the Slow ability.|
 
 **Item Table** 
@@ -107,7 +107,7 @@ Test subjects without their masters are very much insane.  They will not use any
 |:-|:-|:-|:-|
 |Slash|Melee|1 AP|Makes a basic physical attack.|
 |Spines|Ranged|1 AP, 5 MP|Makes a colorless physical attack against any enemy on the battlefield.|
-|Frenzy|All|1 AP, 10 MP|The Devourer makes a colorless physical attack against every enemy on the battlefield except for themselves.|
+|Frenzy|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 10 MP|The Devourer makes a colorless physical attack against every enemy on the battlefield except for themselves.|
 |Hedgehog|Self|1 AP, 7 MP|Applies the Countering status to the Devourer.  This functions the same as the Defender's Counter.|
 |Conduit|Self|1 AP, 12 MP|Applies the Reflecting status to the Devourer.  This functions the same as the Defender's Reflect.|
 
@@ -136,7 +136,7 @@ Test subjects without their masters are very much insane.  They will not use any
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Penetrating Stare|Ranged|1 AP, 7 MP|On a hit, inflicts the Paralyzed status on a single target.|
-|Enlightenment|Ally|1 AP, 18 MP|Buffs a single target's Magical Attack by three steps on the Bonus Tracker.|
+|Enlightenment|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 18 MP|Buffs a single target's Magical Attack by three steps on the Bonus Tracker.|
 |Psychic Scream|Multi|1 AP, 13 MP|Makes a magical attack against all enemies on the field that, when it hits, deals colorless magical damage.|
 |Dream Eater|Ranged|1 AP, 5 MP|Makes a colorless magical attack against a single opponent.  On a hit, restores an amount of MP to the Precog equal to the damage they dealt to their target.|
 |Lobotomy|Ranged|1 AP, 10 MP|Debuffs a single target's Magical Attack by three levels on the Bonus Tracker.|
