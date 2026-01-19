@@ -6,8 +6,8 @@ The Sage's core virtue is their **Wisdom.**  At [character creation](../../Chara
 *  +5 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +15 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +4 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a [Support](../../Characters/Jobs/Support), their buff [abilities](../../Extras/Key-Terms#term-ability) will affect [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack).
-*  As a [Saboteur](../../Characters/Jobs/Saboteur), their debuff abilities will affect [Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense).
+*  As a [Support](../../Characters/Jobs/Support), their [buff](../../Combat-Rules/Buffs-and-Debuffs#term-buff) [abilities](../../Extras/Key-Terms#term-ability) will affect [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack).
+*  As a [Saboteur](../../Characters/Jobs/Saboteur), their [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) abilities will affect [Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense).
 
 ## Advancements by Rank
 
