@@ -11,10 +11,10 @@ While they are Healers, [player characters](../../Extras/Key-Terms#term-player-c
 
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
-|1|Heal|Ally|5 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Restore an amount of [HP](../../Characters/Attributes-and-Statistics#term-hp) to a single target equal to your Magical Attack.|
+|1|Heal|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|5 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Restore an amount of [HP](../../Characters/Attributes-and-Statistics#term-hp) to a single target equal to your Magical Attack.|
 |2|Cleanse|Ally|8 MP, 1 AP|Reset the Bonus Tracker for all of a single target's statistics back to +0.|
 |3|Revive|Ally|10 MP, 1 AP|Revive a single [downed](../../Characters/Attributes-and-Statistics#term-downed) target back to 1 HP.|
-|4|Life Aura|Multi|2 AP|Heal yourself an all allies for 5 HP.|
+|4|Life Aura|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|2 AP|Heal yourself an all allies for 5 HP.|
 |5|Mend|Ally|11 MP, 1 AP|Heal a single target for an amount of HP equal to twice your Magical Attack.|
 |6|Cure|Ally|12 MP, 1 AP|Remove all status effects from a single target.|
 |7|Raise Dead|Special|15 MP, 1 AP|Revive a single downed target back to half its current maximum HP, rounded down.|
