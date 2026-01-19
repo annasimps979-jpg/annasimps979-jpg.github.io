@@ -32,7 +32,7 @@ At character creation, your archetype determines the following traits:
 *  Debuff: This sets the statistic that the character debuffs when they occupy the [Saboteur](../Characters/Jobs/Saboteur) job.
 *  Stat Bonuses: A character's archetype grants them fixed bonuses to their Health, Initiative, and Mana.
 
-A character's archetype also provides them with a set of abilities they can use regardless of what job they occupy as well as a set of passive abilities called talents that they can acquire as they advance in tier.  At character creation, they begin with the ability to use their archetype's rank 1 ability.
+A character's archetype also provides them with a set of abilities they can use regardless of what job they occupy as well as a set of special [passive](../Combat-Rules/Attacking-and-Defending#term-passive) abilities called talents that they can acquire as they advance in tier.  At character creation, they begin with the ability to use their archetype's rank 1 ability.
 
 Finally, before you move on you should give your character either a Lucky accessory or a Mystical accessory that has no attached upgrade that they can equip in their accessory slot.  A Lucky accessory gives them a +1 bonus to their [Evasion](../Characters/Attributes-and-Statistics#term-evasion), while a Mystical accessory gives them a +1 bonus to their [Resistance](../Characters/Attributes-and-Statistics#term-resistance).
 
@@ -65,9 +65,9 @@ At this point, you should now have enough information to determine your characte
 *  _[Magical Defense](../Characters/Attributes-and-Statistics#term-magical-defense)_ determines the base reduction to the magical damage a character takes.  It is equal to (Armor Bonus) + (Job Bonus if applicable).
 *  _Evasion_ determines the base reduction to enemies' chance to hit a character when they attack.  It is equal to (Accessory Bonus if applicable) + (Job Bonus if applicable).
 *  _Resistance_ determines the base reduction to enemies' chance to inflict a status effect on a character.  It is equal to (Accessory Bonus if applicable) + (Job Bonus if applicable).
-*  _[Physical Accuracy](../Characters/Attributes-and-Statistics#term-physical-accuracy)_ determines a character's bonus chance to hit with physical attacks.  It is equal to (Mind) + (Body).
-*  _[Magical Accuracy](../Characters-Attributes-and-Statistics#term-magical-accuracy)_ determines a character's bonus chance to hit with magical attacks.  It is equal to (Spirit) + (Mind).
-*  _[Status Accuracy](../Characters/Attributes-and-Statistics#term-status-accuracy)_ determines a character's bonus chance to inflict status effects on enemies.  It is equal to (Body) + (Spirit).
+*  _[Physical Accuracy](../Characters/Attributes-and-Statistics#term-physical-accuracy)_ determines a character's bonus chance to hit with [physical attacks](../Combat-Rules/Attacking-and-Defending#term-physical-attack).  It is equal to (Mind) + (Body).
+*  _[Magical Accuracy](../Characters-Attributes-and-Statistics#term-magical-accuracy)_ determines a character's bonus chance to hit with [magical attacks](../Combat-Rules/Attacking-and-Defending#term-magical-attack).  It is equal to (Spirit) + (Mind).
+*  _[Status Accuracy](../Characters/Attributes-and-Statistics#term-status-accuracy)_ determines a character's chance to hit with [status-inflicting abilities](../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability).  It is equal to (Body) + (Spirit).
 *  _Carrying Capacity_ determines how many items you can hold in your inventory at once.  It is equal to 10 + (Body)x5.
 
 ## Create Eidolon
