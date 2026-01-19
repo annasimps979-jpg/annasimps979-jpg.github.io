@@ -15,7 +15,7 @@ The Sage's core virtue is their **Wisdom.**  At [character creation](../../Chara
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Grimoire|Passive|N/A|In addition to [MP](../../Characters/Attributes-and-Statistics#term-mp), you also have a number of Spell Slots equal to your current tier. When you use a magical attack or a flex power, you may expend a single Spell Slot instead of paying the MP cost.|
+|Grimoire|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|In addition to [MP](../../Characters/Attributes-and-Statistics#term-mp), you also have a number of Spell Slots equal to your current tier. When you use a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) or a [flex power](../../Characters/Character-Advancement#term-flex-power), you may expend a single Spell Slot instead of paying the MP cost.|
 
 **Rank 2:** You gain +1 Magical Attack.
 
@@ -23,7 +23,7 @@ The Sage's core virtue is their **Wisdom.**  At [character creation](../../Chara
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Counterspell|Reaction|Variable|When an enemy uses a magical attack, you may expend double the MP cost of the attack in order to prevent the enemy from using it.  They will still expend the MP and AP cost of using the ability as normal.|
+|Counterspell|[Reaction](../../Combat-Rules/Attacking-and-Defending#term-reaction)|Variable|When an enemy uses a magical attack, you may expend double the MP cost of the attack in order to prevent the enemy from using it.  They will still expend the MP and AP cost of using the ability as normal.|
 
 **Rank 4:** You gain +1 Magical Attack.
 
@@ -49,11 +49,11 @@ The Sage's core virtue is their **Wisdom.**  At [character creation](../../Chara
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Ascension|Self|1 Anima, 2 AP|Your Spell Slots and MP are immediately refilled to full.  For the rest of the [battle](../../Extras/Key-Terms#term-battle), your magical attacks only cost 5 MP.|
+|Ascension|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 Anima, 2 AP|Your Spell Slots and MP are immediately refilled to full.  For the rest of the [battle](../../Extras/Key-Terms#term-battle), your magical attacks only cost 5 MP.|
 
 ## Talents
 
-**[Striker](../../Characters/Jobs/Striker):** Martial Artist.  You may also expend Spell Slots in order to use physical attacks.
+**[Striker](../../Characters/Jobs/Striker):** Martial Artist.  You may also expend Spell Slots in order to use [physical attacks](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).
 
 **[Caster](../../Characters/Jobs/Caster):** Empowered Staff.  Your Elemental Bolt ability does not cost any MP.
 
@@ -61,6 +61,6 @@ The Sage's core virtue is their **Wisdom.**  At [character creation](../../Chara
 
 **[Defender](../../Characters/Jobs/Defender):** Arcane Shield.  You may use Counterspell to negate enemy physical attacks.  Negating an enemy's basic attack costs 5 MP.
 
-**Support:** Ward.  You may use Counterspell to negate enemy debuffs and status-inflicting abilities.
+**Support:** Ward.  You may use Counterspell to negate enemy debuffs and [status-inflicting abilities](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability).
 
 **Saboteur:** Curse.  You may use Counterspell to negate enemy buffs and enemy healing abilities such as those that restore HP or MP and those that revive other enemies.
