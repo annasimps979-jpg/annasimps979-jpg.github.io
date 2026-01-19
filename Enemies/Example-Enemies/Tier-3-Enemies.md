@@ -19,11 +19,11 @@ In combat, the living dead are stupid, aggressive, and totally unconcerned with 
 
 **Abilities**
 
-|Name|Type|Cost|Description|
+|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Smack|Melee|1 AP|Makes a basic physical attack.|
+|Smack|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Bite|Melee|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a basic physical attack.  On a hit, also inflicts Necrotized.  Necrotized enemies will take damage instead of being healed if they become the target of any abilities that heal HP.|
-|Undeath|Passive|N/A|The first time the Zombie would be [downed](../../Characters/Attributes-and-Statistics#term-downed) in a battle, it is reduced to 1 HP instead.  Any further damage it takes will cause it to become downed.|
+|Undeath|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The first time the Zombie would be [downed](../../Characters/Attributes-and-Statistics#term-downed) in a battle, it is reduced to 1 HP instead.  Any further damage it takes will cause it to become downed.|
 
 **Item Table** 
 
@@ -50,7 +50,7 @@ In combat, the living dead are stupid, aggressive, and totally unconcerned with 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Slash|Melee|1 AP|Makes a basic physical attack.|
-|Arrow|Ranged|1 AP, 5 MP|Makes a colorless physical attack against a single target.|
+|Arrow|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 MP|Makes a colorless physical attack against a single target.|
 |Undeath|Passive|N/A|The first time the Skeleton would be downed in a battle, it is reduced to 1 HP instead.  Any further damage it takes will cause it to become downed.|
 
 **Item Table** 
@@ -78,9 +78,9 @@ In combat, the living dead are stupid, aggressive, and totally unconcerned with 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Drain Mana|Melee|1 AP|Makes a basic physical attack that damages MP instead of HP and heals the Ghost's MP by half the damage it deals on a hit.|
-|Bonechill|Ranged|1 AP, 5 MP|Makes a magical attack that does magical ice damage on a hit.|
+|Bonechill|Ranged|1 AP, 5 MP|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) that does magical ice damage on a hit.|
 |Cold Fingers|Ranged|1 AP, 7 MP|On a hit, inflicts Frostbite on a single target.|
-|Nostalgia|Ranged|1 AP, 12 MP|Uses a status-inflicting ability that inflicts Slowed on a single target.|
+|Nostalgia|Ranged|1 AP, 12 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that inflicts Slowed on a single target.|
 |Immaterial|Passive|N/A|During the Effect Phase, the Ghost will become Immaterial, which is the equivalent of Hidden.  At the beginning of their turn, this effect disappears.|
 
 **Item Table** 
@@ -108,8 +108,8 @@ In combat, the living dead are stupid, aggressive, and totally unconcerned with 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Slash|Melee|1 AP|Makes a basic physical attack.|
-|Hedgetrimmer|Multi|1 AP, 7 MP|Makes a basic physical attack against every enemy in the front row.  May only be used from the front row.|
-|Shield|Self|1 AP, 7 MP|The next time the Statue is hit by a physical attack, the damage is negated.|
+|Hedgetrimmer|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 7 MP|Makes a basic physical attack against every enemy in the front row.  May only be used from the front row.|
+|Shield|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 7 MP|The next time the Statue is hit by a physical attack, the damage is negated.|
 |Frontline|Self|1 AP, 10 MP|Inflicts the Guarded status on all of the Statue's allies until the beginning of its next turn.|
 |Living Construct|Passive|N/A|The Statue is immune to all negative status effects.|
 
