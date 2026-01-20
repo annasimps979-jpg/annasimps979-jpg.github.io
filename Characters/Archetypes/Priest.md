@@ -53,13 +53,13 @@ The Priest's core virtue is their **Compassion.**  At [character creation](../..
 
 ## Talents
 
-**[Striker](../../Characters/Jobs/Striker):** Bludgeon.  You can choose to deal damage to enemies' MP instead of their [HP](../../Characters/Attributes-and-Statistics#term-hp) with your physical attacks when they are Shellbroken.
+**[Striker](../../Characters/Jobs/Striker):** Bludgeon.  You can choose to deal damage to enemies' MP instead of their [HP](../../Characters/Attributes-and-Statistics#term-hp) with your physical attacks when they are [Shellbroken](../Combat-Rules/Shells#term-shellbroken).
 
 **[Caster](../../Characters/Jobs/Caster):** Divine Wrath.  During the Effect Phase, Prayer and Blessing inflict the same amount of fixed damage to all enemies that they heal your allies' MP for.
 
 **[Healer](../../Characters/Jobs/Healer):** Faith Healing.  During the Effect Phase, Prayer and Blessing heal you and your allies for the same amount of HP that they heal your allies' MP for.  This effect cannot revive characters.
 
-**[Defender](../../Characters/Jobs/Defender):** Divine Protection.  When you take damage to your HP or Shell, you can choose to take damage to your MP instead.  Any excess damage after your MP is reduced to 0 is dealt to your HP or Shell instead.
+**[Defender](../../Characters/Jobs/Defender):** Divine Protection.  When you take damage to your HP or [Shell](../../Combat-Rules/Shells), you can choose to take damage to your MP instead.  Any excess damage after your MP is reduced to 0 is dealt to your HP or Shell instead.
 
 **Support:** Faith Cure.  Prayer and Blessing heal the Shells of you and your allies by the same amount of points they restore their MP for.  They do not apply Shells to you if you do not have any.
 
