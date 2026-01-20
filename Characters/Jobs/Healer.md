@@ -1,6 +1,6 @@
 # Healer
 
-_<dfn id = "term-healer">Healers</dfn>_ specialize in [abilities](../../Extras/Key-Terms#term-ability) that heal, revive, and remove status effects and debuffs.
+_<dfn id = "term-healer">Healers</dfn>_ specialize in [abilities](../../Extras/Key-Terms#term-ability) that heal, revive, and remove statuses and [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff).
 
 While they are Healers, [player characters](../../Extras/Key-Terms#term-player-character) gain the following bonuses to their [statistics](../../Extras/Key-Terms#term-statistic):
 *  Their [Evasion](../../Characters/Attributes-and-Statistics#term-evasion) is increased by an amount equal to their [Body](../../Characters/Attributes-and-Statistics#term-body).
@@ -12,7 +12,7 @@ While they are Healers, [player characters](../../Extras/Key-Terms#term-player-c
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
 |1|Heal|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|5 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Restore an amount of [HP](../../Characters/Attributes-and-Statistics#term-hp) to a single target equal to your Magical Attack.|
-|2|Cleanse|Ally|8 MP, 1 AP|Reset the Bonus Tracker for all of a single target's statistics back to +0.|
+|2|Cleanse|Ally|8 MP, 1 AP|Reset the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker) for all of a single target's statistics back to +0.|
 |3|Revive|Ally|10 MP, 1 AP|Revive a single [downed](../../Characters/Attributes-and-Statistics#term-downed) target back to 1 HP.|
 |4|Life Aura|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|2 AP|Heal yourself an all allies for 5 HP.|
 |5|Mend|Ally|11 MP, 1 AP|Heal a single target for an amount of HP equal to twice your Magical Attack.|
