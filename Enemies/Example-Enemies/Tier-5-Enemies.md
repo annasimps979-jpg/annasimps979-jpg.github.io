@@ -5,7 +5,7 @@ Deep within the labs of the Technomancers, strange creations grow in vats, waiti
 
 Test subjects without their masters are very much insane.  They will not use any tactics to speak of, but will instead attack at random.  [GMs](../../Extras/Key-Terms#term-gm) should use this madness to create tension during fights, saving most the powerful [abilities](../../Extras/Key-Terms#term-ability) for moments where the [players](../../Extras/Key-Terms#term-player) will be caught off guard.
 
-### Slime (Normal 5, Horror, Colorless)
+### Slime (Normal 5, Horror, [Colorless](../../Combat-Rules/Elemental-Types#term-colorless))
 
 **Statistics**
 
@@ -22,7 +22,7 @@ Test subjects without their masters are very much insane.  They will not use any
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Pseudopod|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
-|Bolt|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single target that deals magical damage of the Slime's current elemental type on a hit.|
+|Bolt|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) against a single target that deals magical damage of the Slime's current [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) on a hit.|
 |Elemental Absorption|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The Slime's elemental type is the elemental type of the last magical attack, physical attack, or [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that hit it.  This can include colorless.  The change triggers before Divide activates.|
 
 **Item Table**
@@ -61,7 +61,7 @@ Test subjects without their masters are very much insane.  They will not use any
 |2|Rare Restore MP|
 |3|100 cr|
 
-### Spitter (Normal 5, Horror, Wind)
+### Spitter (Normal 5, Horror, [Wind](../../Combat-Rules/Elemental-Types#term-wind))
 
 **Statistics**
 
@@ -78,7 +78,7 @@ Test subjects without their masters are very much insane.  They will not use any
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Tail|Melee|1 AP|Makes a basic physical attack.|
-|Acid Spit|Ranged|1 AP, 5 MP|Makes a magical attack that does magical wood damage and inflicts the Poisoned status effect on a hit.|
+|Acid Spit|Ranged|1 AP, 5 MP|Makes a magical attack that does magical [wood](../../Combat-Rules/Elemental-Types#term-wood) damage and inflicts the Poisoned status effect on a hit.|
 |Amniotic Tank|Passive|N/A|When the Spitter is infected with Poisoned, they do not take damage resulting from it but instead are healed for 2 HP during the Effect Phase of every round.|
 
 **Item Table** 
@@ -199,7 +199,7 @@ Royal Militia are organized, disciplined, and utterly devoted to their task.  Th
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Saber|Melee|1 AP|Makes a basic physical attack.|
-|Gunpowder|Ranged|1 AP, 5 MP|Makes a magical attack against a single target that deals magical earth damage on a hit.|
+|Gunpowder|Ranged|1 AP, 5 MP|Makes a magical attack against a single target that deals magical [earth](../../Combat-Rules/Elemental-Types#term-earth) damage on a hit.|
 |Shrapnel Bomb|Multi|1 AP, 15 MP|Makes a magical attack against all enemies that deals magical earth damage on a hit.|
 
 **Item Table** 
@@ -238,7 +238,7 @@ Royal Militia are organized, disciplined, and utterly devoted to their task.  Th
 |2|Shield|
 |3|100 cr|
 
-### Paladin (Elite 5, Human, Thunder)
+### Paladin (Elite 5, Human, [Thunder](../../Combat-Rules/Elemental-Types#term-thunder))
 
 **Statistics**
 
