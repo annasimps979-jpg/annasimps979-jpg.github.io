@@ -18,7 +18,7 @@ Players are always allowed to count Aspirations and Relationships as things that
 ## Using Anima
 Each player character is empowered with magic whose root is the Anima accumulated inside of their souls.  In game terms, this means that they can earn Anima by acting out scenes and spend Anima to gain mechanical advantages.  All player characters can have a maximum of 10 Anima at a time.  Once they accumulate this much, they must spend some in order to earn any more.
 
-Players can spend Anima in or out of combat in any of the following ways:
+Players can spend Anima in or out of [combat](../Combat-Rules/) in any of the following ways:
 *  During travel, they may spend 1 Anima to automatically succeed on a navigation roll.
 *  In combat, they can spend 3 Anima to take the Summon Eidolon [action](../Extras/Key-Terms#term-action).
 *  In combat, they must spend 1 Anima per round to keep their Eidolon on the field.
