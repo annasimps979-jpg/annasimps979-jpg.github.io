@@ -61,6 +61,6 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 **[Defender](../../Characters/Jobs/Defender):** Tower.  While you are Focused, you may use the Guard, Taunt, Multiguard, and Multitaunt abilities, and you take reduced damage from physical and magical attacks equal to your current damage bonus.
 
-**Support:** Relentless.  While you are Focused, you gain 1 Shell of your elemental type every time you hit an enemy.  If you have a Shell of a different elemental type active, you gain 1 Shell of that elemental type instead.
+**Support:** Relentless.  While you are Focused, you gain 1 Shell of your [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) every time you hit an enemy.  If you have a Shell of a different elemental type active, you gain 1 Shell of that elemental type instead.
 
 **Saboteur:** Spy.  While you are Focused, you may use [status-inflicting abilities](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) in addition to your basic attack.  Hitting an enemy with a status-inflicting ability increases your bonus damage by 1, while missing an enemy with a status-inflicting ability removes the Focused status effect.
