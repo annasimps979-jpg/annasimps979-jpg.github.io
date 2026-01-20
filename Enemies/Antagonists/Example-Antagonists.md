@@ -52,7 +52,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Dry Bite|Melee|1 AP|Makes a basic physical attack.|
 |Pounce|Ranged|1 AP, 5 MP|The Tarantula makes a physical attack that deals colorless physical damage on a hit.|
 |Poison Bite|Melee|1 AP, 5 MP|The Tarantula makes a physical attack that deals colorless physical damage on a hit and applies the Toxin status effect.|
-|Harden|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 5 MP|The Tarantula buffs its Physical Defense by 1 step on the Bonus Tracker.|
+|Harden|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 5 MP|The Tarantula [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) its Physical Defense by 1 step on the Bonus Tracker.|
 |Frenzy|Self|1 AP|Applies the Focused status to the Tarantula.|
 |Hunter's Frenzy|Passive|N/A|The Tarantula can still use any abilities that count as physical attacks when it is Focused.|
 |Spines|Passive|N/A|When the Tarantula is hit by a physical attack, the Tarantula will counterattack them with a free status-inflicting ability that deals Poisoned on a hit.|
@@ -85,9 +85,9 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Cleave|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 7 MP|Makes a physical attack against all of the War Leader's enemies in the front row that does colorless physical damage on a hit.|
 |Challenge|Ranged|1 AP|Confers the Taunted status on one of the War Leader's enemies.|
 |Battle Prayer|Ally|1 AP, 9 MP|Bestows the Protected (Colorless) status on the War Leader or one of their allies.|
-|Inspire|Multi|1 AP, 10 MP|Increases the Physical Attack of the War Leader and all of their allies by one step on the Bonus Tracker.|
+|Inspire|Multi|1 AP, 10 MP|Increases the Physical Attack of the War Leader and all of their allies by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 |Command|Ally|1 AP|This ability works the same as the Commander's Orders ability.  The War Leader can use it once per battle.|
-|Lead By Example|Passive|N/A|While the War Leader is on the battlefield, any allies will share all of its buffs and debuffs on the Bonus Tracker.|
+|Lead By Example|Passive|N/A|While the War Leader is on the battlefield, any allies will share all of its buffs and [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) on the Bonus Tracker.|
 |Dragonslayer|Paradigm Action|1 Anima|The War Leader makes a physical attack that deals 4x physical colorless damage on a hit against enemies with full HP.  If an enemy is not at full HP, the attack deals 2x damage instead.|
 
 ### Form 2: Leshen (Villain 4, Demon, Wood)
