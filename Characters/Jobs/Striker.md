@@ -11,8 +11,8 @@ While they are Strikers, [player characters](../../Extras/Key-Terms#term-player-
 
 |Rank|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|:-|
-|1|Strike|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Make a colorless physical attack that deals 1.5x damage on a hit in addition to other modifiers.|
-|2|Elemental Attack|Melee|3 MP, 1 AP|Make a physical attack whose elemental type is the same as your base elemental type.|
+|1|Strike|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Make a [colorless](../../Combat-Rules/Elemental-Types#term-colorless) physical attack that deals 1.5x damage on a hit in addition to other modifiers.|
+|2|Elemental Attack|Melee|3 MP, 1 AP|Make a physical attack whose [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) is the same as your base elemental type.|
 |3|Power Attack|Melee|5 MP, 1 AP|Make a colorless physical attack.  On a hit, this attack's damage is multiplied by 2 in addition to other modifiers.|
 |4|Cleave|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|7 MP, 1 AP|Make a colorless, melee physical attack against all enemies in the front row.|
 |5|Leaping Strike|Ranged|5 MP, 1 AP|Make a colorless physical attack against a single target.|
