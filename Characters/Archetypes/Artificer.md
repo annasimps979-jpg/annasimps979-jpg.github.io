@@ -15,7 +15,7 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 |Name|[Type](../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Scan|[Ranged](../Combat-Rules/Attacking-and-Defending#term-ranged)|2 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Select an enemy.  You immediately learn its current [HP](../../Characters/Attributes-and-Statistics#term-hp), MP, Shell, and elemental type.  Subsequent uses of this ability on the same enemy will allow you to learn the same information, or allow you to learn the value of one of its [statistics](../../Extras/Key-Terms#term-statistic), its item table, or reveal one of its abilities.|
+|Scan|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|2 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Select an enemy.  You immediately learn its current [HP](../../Characters/Attributes-and-Statistics#term-hp), MP, [Shell](../../Combat-Rules/Shells), and elemental type.  Subsequent uses of this ability on the same enemy will allow you to learn the same information, or allow you to learn the value of one of its [statistics](../../Extras/Key-Terms#term-statistic), its item table, or reveal one of its abilities.|
 
 **Rank 2:** You gain +1 Magical Accuracy.
 
