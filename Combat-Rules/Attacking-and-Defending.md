@@ -20,7 +20,7 @@ Some abilities, such as Cleave or Elemental Storm, will target multiple characte
 
 Every ability that you use has an <dfn id = "term-ability-type">ability type</dfn> that specifies its target.  They are as follows:
 *  <dfn id = "term-self-ability">Self</dfn>.  This ability may only target the user.
-*  <dfn id = "term-melee">Melee</dfn>.  This ability may only be used when the user is in the front row, and may only target characters that are in the front row.
+*  <dfn id = "term-melee">Melee</dfn>.  This ability may only be used when the user is in the [front row](../Combat-Rules/Starting-Battles#term-front-row), and may only target characters that are in the front row.
 *  <dfn id = "term-ranged">Ranged</dfn>.  This ability is offensive, and may target any character on the battlefield.
 *  <dfn id = "term-ally-ability">Ally</dfn>.  This ability is defensive, and may target any character on the battlefield.
 *  <dfn id = "term-special-ability">Special</dfn>.  The possible targets of this ability are contextual.  Read its description to learn when it can be used.
