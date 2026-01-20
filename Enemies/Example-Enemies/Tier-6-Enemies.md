@@ -21,7 +21,7 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Faerie Fire|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) that does magical damage of the Wisp's elemental type on a hit.|
+|Faerie Fire|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) that does magical damage of the Wisp's [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) on a hit.|
 |Curse|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 18 MP|Attempts to inflict the status associated with the Wisp's element on all enemies on the battlefield.|
 |Magic Ward|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 7 MP|Applies 16 points of Shell to a single ally of the Wisp's current elemental type.|
 
@@ -136,7 +136,7 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Zap|Melee|1 AP|Makes a colorless magical attack against a single target.|
+|Zap|Melee|1 AP|Makes a [colorless](../../Combat-Rules/Elemental-Types#term-colorless) magical attack against a single target.|
 |Orb|Ranged|1 AP, 7 MP|Makes a magical attack against a single target that deals magical damage of the Conflagration's elemental type that is multiplied by 2 in addition to other modifiers.|
 |Storm|Multi|1 AP, 13 MP|Makes a magical attack against every enemy of the Conflagration's that deals magical damage of the Conflagration's elemental type on a hit.|
 |Chain Spell|Ranged|1 AP, 8 MP|Makes a magical attack against a single target that deals magical damage of the Conflagration's elemental type.  On a hit, the Conflagration makes another attack against another character for free.  Each subsequent attack lets the Conflagration attack another character for free.|
@@ -155,7 +155,7 @@ Tidewater regions that are not populated by humans or other sentients are usuall
 
 Sahuagin are somewhat physically weak, and as a result will focus on wearing their enemies down and frustrating them in the hopes that they will make stupid mistakes.
 
-### Fisher (Normal 6, Dragon, Water)
+### Fisher (Normal 6, Dragon, [Water](../../Combat-Rules/Elemental-Types#term-water))
 
 **Statistics**
 
