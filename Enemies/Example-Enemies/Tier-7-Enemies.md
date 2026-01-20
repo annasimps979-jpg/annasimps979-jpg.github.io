@@ -3,7 +3,7 @@
 ## Orks
 Ork raiding parties are feared by rural folk, and rightfully so.  When they strike, they strike not just to steal food but also to remind their victims of their presence by inspiring fear, softening them for the next raid.
 
-In combat, Orks want to strike terror in the hearts of their enemies.  They do this through doing their best to do massive amounts of physical damage, and by purposefully ignoring their own health to maintain their image as invulnerable, rage-filled monsters.
+In [combat](../../Combat-Rules/), Orks want to strike terror in the hearts of their enemies.  They do this through doing their best to do massive amounts of physical damage, and by purposefully ignoring their own health to maintain their image as invulnerable, rage-filled monsters.
 
 ### Fodder (Normal 7, Demon, [Earth](../../Combat-Rules/Elemental-Types#term-earth))
 
