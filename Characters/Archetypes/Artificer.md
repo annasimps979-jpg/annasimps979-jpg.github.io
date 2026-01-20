@@ -23,7 +23,7 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Item Specialist|[Passive](../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|When you use an ability that costs MP, you may substitute the MP cost of the ability by expending an item whose effect is of the same type as the ability.|
+|Item Specialist|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|When you use an ability that costs MP, you may substitute the MP cost of the ability by expending an item whose effect is of the same type as the ability.|
 
 **Rank 4:** You gain +1 Magical Accuracy.
 
@@ -31,7 +31,7 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Multiscan|[Multi](../Combat-Rules/Attacking-and-Defending#term-multi)|10 MP, 1 AP|Target all enemies.  You immediately learn their current HP, MP, Shell, and [elemental type](../Combat-Rules/Elemental-Types#term-elemental-type).  Subsequent uses of this ability on all enemies will allow you to learn the same information, or allow you to learn the value of one of their statistics, their item tables, or reveal one of the abilities of each one individually.|
+|Multiscan|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|10 MP, 1 AP|Target all enemies.  You immediately learn their current HP, MP, Shell, and [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type).  Subsequent uses of this ability on all enemies will allow you to learn the same information, or allow you to learn the value of one of their statistics, their item tables, or reveal one of the abilities of each one individually.|
 
 **Rank 6:** You gain +1 Magical Accuracy.
 
@@ -39,7 +39,7 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Reveal Weakness|Passive|N/A|When you use the Scan ability on an enemy, it inflicts the Scanned status effect.  The next [physical attack](../Combat-Rules/Attacking-and-Defending#term-physical-attack), [magical attack](../Combat-Rules/Attacking-and-Defending#term-magical-attack), or [status-inflicting ability](../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that hits the enemy will ignore any resistances it has, and then the Scanned status effect is removed.|
+|Reveal Weakness|Passive|N/A|When you use the Scan ability on an enemy, it inflicts the Scanned status effect.  The next [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), or [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that hits the enemy will ignore any resistances it has, and then the Scanned status effect is removed.|
 
 **Rank 8:** You gain +1 Magical Accuracy.
 
