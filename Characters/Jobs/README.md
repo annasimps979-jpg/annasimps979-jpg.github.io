@@ -7,5 +7,5 @@ In Last Odyssey, there are six distinct jobs: Striker, Caster, Healer, Defender,
 *  [Caster:](Caster) An offensive job focused on doing damage to the entire battlefield.
 *  [Healer:](Healer) A defensive job focused on healing and removing status effects from allies.
 *  [Defender:](Defender) A defensive job focused on drawing enemy attacks and negating received damage.
-*  [Support:](Support) A defensive job focused on buffing allies and protecting them from elemental damage.
-*  [Saboteur:](Saboteur) An offensive job focused on debuffing enemies and making them vulnerable to elemental damage.
+*  [Support:](Support) A defensive job focused on [buffing](../../Combat-Rules/Buffs-and-Debuffs#term-buff) allies and protecting them from elemental damage.
+*  [Saboteur:](Saboteur) An offensive job focused on [debuffing](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) enemies and making them vulnerable to elemental damage.
