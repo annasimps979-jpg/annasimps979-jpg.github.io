@@ -8,7 +8,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 
 **Description:** An underground ruin once home to a lost civilization is now the Domain of the Spider Queen, a Monster whose spawn are the apex predators of its tiny but complex ecosystem.  The Queen herself spins her web throughout the ruin, capturing larger animals and the occasional traveler unwise or unlucky enough to stumble into her Domain.
 
-### Form 1: Webmaster (Monster 1, Animal, Shadow)
+### Form 1: Webmaster (Monster 1, Animal, [Shadow](../../Combat-Rules/Elemental-Types#term-shadow))
 
 **Statistics**
 
@@ -25,12 +25,12 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Leg Stab|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
-|Magic Spear|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 3 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack that inflicts colorless magical damage on a  hit.|
+|Magic Spear|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 3 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack that inflicts [colorless](../../Combat-Rules/Elemental-Types#term-colorless) magical damage on a  hit.|
 |Bind|Ranged|1 AP, 7 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that inflicts Petrify on a hit.|
-|Dissolve Organs|Melee|1 AP, 5 MP|If an enemy has the Petrify status effect, the Webmaster deals magical earth damage that is multiplied by 2 in addition to other modifiers against them without needing to make an attack roll.|
+|Dissolve Organs|Melee|1 AP, 5 MP|If an enemy has the Petrify status effect, the Webmaster deals magical [earth](../../Combat-Rules/Elemental-Types#term-earth) damage that is multiplied by 2 in addition to other modifiers against them without needing to make an attack roll.|
 |Antimagic Field|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|Variable|The Webmaster can use the [Sage's](../../Characters/Archetypes/Sage) Counterspell ability.|
 |Eggs|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The Webmaster begins the [battle](../../Extras/Key-Terms#term-battle) with 3 Eggs that can be used to create Spiderlings.|
-|Lay Egg|Special|1 AP, 1 Egg|The Webmaster lays an egg that has 20 Colorless HP and no defenses.  If the Egg is still present during the next effect phase, it hatches into a Spiderling enemy that joins the Initative order during the next combat round.|
+|Lay Egg|Special|1 AP, 1 Egg|The Webmaster lays an egg that has 20 HP and no defenses.  If the Egg is still present during the next effect phase, it hatches into a Spiderling enemy that joins the Initative order during the next combat round.|
 |Spun Web|Passive|N/A|The Webmaster's enemies must spend 2 AP to Move instead of 1.  The Ranger's Forest Walk counteracts this effect.|
 
 ### Form 2: Tarantula (Monster 2, Animal, Earth)
@@ -90,7 +90,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Lead By Example|Passive|N/A|While the War Leader is on the battlefield, any allies will share all of its buffs and [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) on the Bonus Tracker.|
 |Dragonslayer|Paradigm Action|1 Anima|The War Leader makes a physical attack that deals 4x physical colorless damage on a hit against enemies with full HP.  If an enemy is not at full HP, the attack deals 2x damage instead.|
 
-### Form 2: Leshen (Villain 4, Demon, Wood)
+### Form 2: Leshen (Villain 4, Demon, [Wood](../../Combat-Rules/Elemental-Types#term-wood))
 
 **Statistics**
 
@@ -114,7 +114,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Unnatural Resilience|Passive|N/A|The Leshen counts as having 2x resistance to all status-inflicting abilities.|
 |Comeback|Paradigm Action|1 Anima|Raises the Leshen's Physical Attack buff to +7 regardless of its current value.|
 
-### Form 3: Revenant (Villain 5, Undead, Ice)
+### Form 3: Revenant (Villain 5, Undead, [Ice](../../Combat-Rules/Elemental-Types#term-ice))
 
 **Statistics**
 
@@ -146,7 +146,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 
 **Description:** A renowned but eccentric scientist, Doctor Strazio discovered the power of Anima by accident while attempting to create a new form of reactor.  Now, he stalks his laboratory, conducting strange and nonsensical experiments that often amount to nothing more than elaborate forms of torture for their subjects.
 
-### Form 1: Doctor (Monster 6, Human, Wind)
+### Form 1: Doctor (Monster 6, Human, [Wind](../../Combat-Rules/Elemental-Types#term-wind))
 
 **Statistics**
 
@@ -168,11 +168,11 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Recharge|Ally|1 AP, 5 MP|Restores 30 MP to a single one of the Doctor's allies.  The Doctor cannot use this ability on themselves.|
 |Time Dilation|Multi|1 AP, 25 MP|Hastes the Doctor and all of its allies.|
 |Sadist|Passive|N/A|Whenever the Doctor inflicts damage on an enemy, they also regain an amount of MP equal to the amount of damage they dealt.|
-|Prepared|Passive|N/A|The Doctor has one of each elemental type of Rare Elemental Damage item in its inventory.|
+|Prepared|Passive|N/A|The Doctor has one of each [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) of Rare Elemental Damage item in its inventory.|
 |Target Acquired|Paradigm Action|1 Anima|All of the Doctor's enemies on the battlefield have the Scan effect added to them, revealing all possible information to the Doctor and allowing them to keep track of it afterwards.|
 |Second Chance|Paradigm Action|1 Anima.  Heals and revives all of the Doctor's Allies to full HP and removes all of their current status effects and debuffs.|
 
-### Form 2: Torture Rack (Monster 7, Construct, Thunder)
+### Form 2: Torture Rack (Monster 7, Construct, [Thunder](../../Combat-Rules/Elemental-Types#term-thunder))
 
 **Statistics**
 
@@ -200,7 +200,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Torture|Paradigm Action|1 Anima|The Torture Rack inflicts 2d8 random debuffs on a single target.|
 |Assassinate|Paradigm Action|1 Anima|The Torture rack designates an enemy, and the [GM](../../Extras/Key-Terms#term-gm) rolls a 1d10.  The target then loses a percentage of their total [Health](../../Characters/Attributes-and-Statistics#term-health) from their combined HP and Shell equal to the result of the roll multiplied by 10.|
 
-### Form 3 (Growable): Infernal Engine.  (Monster 8, Dragon, Fire)
+### Form 3 (Growable): Infernal Engine.  (Monster 8, Dragon, [Fire](../../Combat-Rules/Elemental-Types#term-fire))
 
 **Statistics**
 
@@ -233,7 +233,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 
 **Description:** The Overmind is a millennia-old psychic whose original body has been replaced over time with writhing fleshgrafts and horrifying cybernetics that allow it to project its will into the minds of even its most distant subjects.  The weight of so much psychic influence has rendered it quite mad, making it a threat that must be stopped before it destroys the known universe.
 
-**Eidolon:** Mindeater (Saboteur, Light Body 5, Mind 15, Spirit 7, Debuffs Magical Attack).
+**Eidolon:** Mindeater (Saboteur, [Light](../../Combat-Rules/Elemental-Types#term-light), Body 5, Mind 15, Spirit 7, Debuffs Magical Attack).
 
 ### Form 1: Savior (Villain 9, Angel, Light)
 
@@ -264,7 +264,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Spin the Bottle|Paradigm Action|1 Anima|The GM rolls a 1d6 and designates a single target.  If the number is a 6, the target of this ability takes a [base](../../Extras/Key-Terms#term-base) amount of magical damage equal to 104.  Otherwise, roll again.  If the number is a 6 this time, the Savior takes damage instead of their target.  Go back and forth until either the Savior or their target take damage.|
 |Reveal the Light|Paradigm Action|1 Anima|The Savior inflicts Blind, Slow, and one level of debuff of Magical Defense on the Bonus Tracker on all of its enemies.  This ability cannot be resisted.|
 
-### Form 2: Unveiled (Villain 10, Horror, Water)
+### Form 2: Unveiled (Villain 10, Horror, [Water](../../Combat-Rules/Elemental-Types#term-water))
 
 **Statistics**
 
