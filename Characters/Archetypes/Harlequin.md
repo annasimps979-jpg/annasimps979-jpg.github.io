@@ -53,7 +53,7 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 ## Talents
 
-**[Striker](../../Characters/Jobs/Striker):** Random Strike.  When you use a [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), you may roll on the Random Element Table to determine its elemental type.
+**[Striker](../../Characters/Jobs/Striker):** Random Strike.  When you use a [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), you may roll on the Random Element Table to determine its [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type).
 
 **[Caster](../../Characters/Jobs/Caster):** Rainbow Bolt.  When you use a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), you may roll on the Random Element Table to determine its elemental type.
 
