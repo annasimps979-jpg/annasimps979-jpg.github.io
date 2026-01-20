@@ -1,7 +1,7 @@
 # Tier 8 Enemies
 
 ## Angels
-The servants of Heaven are just and righteous, but this makes them no less deadly in combat.
+The servants of Heaven are just and righteous, but this makes them no less deadly in [combat](../../Combat-Rules/).
 
 Angels will fight fair, but will also fight hard, and to the death.  If they are sent after the [players](../../Extras/Key-Terms#term-player), this means they know their tactics and their weaknesses and are prepared to respond accordingly.
 
