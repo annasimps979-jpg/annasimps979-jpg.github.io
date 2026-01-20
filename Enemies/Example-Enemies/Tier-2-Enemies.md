@@ -3,7 +3,7 @@
 ## Forest Dwellers
 The deep woods are home to hostile creatures that will defend their territory to the death, although they will also grant boons to travelers they trust.
 
-Forest Dwellers are interested in murdering their opponents with as little fanfare as possible.  The exception to this is that they will prioritize survival in combat over a quicker end to things.  You will see them choose to use healing [abilities](../../Extras/Key-Terms#term-ability) even when it isn't strictly needed, and playing it safe with buffs and debuffs.
+Forest Dwellers are interested in murdering their opponents with as little fanfare as possible.  The exception to this is that they will prioritize survival in combat over a quicker end to things.  You will see them choose to use healing [abilities](../../Extras/Key-Terms#term-ability) even when it isn't strictly needed, and playing it safe with [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) and [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff).
 
 ### Wolf (Normal 2, Animal, Shadow)
 
@@ -23,7 +23,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |:-|:-|:-|:-|
 |Bite|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Gore|Melee|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Makes a colorless physical attack that inflicts damage multiplied by 1.5x in addition to other modifiers.|
-|Howl|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|3 MP, 1 AP|Buffs the Physical Attack of the Wolf by one step on the Bonus Tracker.|
+|Howl|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|3 MP, 1 AP|Buffs the Physical Attack of the Wolf by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 
 **Item Table** 
 
