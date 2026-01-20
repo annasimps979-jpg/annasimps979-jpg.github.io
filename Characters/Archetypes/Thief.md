@@ -15,7 +15,7 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Steal|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Select an enemy and roll on their item table.  If you obtain an item from this roll, you may use it immediately without spending any AP or you may put it in your inventory if you have enough Carrying Capacity.  You may only obtain one item per enemy per [battle](../../Extras/Key-Terms#term-battle) with this ability.|
+|Steal|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Select an enemy and roll on their [item table](../../Combat-Rules/Ending-Combat#term-item-table).  If you obtain an item from this roll, you may use it immediately without spending any AP or you may put it in your inventory if you have enough Carrying Capacity.  You may only obtain one item per enemy per [battle](../../Extras/Key-Terms#term-battle) with this ability.|
 
 **Rank 2:** You gain +1 Physical Attack.
 
