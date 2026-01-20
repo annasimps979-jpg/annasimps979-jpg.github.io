@@ -1,6 +1,6 @@
 # Saboteur
 
-The Saboteur specializes in applying debuffs and negative statuses.
+The Saboteur specializes in applying [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) and negative statuses.
 
 While they are Saboteurs, [player characters](../../Extras/Key-Terms#term-player-character) gain the following bonuses to their [statistics](../../Extras/Key-Terms#term-statistic):
 *  Their [Resistance](../../Characters/Attributes-and-Statistics#term-resistance) is increased by an amount equal to their [Body](../../Characters/Attributes-and-Statistics#term-body).
@@ -11,7 +11,7 @@ While they are Saboteurs, [player characters](../../Extras/Key-Terms#term-player
 
 |Rank|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|:-|
-|1|Debuff|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Move an enemy down one level on the Bonus Tracker for the statistic that your [archetype](../../Characters/Archetypes/) debuffs.|
+|1|Debuff|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Move an enemy down one level on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker) for the statistic that your [archetype](../../Characters/Archetypes/) debuffs.|
 |2|Debilitate|Ranged|7 MP, 1 AP|Use a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on a single target that inflicts the status effect associated with your elemental type on a hit.|
 |3|Slow|Ranged|12 MP, 1 AP|The target of this ability receives the Slowed status effect during the Effect Phase of this round. The effect then lasts for three subsequent rounds. While the target is Slowed, they have -1 AP to use per round.|
 |4|Multidebuff|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|12 MP, 1 AP|Move all of your enemies down one level on the Bonus Tracker for the statistic that your archetype debuffs.|
