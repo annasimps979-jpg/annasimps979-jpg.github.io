@@ -23,7 +23,7 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 |:-|:-|:-|:-|
 |Slash|[Melee](../../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Thrust|Melee|1 AP, 3 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack that deals colorless physical damage that is multiplied by 1.5 in addition to other modifiers.|
-|Strength in Numbers|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the Effect Phase, the Drakeling's Physical Defense and Magical Defense are buffed by a number of steps on the Bonus Tracker equal to the number of other Drakelings still not [downed](../../Characters/Attributes-and-Statistics#term-downed) on the battlefield.|
+|Strength in Numbers|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the Effect Phase, the Drakeling's Physical Defense and Magical Defense are [buffed](../../Combat-Rules/Buffs-and-Debuffs#term-buff) by a number of steps on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker) equal to the number of other Drakelings still not [downed](../../Characters/Attributes-and-Statistics#term-downed) on the battlefield.|
 
 **Item Table** 
 
@@ -138,7 +138,7 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 |Lodestone|Multi|1 AP, 13 MP|Makes a magical attack against all of the Oracle's enemies that deals magical earth damage on a hit.|
 |Sinkhole|Ranged|1 AP, 9 MP|Makes a magical attack against a single target that deals magical earth damage on a hit and inflicts the Sinking status, which deals magical earth damage during every subsequent Effect Phase until cured.|
 |Turn Back the Clock|Ally|1 AP, 20 MP|Revives a single downed [character](../../Extras/Key-Terms#term-character) with full HP, MP, and Shell.|
-|Manipulate Fate|Multi|1 AP, 30 MP|Debuffs the Physical, Magical, and Status Accuracy of all of the Oracle's enemies.|
+|Manipulate Fate|Multi|1 AP, 30 MP|[Debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) the Physical, Magical, and Status Accuracy of all of the Oracle's enemies.|
 |Reset Timeline|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|2 AP|The Oracle uses the [Harlequin's](../../Characters/Archetypes/Harlequin) Jubilee [ability](../../Extras/Key-Terms#term-ability).|
 
 **Item Table**
