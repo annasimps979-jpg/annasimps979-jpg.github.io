@@ -5,7 +5,7 @@ The servants of Heaven are just and righteous, but this makes them no less deadl
 
 Angels will fight fair, but will also fight hard, and to the death.  If they are sent after the [players](../../Extras/Key-Terms#term-player), this means they know their tactics and their weaknesses and are prepared to respond accordingly.
 
-### Herald (Normal 8, Angel, Light)
+### Herald (Normal 8, Angel, [Light](../../Combat-Rules/Elemental-Types#term-light))
 
 **Statistics**
 
@@ -33,7 +33,7 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |2|Expert Restore MP|
 |3|1000 cr|
 
-### Seeker (Normal 8, Angel, Wind)
+### Seeker (Normal 8, Angel, [Wind](../../Combat-Rules/Elemental-Types#term-wind))
 
 **Statistics**
 
@@ -89,7 +89,7 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |2|Expert Restore HP|
 |3|1000 cr|
 
-### Avenger (Elite 8, Angel, Fire)
+### Avenger (Elite 8, Angel, [Fire](../../Combat-Rules/Elemental-Types#term-fire))
 
 **Statistics**
 
@@ -154,7 +154,7 @@ There are certain undead who are sentient, and feed off of the life energy of th
 
 The Thrall, Ghoul, and Spawn are dumb servants who will attack mindlessly.  However, Elite vampires are quite intelligent, and their minions will also engage in more complex tactics with them around.
 
-### Thrall (Normal 8, Human, Colorless)
+### Thrall (Normal 8, Human, [Colorless](../../Combat-Rules/Elemental-Types#term-colorless))
 
 **Statistics**
 
@@ -182,7 +182,7 @@ The Thrall, Ghoul, and Spawn are dumb servants who will attack mindlessly.  Howe
 |2|Cure|
 |3|1000 cr|
 
-### Ghoul (Normal 8, Undead, Shadow)
+### Ghoul (Normal 8, Undead, [Shadow](../../Combat-Rules/Elemental-Types#term-shadow))
 
 **Statistics**
 
@@ -258,7 +258,7 @@ The Thrall, Ghoul, and Spawn are dumb servants who will attack mindlessly.  Howe
 |Mist Form|Ally|1 AP, 16 MP|Buffs the Evasion of a single character by three steps on the Bonus Tracker.|
 |Drink Blood|Melee|1 AP, 12 MP|The Elder makes a physical attack on a single target.  On a hit, they deal colorless physical damage and regain an amount of HP and MP equal to the damage they dealt.|
 |Utter Darkness|Multi|1 AP, 13 MP|Makes a magical attack against all of the Elder's enemies that deals magical shadow damage on a hit.|
-|True Vampire|Passive|N/A|The Elder is immune to all magical damage that it is not weak to due to its elemental type.|
+|True Vampire|Passive|N/A|The Elder is immune to all magical damage that it is not weak to due to its [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type).|
 
 **Item Table** 
 
