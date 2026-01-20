@@ -41,7 +41,7 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 |Reinforced|When you are hit by a [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack) while wearing this armor, the damage you take is reduced by a fixed amount after all modifiers to the [base](../../Extras/Key-Terms#term-base) damage are applied.  At UV 1, this reduces damage by 1, at UV 2 this reduces damage by 2, and at UV 3 this reduces damage by 3.|
 |Inscribed|When you are hit by a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) while wearing this armor, the damage you take is reduced by a fixed amount after all modifiers to the base damage are applied.  At UV 1, this reduces damage by 1, at UV 2 this reduces damage by 2, and at UV 3 this reduces damage by 3.|
 |Extra Ability|When a character wears armor with this upgrade, they are able to use a single flex power, [job](../../Characters/Jobs/) ability, or archetype [ability](../../Extras/Key-Terms#term-ability) at twice its normal [MP](../../Characters/Attributes-and-Statistics#term-mp) cost.  At UV 1, the ability is earned at of Rank 1-3 of the job or archetype that can use it, at UV 2 the ability is earned at Rank 4-6, and at UV 3 the ability is earned at rank 7-9.  Flex powers always count as UV 1.|
-|Elemental Resistance|When you wear this armor set, you resist damage of the specified elemental type based on the value of the upgrade.  At UV 1, damage dealt to you of that elemental type is multiplied by 0.5, at UV 2 it is multiplied by 0.25, and at UV 3 you are completely immune.|
+|Elemental Resistance|When you wear this armor set, you resist damage of the specified [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) based on the value of the upgrade.  At UV 1, damage dealt to you of that elemental type is multiplied by 0.5, at UV 2 it is multiplied by 0.25, and at UV 3 you are completely immune.|
 |Chain Vest|At the beginning of every [battle](../Extras/Key-Terms#term-battle) while wearing this armor, you gain an amount of temporary [HP](../../Characters/Attributes-and-Statistics#term-hp) depending on the value of this upgrade.  This HP goes away at the end of the battle.  At UV 1, you gain 5 HP, at UV 2 you gain 10, and at UV 3 you have a total of 15 temporary HP every battle.  This temporary HP does not affect the maximum Shell you can have during the battle.|
 
 ### UV 1
@@ -61,7 +61,7 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 |Flexible|You have a +1 to your [Evasion](../../Characters/Attributes-and-Statistics#term-evasion) while you are wearing this armor.|
 |Proofed|You have a +1 to your [Resistance](../../Characters/Attributes-and-Statistics#term-resistance) while you are wearing this armor.|
 |Fitted|Characters that do not have the correct proficiency to allow them to wear this armor may still wear it without any penalties.|
-|Plated|When you are hit by an attack that does colorless, physical damage, the damage it deals to you is multiplied by 0.5 in addition to any other multipliers.|
+|Plated|When you are hit by an attack that does [colorless](../../Combat-Rules/Elemental-Types#term-colorless), physical damage, the damage it deals to you is multiplied by 0.5 in addition to any other multipliers.|
 |Status Immunity|When you are wearing armor with this upgrade, you are immune to the specified status effect.  This upgrade is mutually exclusive with the UV 1 Status Resistance upgrade for the same status effect.|
 
 ### UV 3
