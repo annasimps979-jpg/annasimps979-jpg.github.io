@@ -1,6 +1,6 @@
 # Support
 
-Supports specialize in [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff), Shells, and beneficial statuses.
+Supports specialize in [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff), [Shells](../../Combat-Rules/Shells), and beneficial statuses.
 
 While they are Supports, [player characters](../../Extras/Key-Terms#term-player-character) gain the following bonuses to their [statistics](../../Extras/Key-Terms#term-statistic):
 *  Their [Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense) is increased by an amount equal to their [Body](../../Characters/Attributes-and-Statistics#term-body).
