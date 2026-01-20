@@ -5,7 +5,7 @@ The reptilian lords of the sky are extraordinarily long-lived, and guard their a
 
 In combat, the lives of Elite dragons are much more valuable than those of the Normal tier dragon enemies, meaning that the latter will gladly sacrifice themselves for the former.
 
-### Drakeling (Normal 10, Dragon, Earth)
+### Drakeling (Normal 10, Dragon, [Earth](../../Combat-Rules/Elemental-Types#term-earth))
 
 **Statistics**
 
@@ -22,7 +22,7 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Slash|[Melee](../../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
-|Thrust|Melee|1 AP, 3 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack that deals colorless physical damage that is multiplied by 1.5 in addition to other modifiers.|
+|Thrust|Melee|1 AP, 3 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack that deals [colorless](../../Combat-Rules/Elemental-Types#term-colorless) physical damage that is multiplied by 1.5 in addition to other modifiers.|
 |Strength in Numbers|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the Effect Phase, the Drakeling's Physical Defense and Magical Defense are [buffed](../../Combat-Rules/Buffs-and-Debuffs#term-buff) by a number of steps on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker) equal to the number of other Drakelings still not [downed](../../Characters/Attributes-and-Statistics#term-downed) on the battlefield.|
 
 **Item Table** 
@@ -89,7 +89,7 @@ In combat, the lives of Elite dragons are much more valuable than those of the N
 |2|Multiscan|
 |3|1000 cr|
 
-### Warrior (Elite 10, Dragon, Thunder)
+### Warrior (Elite 10, Dragon, [Thunder](../../Combat-Rules/Elemental-Types#term-thunder))
 
 **Statistics**
 
@@ -154,7 +154,7 @@ Academic magic-users are just as unpredictable, cruel, and violent as any monste
 
 In combat, magi tend to know everything about their opponents, and will play as optimally as they possibly can as a result.
 
-### White Mage (Normal 10, Human, Light)
+### White Mage (Normal 10, Human, [Light](../../Combat-Rules/Elemental-Types#term-light))
 
 **Statistics**
 
@@ -182,7 +182,7 @@ In combat, magi tend to know everything about their opponents, and will play as 
 |2|Expert Restore MP|
 |3|1000 cr|
 
-### Black Mage (Normal 10, Human, Shadow)
+### Black Mage (Normal 10, Human, [Shadow](../../Combat-Rules/Elemental-Types#term-shadow))
 
 **Statistics**
 
@@ -198,8 +198,8 @@ In combat, magi tend to know everything about their opponents, and will play as 
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Fire Missile|Ranged|1 AP, 9 MP|Makes a magical attack against a single target that deals magical fire damage on a hit that is multiplied by 2 in addition to other modifiers.|
-|Water Missile|Ranged|1 AP, 9 MP|Makes a magical attack against a single target that deals magical water damage on a hit that is multiplied by 2 in addition to other modifiers.|
+|Fire Missile|Ranged|1 AP, 9 MP|Makes a magical attack against a single target that deals magical [fire](../../Combat-Rules/Elemental-Types#term-fire) damage on a hit that is multiplied by 2 in addition to other modifiers.|
+|Water Missile|Ranged|1 AP, 9 MP|Makes a magical attack against a single target that deals magical [water](../../Combat-Rules/Elemental-Types#term-water) damage on a hit that is multiplied by 2 in addition to other modifiers.|
 |Earth Missile|Ranged|1 AP, 9 MP|Makes a magical attack against a single target that deals magical earth damage on a hit that is multiplied by 2 in addition to other modifiers.|
 
 **Item Table** 
