@@ -9,7 +9,7 @@ In [combat](../../Combat-Rules/), Gangsters will beat on the weakest enemy.  The
 
 **Statistics**
 
-|[HP](../../Characters/Attributes-and-Statistics#term-hp)|Shell|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |23|12|10|35|2|10|6|3|3|
 
