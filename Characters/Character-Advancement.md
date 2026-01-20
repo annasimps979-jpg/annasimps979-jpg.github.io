@@ -21,7 +21,7 @@ When a player chooses to advance one of their character's attributes, they add +
 When a player advances their character's Rank in a job, they are now able to use all of the abilities associated with that Rank or lower while they occupy it.  Players can save up Ranks whenever they take this improvement until they are ready, but they cannot spend them except when they take this improvement again.  Unlocking the capstone ability at the end of a job's ability list counts as advancing by 2 Ranks instead of 1.
 
 ## Unlocking Jobs and Talents
-Every tier, players may either choose to give their character a talent or unlock a new job.  When a character unlocks a new job, they may now occupy it during combat and gain the associated exploration [action](../Extras/Key-Terms#term-action) during travel.  When they first unlock a job, it starts at rank 1.
+Every tier, players may either choose to give their character a talent or unlock a new job.  When a character unlocks a new job, they may now occupy it during [combat](../Combat-Rules/) and gain the associated exploration [action](../Extras/Key-Terms#term-action) during travel.  When they first unlock a job, it starts at rank 1.
 
 Instead of unlocking a new job, a player can instead choose to unlock one of the talents listed in their archetype description.  Each talent is a passive ability that is only active when a character occupies the corresponding job.  There are six talents available to unlock per archetype, one for each job.
 
