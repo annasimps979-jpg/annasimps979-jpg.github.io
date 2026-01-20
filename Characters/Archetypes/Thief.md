@@ -61,6 +61,6 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 
 **[Defender](../../Characters/Jobs/Defender):** Ninja Bodyguard.  You may use Guard, Shield, Counter, and Reflect without losing the Hidden status effect.  If any of the effects of these abilities are triggered while you are Hidden, you lose the Hidden status effect.
 
-**Support:** Shellsteal.  When you use Steal on an enemy and roll a 4 on their item table, you drain an amount of Shell from them equal to your current Magical Attack and give it to yourself.  Your current Shell will then become the elemental type of the drained Shell.
+**Support:** Shellsteal.  When you use Steal on an enemy and roll a 4 on their item table, you drain an amount of Shell from them equal to your current Magical Attack and give it to yourself.  Your current Shell will then become the [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) of the drained Shell.
 
 **Saboteur:** Infection.  When you use Steal on an enemy and roll a 4 on their item table, you inflict the status effect on them associated with your elemental type.  If they are immune to this status effect, this talent does not apply.
