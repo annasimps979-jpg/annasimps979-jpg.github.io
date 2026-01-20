@@ -6,7 +6,7 @@ When the result of the encounter roll is that the players will come across a nat
 
 The consequences of failing to deal with a natural hazard depend on the hazard.  Here are some possible outcomes:
 *  The players all receive a status, such as Poisoned, Burned, or Frostbitten.
-*  The players, or any [player character](../Extras/Key-Terms#term-player-character) who fails the appropriate skill challenge, receive an injury.
+*  The players, or any [player character](../Extras/Key-Terms#term-player-character) who fails the appropriate skill challenge, receive an [injury](../Combat-Rules/Death-and-Injury#term-injury).
 *  The players are forced to backtrack and waste a day of travel.
 *  One or more of the above.
 
