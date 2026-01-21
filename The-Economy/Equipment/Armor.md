@@ -51,7 +51,7 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 |Elemental Type|When you wear armor that has this upgrade, you count as having the specified elemental type when calculating received damage.  This is overridden by class abilities like Dancer's Mask that change your elemental type, and also does not affect any Shells that you receive during battle.  You cannot have more than one of this upgrade on a single piece of armor.|
 |Invigorating|While you are wearing this armor, you are immune to [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) that affect the specified statistic.  This upgrade cannot stack, but you can have multiple upgrades that make you immune to different statistics at once.|
 |Weatherproofing|While you are wearing this armor, you are immune to the negative and positive effects of a single type of weather effect.  This cannot stack, but you may be immune to more than one type of weather effect due to different versions of this upgrade at a time.|
-|Status Resistance|While you are wearing this armor, the probability of an enemy inflicting a particular status effect on you is reduced as though you were resistant to the effect's elemental type.  This upgrade is mutually exclusive with the UV 1 Status Resistance upgrade for the same status effect, but you can resist multiple statuses at once with different versions of this upgrade.|
+|Status Resistance|While you are wearing this armor, the probability of an enemy inflicting a particular status on you is reduced as though you were resistant to the effect's elemental type.  This upgrade is mutually exclusive with the UV 1 Status Resistance upgrade for the same status, but you can resist multiple statuses at once with different versions of this upgrade.|
 |Sealed|This armor lets you function in an environment such as vacuum or underwater without suffering any negative effects.  This does not stack, but armors can be sealed to multiple environments at once.|
 
 ### UV 2
@@ -62,13 +62,13 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 |Proofed|You have a +1 to your [Resistance](../../Characters/Attributes-and-Statistics#term-resistance) while you are wearing this armor.|
 |Fitted|Characters that do not have the correct proficiency to allow them to wear this armor may still wear it without any penalties.|
 |Plated|When you are hit by an attack that does [colorless](../../Combat-Rules/Elemental-Types#term-colorless), physical damage, the damage it deals to you is multiplied by 0.5 in addition to any other multipliers.|
-|Status Immunity|When you are wearing armor with this upgrade, you are immune to the specified status effect.  This upgrade is mutually exclusive with the UV 1 Status Resistance upgrade for the same status effect.|
+|Status Immunity|When you are wearing armor with this upgrade, you are immune to the specified status.  This upgrade is mutually exclusive with the UV 1 Status Resistance upgrade for the same status.|
 
 ### UV 3
 
 |Name|Description|
 |:-|:-|
-|Barbed|When an enemy hits you with a [Melee](../../Combat-Rules/Attacking-and-Defending#term-melee) ability while you are wearing this armor, they automatically receive the status effect specified by this upgrade.|
+|Barbed|When an enemy hits you with a [Melee](../../Combat-Rules/Attacking-and-Defending#term-melee) ability while you are wearing this armor, they automatically receive the status specified by this upgrade.|
 |Enchanted|If you are wearing this armor at the beginning of combat, you automatically gain 20 points of Shell of the specified elemental type of this upgrade.  You still gain this even if your [Health](../../Characters/Attributes-and-Statistics#term-health) is less than 20.  All other rules for Shells apply as normal.|
 |Blessed|You are immune to all debuffs while wearing this armor, and you are also immune to any effects that reduce your AP in any capacity.|
 |[Mana](../../Characters/Attributes-and-Statistics#term-mana) Battery|When you begin a battle, you gain 20 temporary MP in addition to your normal MP.  Any remaining amount of this MP goes away at the end of the battle.|
