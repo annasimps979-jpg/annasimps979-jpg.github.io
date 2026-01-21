@@ -69,7 +69,7 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons provide a greater bonus 
 |:-|:-|
 |Cursed|When you hit an enemy with this weapon's basic attack, you also inflict the status specified by this upgrade.|
 |Blunt|This weapon's basic attack is replaced with an ability that makes a Melee physical attack against an enemy.  On a hit, this attack does not do damage, but instead reduces the AP that the enemy can use during its next turn by one.  You can hit an enemy with this attack multiple times per turn, but you cannot reduce its AP below zero.|
-|Ambushing|At the beginning of a [battle](../../Extras/Key-Terms#term-battle), you may make a free basic attack against any target within range of this weapon's basic attack before the Initiative order is determined.  If your [party](../../Extras/Key-Terms#term-party) has First Strike, you can make this attack for free during your First Strike turn in addition to any other [actions](../../Extras/Key-Terms#term-action).|
+|Ambushing|At the beginning of a [battle](../../Extras/Key-Terms#term-battle), you may make a free basic attack against any target within range of this weapon's basic attack before the [Initiative Order](../../Combat-Rules/Starting-Battles#term-initiative-order) is determined.  If your [party](../../Extras/Key-Terms#term-party) has [First Strike](../../Combat-Rules/Starting-Battles#term-first-strike), you can make this attack for free during your First Strike turn in addition to any other [actions](../../Extras/Key-Terms#term-action).|
 |Standard Issue|Weapons with this upgrade can be wielded by any character, regardless of whether or not that character is proficient in using weapons of its type.|
 |Sensor Array|When you hit an enemy with a basic attack while using this weapon, it automatically inflicts the Scan ability in addition to its usual damage.|
 
@@ -77,7 +77,7 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons provide a greater bonus 
 
 |Name|Description|
 |:-|:-|
-|Reach|This weapon's Melee abilities can hit enemies in the back row or the front row while the wielder is in the front row, and can also hit enemies in the front row while the wielder is in the back row.|
+|Reach|This weapon's Melee abilities can hit enemies in the [back row](../../Combat-Rules/Starting-Battles#term-back-row) or the [front row](../../Combat-Rules/Starting-Battles#term-front-row) while the wielder is in the front row, and can also hit enemies in the front row while the wielder is in the back row.|
 |Heavy|This weapon's basic attack costs 2 AP to use instead of 1, but deals 3x its base damage in addition to other multipliers on a hit.|
 |Primordial|When you make a basic attack while wielding this weapon, you may decide the elemental type of the resulting damage.  However, the damage's elemental type cannot be colorless.|
 |Laser|The damage of this weapon's basic attack ignores the target's Physical Defense.  However, all other abilities or alternate contextual attacks do damage as normal.|
