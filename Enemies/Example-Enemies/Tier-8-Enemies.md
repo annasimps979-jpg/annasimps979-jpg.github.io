@@ -22,14 +22,14 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
 |Strike|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
-|Behold!|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 18 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Herald's enemies that inflicts the Blinded status on a hit.|
+|Behold!|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 18 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Herald's enemies that inflicts the Blindeded [status](../../Combat-Rules/Statuses) on a hit.|
 |The First Seal|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|When the Herald is [downed](../../Characters/Attributes-and-Statistics#term-downed), all of the Herald's enemies have their Magical Accuracy [debuffed](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 
 **Item Table** 
 
 |Result|Item|
 |:-|:-|
-|1|Expert Inflict Blind|
+|1|Expert Inflict Blinded|
 |2|Expert Restore MP|
 |3|1000 cr|
 
@@ -137,7 +137,7 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |:-|:-|:-|:-|
 |Hammer|Melee|1 AP|Makes a basic physical attack.|
 |Sworn Protector|Multi|1 AP, 10 MP|This ability works the same as the Defender's Multiguard ability.|
-|Light Barrier|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 20 MP|The Protector inflicts the Light Barrier status on themselves.  The next time a [character](../../Extras/Key-Terms#term-character) hits them with a magical or physical attack, the Protector uses a status-inflicting ability for free that causes their attacker to become Blinded on a hit.|
+|Light Barrier|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP, 20 MP|The Protector inflicts the Light Barrier status on themselves.  The next time a [character](../../Extras/Key-Terms#term-character) hits them with a magical or physical attack, the Protector uses a status-inflicting ability for free that causes their attacker to become [Blinded](../../Combat-Rules/Statuses#term-blinded) on a hit.|
 |Retribution|Passive|N/A|When the Protector takes damage from an attack due to one of their allies being Guarded, the Protector automatically uses Hammer against the attacker.|
 |Righteous Guardian|Passive|N/A|When the Protector is hit by a magical attack, the attacker's Magical Attack is reduced by one step on the Bonus Tracker.|
 
@@ -146,7 +146,7 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |Result|Item|
 |:-|:-|
 |1|Multitaunt|
-|2|Expert Inflict Blind (Multi)|
+|2|Expert Inflict Blinded (Multi)|
 |3|5000 cr|
 
 ## Vampires
@@ -207,7 +207,7 @@ The Thrall, Ghoul, and Spawn are dumb servants who will attack mindlessly.  Howe
 |Result|Item|
 |:-|:-|
 |1|Expert Debuff Physical Attack|
-|2|Expert Inflict Toxin|
+|2|Expert Inflict Poisoned|
 |3|1000 cr|
 
 ### Spawn (Normal 8, Undead, Shadow)
