@@ -39,12 +39,12 @@ GMs who are feeling intrepid can come up with their own themes, but by default t
 
 |Rating|Items|
 |:-|:-|
-|1|1d4 Mundane Restore HP items with varying upgrades if desired, 1d4 Mundane Revive items with varying upgrades if desired, 5 Remove Debuffs items, 1d4 varieties of Remove Status Effect items, 1d4 Poultices.|
-|2|1d6 Mundane and 1d4 Rare Restore HP items with varying upgrades if desired, 1d6 Mundane Revive items with varying upgrades if desired, 10 Remove Debuffs items, 1d4 varieties of Remove Status Effect items, 1d6 Poultices.|
-|3|1d8 Mundane, 1d6 Rare, and 1d4 Expert Restore HP items with varying upgrades if desired, 1d4 Mundane and 1d4 Rare Revive items with varying upgrades if desired, 15 Remove Debuffs items, 1d6 varieties of Remove Status Effect items, 2d4 Poultices.|
-|4|1d10 Mundane, 1d8 Rare, and 1d6 Expert Restore HP items with varying upgrades if desired, 1d4 Mundane and 1d6 Rare Revive items with varying upgrades if desired, 20 Remove Debuffs items, 1d6 varieties of Remove Status Effect items, 2d6 Poultices.|
-|5|1d12 Mundane, 1d10 Rare, and 1d8 Expert Restore HP items with varying upgrades if desired, 1d4 Rare and 1d4 Expert Revive items with varying upgrades if desired, 25 Remove Debuffs items, 1d8 varieties of Remove Status Effect items, 1d12 Poultices.|
-|6|1d20 Mundane, 1d12 Rare, and 1d10 Expert Restore HP items with varying upgrades if desired, 1d4 Rare and 1d6 Expert Revive items with varying upgrades if desired, 30 Remove Debuffs items, 1d8 varieties of Remove Status Effect items, 2d12 Poultices.|
+|1|1d4 Mundane Restore HP items with varying upgrades if desired, 1d4 Mundane Revive items with varying upgrades if desired, 5 Remove Debuffs items, 1d4 varieties of Remove Status items, 1d4 Poultices.|
+|2|1d6 Mundane and 1d4 Rare Restore HP items with varying upgrades if desired, 1d6 Mundane Revive items with varying upgrades if desired, 10 Remove Debuffs items, 1d4 varieties of Remove Status items, 1d6 Poultices.|
+|3|1d8 Mundane, 1d6 Rare, and 1d4 Expert Restore HP items with varying upgrades if desired, 1d4 Mundane and 1d4 Rare Revive items with varying upgrades if desired, 15 Remove Debuffs items, 1d6 varieties of Remove Status items, 2d4 Poultices.|
+|4|1d10 Mundane, 1d8 Rare, and 1d6 Expert Restore HP items with varying upgrades if desired, 1d4 Mundane and 1d6 Rare Revive items with varying upgrades if desired, 20 Remove Debuffs items, 1d6 varieties of Remove Status items, 2d6 Poultices.|
+|5|1d12 Mundane, 1d10 Rare, and 1d8 Expert Restore HP items with varying upgrades if desired, 1d4 Rare and 1d4 Expert Revive items with varying upgrades if desired, 25 Remove Debuffs items, 1d8 varieties of Remove Status items, 1d12 Poultices.|
+|6|1d20 Mundane, 1d12 Rare, and 1d10 Expert Restore HP items with varying upgrades if desired, 1d4 Rare and 1d6 Expert Revive items with varying upgrades if desired, 30 Remove Debuffs items, 1d8 varieties of Remove Status items, 2d12 Poultices.|
 
 ### Machinists
 
