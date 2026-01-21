@@ -11,7 +11,7 @@ When a character successfully hits another with a status-inflicting ability, the
 |2x.|  The status is inflicted when the result of the status-inflicting ability roll is 7 or below instead of 5 or below.|
 |4x.|  The target cannot evade this status.|
 
-There are nine basic negative statuses that [player](../Extras/Key-Terms#term-player) abilities can inflict, one for each elemental type:
+Unless otherwise stated, all statuses inflicted by abilities such as the [Artificer's](../Characters/Archetypes/Artificer) Scan are colorless.  However, there are nine that possess an elemental type, one for each elemental type:
 
 |Element|status|Description|
 |:-|:-|:-|
