@@ -12,6 +12,6 @@ All singular instances of combat involving the player characters in Last Odyssey
 * [Elemental Types](Elemental-Types): Modifiers to dealt damage.
 * [Shells](Shells): A special type of HP that gives protection from physical attacks, and vulnerability to magical attacks.
 * [Buffs and Debuffs](Buffs-and-Debuffs): Increasing and decreasing character [statistics](../Extras/Key-Terms#term-statistic) during battle.
-* [Status Effects](Status-Effects): How to represent character states.
+* [Statuses](Statuses): How to handle negative and positive effects within Last Odyssey's combat system.
 * [Ending Combat](Ending-Combat): The aftermath of a resolved fight.
 * [Death and Injury](Death-and-Injury): The consequences of losing.
