@@ -23,7 +23,7 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Hide|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|You apply the Hidden status effect to yourself.  While you are Hidden, you cannot be the target of any single-target enemy abilities.  At the beginning of your next turn, if you act while Hidden, or if you are the only allied [character](../../Extras/Key-Terms#term-character) remaining on the battlefield, the Hidden status effect is removed.|
+|Hide|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|You apply the Hidden [status](../../Combat-Rules/Statuses) to yourself.  While you are Hidden, you cannot be the target of any single-target enemy abilities.  At the beginning of your next turn, if you act while Hidden, or if you are the only allied [character](../../Extras/Key-Terms#term-character) remaining on the battlefield, the Hidden status is removed.|
 
 **Rank 4:** You gain +1 Physical Attack.
 
@@ -57,10 +57,10 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 
 **[Caster](../../Characters/Jobs/Caster):** Manasteal.  When you use Steal on an enemy and roll a 4 on their item table, you drain an amount of [MP](../../Characters/Attributes-and-Statistics#term-mp) from them equal to your current [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) and give it to yourself.
 
-**[Healer](../../Characters/Jobs/Healer):** Night Shift.  You may use your Healer abilities while Hidden without removing the status effect from yourself.
+**[Healer](../../Characters/Jobs/Healer):** Night Shift.  You may use your Healer abilities while Hidden without removing the status from yourself.
 
-**[Defender](../../Characters/Jobs/Defender):** Ninja Bodyguard.  You may use Guard, Shield, Counter, and Reflect without losing the Hidden status effect.  If any of the effects of these abilities are triggered while you are Hidden, you lose the Hidden status effect.
+**[Defender](../../Characters/Jobs/Defender):** Ninja Bodyguard.  You may use Guard, Shield, Counter, and Reflect without losing the Hidden status.  If any of the effects of these abilities are triggered while you are Hidden, you lose the Hidden status.
 
 **Support:** Shellsteal.  When you use Steal on an enemy and roll a 4 on their item table, you drain an amount of Shell from them equal to your current Magical Attack and give it to yourself.  Your current Shell will then become the [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) of the drained Shell.
 
-**Saboteur:** Infection.  When you use Steal on an enemy and roll a 4 on their item table, you inflict the status effect on them associated with your elemental type.  If they are immune to this status effect, this talent does not apply.
+**Saboteur:** Infection.  When you use Steal on an enemy and roll a 4 on their item table, you inflict the status on them associated with your elemental type.  If they are immune to this status, this talent does not apply.
