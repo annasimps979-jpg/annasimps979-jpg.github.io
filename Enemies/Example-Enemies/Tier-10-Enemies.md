@@ -9,7 +9,7 @@ In [combat](../../Combat-Rules/), the lives of Elite dragons are much more valua
 
 **Statistics**
 
-|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell]((../../Combat-Rules/Shells))|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell]((../../Combat-Rules/Shells))|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|[Action Points](../../Combat-Rules/The-Combat-Round#term-ap)|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |42|43|22|75|3|10|10|7|5|
 
@@ -21,9 +21,9 @@ In [combat](../../Combat-Rules/), the lives of Elite dragons are much more valua
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Slash|[Melee](../../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Slash|[Melee](../../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Thrust|Melee|1 AP, 3 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack that deals [colorless](../../Combat-Rules/Elemental-Types#term-colorless) physical damage that is multiplied by 1.5 in addition to other modifiers.|
-|Strength in Numbers|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the Effect Phase, the Drakeling's Physical Defense and Magical Defense are [buffed](../../Combat-Rules/Buffs-and-Debuffs#term-buff) by a number of steps on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker) equal to the number of other Drakelings still not [downed](../../Characters/Attributes-and-Statistics#term-downed) on the battlefield.|
+|Strength in Numbers|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase), the Drakeling's Physical Defense and Magical Defense are [buffed](../../Combat-Rules/Buffs-and-Debuffs#term-buff) by a number of steps on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker) equal to the number of other Drakelings still not [downed](../../Characters/Attributes-and-Statistics#term-downed) on the battlefield.|
 
 **Item Table** 
 
