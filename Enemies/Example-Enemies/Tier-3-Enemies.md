@@ -9,7 +9,7 @@ In [combat](../../Combat-Rules/), the living dead are stupid, aggressive, and to
 
 **Statistics**
 
-|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|[Action Points](../../Combat-Rules/The-Combat-Round#term-ap)|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |32|8|6|25|2|6|4|5|2|
 
@@ -21,7 +21,7 @@ In [combat](../../Combat-Rules/), the living dead are stupid, aggressive, and to
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Smack|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Smack|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Bite|Melee|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a basic physical attack.  On a hit, also inflicts Necrotized.  Necrotized enemies will take damage instead of being healed if they become the target of any abilities that heal HP.|
 |Undeath|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The first time the Zombie would be [downed](../../Characters/Attributes-and-Statistics#term-downed) in a battle, it is reduced to 1 HP instead.  Any further damage it takes will cause it to become downed.|
 
@@ -81,7 +81,7 @@ In [combat](../../Combat-Rules/), the living dead are stupid, aggressive, and to
 |Bonechill|Ranged|1 AP, 5 MP|Makes a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) that does magical ice damage on a hit.|
 |Cold Fingers|Ranged|1 AP, 7 MP|On a hit, inflicts [Frostbitten](../../Combat-Rules/Statuses#term-frostbitten) on a single target.|
 |Nostalgia|Ranged|1 AP, 12 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that inflicts Slowed on a single target.|
-|Immaterial|Passive|N/A|During the Effect Phase, the Ghost will become Immaterial, which is the equivalent of Hidden.  At the beginning of their turn, this effect disappears.|
+|Immaterial|Passive|N/A|During the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase), the Ghost will become Immaterial, which is the equivalent of Hidden.  At the beginning of their [turn](../../Combat-Rules/The-Combat-Round#term-turn), this effect disappears.|
 
 **Item Table** 
 
@@ -141,7 +141,7 @@ In [combat](../../Combat-Rules/), the living dead are stupid, aggressive, and to
 |Stomp|Melee|1 AP, 5 MP|Makes a physical attack that, on a hit, deals physical colorless damage that is multiplied by 2 in addition to other modifiers.|
 |Regenerate|Passive|N/A|During the Effect Phase, the Zombie Hulk regains 5 HP.|
 |Undeath|Passive|N/A|The first time the Zombie Hulk would be downed in a battle, it is reduced to 1 HP instead.  Any further damage it takes will cause it to become downed.|
-|Miasma|Passive|N/A|During the Effect Phase of each round, the Zombie Hulk makes a status-inflicting ability roll with no AP or MP cost to inflict Poisoned on every non-Undead character on the battlefield.|
+|Miasma|Passive|N/A|During the Effect Phase of each [round](../../Combat-Rules/The-Combat-Round#term-round), the Zombie Hulk makes a status-inflicting ability roll with no AP or MP cost to inflict Poisoned on every non-Undead character on the battlefield.|
 
 **Item Table** 
 
@@ -235,7 +235,7 @@ Void elves are powerful combatants, but are also quite arrogant.  As a result, t
 |Mindhammer|Ranged|1 AP, 3 MP|Makes a magical attack that does magical colorless damage on a hit.|
 |Fling Object|Ranged|1 AP, 5 MP|Works the same as the Striker's Leaping Strike ability.|
 |Mass Anchor|Ranged|1 AP, 7 MP|Attempts to inflict [Fatigued](../../Combat-Rules/Statuses#term-fatigued) on a single enemy using a status-inflicting ability.|
-|Push/Pull|Ranged|1 AP, 5 MP|Makes a status-inflicting ability roll.  On a hit, the Telekinetic can force a single enemy to use the Move [action](../../Extras/Key-Terms#term-action) at no AP cost, unless said enemy is immune to effects that move them.|
+|Push/Pull|Ranged|1 AP, 5 MP|Makes a status-inflicting ability roll.  On a hit, the Telekinetic can force a single enemy to use the [Move](../../Combat-Rules/The-Combat-Round#term-move) [action](../../Extras/Key-Terms#term-action) at no AP cost, unless said enemy is immune to effects that move them.|
 
 **Item Table** 
 
