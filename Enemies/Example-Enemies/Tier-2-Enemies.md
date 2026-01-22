@@ -21,7 +21,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Bite|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Bite|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 [AP](../../Combat-Rules/The-Combat-Round#term-ap)|Makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Gore|Melee|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Makes a [colorless](../../Combat-Rules/Elemental-Types#term-colorless) physical attack that inflicts damage multiplied by 1.5x in addition to other modifiers.|
 |Howl|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|3 MP, 1 AP|Buffs the Physical Attack of the Wolf by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 
@@ -106,7 +106,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Punch|Melee|1 AP|Makes a basic physical attack.|
-|Tough Bark|Self|1 AP, 7 MP|Inflicts the Guarded [status](../../Combat-Rules/Statuses) on the Ent until the beginning of its next turn or until after the next time it is hit with a physical attack.|
+|Tough Bark|Self|1 AP, 7 MP|Inflicts the Guarded [status](../../Combat-Rules/Statuses) on the Ent until the beginning of its next [turn](../../Combat-Rules/The-Combat-Round#term-turn) or until after the next time it is hit with a physical attack.|
 |Regenerate|Self|1 AP, 11 MP|Heals the Ent for an amount of HP equal to twice its Magical Attack.|
 |Photosynthesis|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|If the Ent receives water damage, they will receive the damage as healed HP.  If the Ent receives Light damage, they will receive the damage as healed MP.|
 |Forest Fire|Passive|N/A|If the Ent takes [fire](../../Combat-Rules/Elemental-Types#term-fire) damage from any source, it will not be able to use Regenerate until after its next turn.|
