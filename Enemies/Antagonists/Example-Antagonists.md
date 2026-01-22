@@ -24,14 +24,14 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Leg Stab|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Leg Stab|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 [AP](../../Combat-Rules/The-Combat-Round#term-ap)|Makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Magic Spear|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 3 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a magical attack that inflicts [colorless](../../Combat-Rules/Elemental-Types#term-colorless) magical damage on a  hit.|
 |Bind|Ranged|1 AP, 7 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that inflicts Petrify on a hit.|
 |Dissolve Organs|Melee|1 AP, 5 MP|If an enemy has the [Petrified](../../Combat-Rules/Statuses#term-petrified) [status](../../Combat-Rules/Statuses), the Webmaster deals magical [earth](../../Combat-Rules/Elemental-Types#term-earth) damage that is multiplied by 2 in addition to other modifiers against them without needing to make an attack roll.|
 |Antimagic Field|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|Variable|The Webmaster can use the [Sage's](../../Characters/Archetypes/Sage) Counterspell ability.|
 |Eggs|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The Webmaster begins the [battle](../../Extras/Key-Terms#term-battle) with 3 Eggs that can be used to create Spiderlings.|
-|Lay Egg|Special|1 AP, 1 Egg|The Webmaster lays an egg that has 20 HP and no defenses.  If the Egg is still present during the next effect phase, it hatches into a Spiderling enemy that joins the Initative order during the next [combat round](../../Combat-Rules/The-Combat-Round).|
-|Spun Web|Passive|N/A|The Webmaster's enemies must spend 2 AP to Move instead of 1.  The Ranger's Forest Walk counteracts this effect.|
+|Lay Egg|Special|1 AP, 1 Egg|The Webmaster lays an egg that has 20 HP and no defenses.  If the Egg is still present during the next [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase), it hatches into a Spiderling enemy that joins the Initative order during the next [combat round](../../Combat-Rules/The-Combat-Round).|
+|Spun Web|Passive|N/A|The Webmaster's enemies must spend 2 AP to [Move](../../Combat-Rules/The-Combat-Round#term-move) instead of 1.  The Ranger's Forest Walk counteracts this effect.|
 
 ### Form 2: Tarantula (Monster 2, Animal, Earth)
 
@@ -285,12 +285,12 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Degrade|Multi|1 AP, 19 MP.  Inflicts the Vulnerable status on all of the Unveiled's enemies that corresponds to its current elemental type.|
 |Humiliate|Multi|1 AP, 18 MP|Uses a status-inflicting ability against all of the Unveiled's enemies that inflicts the status associated with its current elemental type on a hit.|
 |Temporal Distortion|Multi|1 AP, 28 MP|Slows all of the Unveiled's enemies.|
-|The Void Stares Back|Special|1 AP, 20 MP.  Uses any of the abilities that the Unveiled's enemies used between the end of its last turn and the beginning of its current turn.|
+|The Void Stares Back|Special|1 AP, 20 MP.  Uses any of the abilities that the Unveiled's enemies used between the end of its last [turn](../../Combat-Rules/The-Combat-Round#term-turn) and the beginning of its current turn.|
 |Push Through the Cracks|Ranged|1 AP, 30 MP|The Unveiled targets a single one of its enemies.  Said enemy cannot act and cannot be acted upon until the beginning of the Unveiled's next turn.|
-|Prism|Passive|N/A|When the Unveiled is hit by a form of elemental damage it is weak to, it changes its elemental type to a random new one.|
+|Prism|Passive|N/A|When the Unveiled is hit by a form of elemental damage it is weak to, it changes its elemental type to a random new one as determined by the Random Element Table.|
 |Incomprehensible Horror|Passive|N/A|The Unveiled is immune to the Scan ability as well as any equivalent abilities or items.|
 |Devourer of Souls|Passive|N/A|Whenever the Unveiled downs an enemy, it also drains that enemy of all of its MP and restores the same amount of MP to itself.|
 |Devourer of Worlds|Passive|N/A|The Unveiled cannot be downed by damage from sources other than damage that it has an elemental weakness to.|
 |Mirror Shield|Paradigm Action|1 Anima|Until the beginning of the Unveiled's next turn, all attacks and status-inflicting abilities used against it are negated and reflected back onto the user.|
 |Tango|Paradigm Action|1 Anima|The Unveiled uses every ability that its enemies have used since the end of its last turn.|
-|Doom|Paradigm Action|1 Anima|The Unveiled selects a single target.  After 1d4 rounds, the target will be downed.  There is no way to prevent this apart from ending the battle.|
+|Doom|Paradigm Action|1 Anima|The Unveiled selects a single target.  After 1d4 [rounds](../../Combat-Rules/The-Combat-Round#term-round), the target will be downed.  There is no way to prevent this apart from ending the battle.|
