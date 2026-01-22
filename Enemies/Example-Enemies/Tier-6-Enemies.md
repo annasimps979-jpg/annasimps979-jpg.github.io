@@ -9,7 +9,7 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 
 **Statistics**
 
-|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|[Action Points](../../Combat-Rules/The-Combat-Round#term-ap)|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |7|28|11|80|3|4|20|1|10|
 
@@ -52,7 +52,7 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 |Strike|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP, 3 MP|The Homid makes an attack that deals damage of its elemental type.|
 |Physical Form|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|The Homid becomes immune to magical damage, and all of their attacks deal physical damage.|
 |Magical Form|Self|1 AP|The Homid becomes immune to physical damage, and all of their attacks deal magical damage.|
-|Vacillation|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The Homid begins battle with either Physical or Magical Form active, whichever the [GM](../../Extras/Key-Terms#term-gm) chooses.  If Physical Form is active during the Effect Phase, the Homid will use Magical Form.  If Magical Form is active during the Effect Phase, the Homid will use Physical Form.|
+|Vacillation|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The Homid begins battle with either Physical or Magical Form active, whichever the [GM](../../Extras/Key-Terms#term-gm) chooses.  If Physical Form is active during the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase), the Homid will use Magical Form.  If Magical Form is active during the Effect Phase, the Homid will use Physical Form.|
 
 **Item Table** 
 
@@ -78,8 +78,8 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Bite|Melee|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
-|Slime|Ranged|1 AP, 12 MP|Inflicts the Slow status on a single enemy.  Works the same as the Saboteur's Slow ability.|
+|Bite|Melee|1 AP|Makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Slime|Ranged|1 AP, 12 MP|Inflicts the Slowed status on a single enemy.  Works the same as the [Saboteur's](../../Characters/Jobs/Saboteur) Slow ability.|
 |Absorb Element|Passive|N/A|If the Salamander would take damage of its elemental type, it instead gains an amount of HP equal to the damage it would have taken.|
 
 **Item Table**
@@ -258,7 +258,7 @@ Sahuagin are somewhat physically weak, and as a result will focus on wearing the
 |Knife|Melee|1 AP|Makes a basic physical attack.|
 |Double Time|Multi|1 AP, 25 MP|Hastes the Chieftain and all of their allies.  Works the same as the Support job's Multihaste ability.|
 |Ready Arms|Multi|1 AP, 10 MP|[Buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) the Chieftain and all of their allies' Status Accuracy by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
-|Strategy|Ally|1 AP|Twice per round, the Chieftain can donate an AP to another ally to allow them to act immediately on the Chieftain's turn.|
+|Strategy|Ally|1 AP|Twice per [round](../../Combat-Rules/The-Combat-Round#term-round), the Chieftain can donate an AP to another ally to allow them to act immediately on the Chieftain's [turn](../../Combat-Rules/The-Combat-Round#term-turn).|
 |War Leader|Passive|N/A|Any allies of the Chieftain's that act after them in the [Initiative Order](../../Combat-Rules/Starting-Battles#term-initiative-order) gain a +1 bonus to all three of their Accuracies.  This does not count as a buff on the Bonus Tracker.|
 
 **Item Table** 
