@@ -9,7 +9,7 @@ In [combat](../../Combat-Rules/), Gangsters will beat on the weakest enemy.  The
 
 **Statistics**
 
-|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|Action Points|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
+|[HP](../../Characters/Attributes-and-Statistics#term-hp)|[Shell](../../Combat-Rules/Shells)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|[Action Points](../../Combat-Rules/The-Combat-Round#term-ap)|[Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)|[Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack)|[Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense)|[Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense)|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |23|12|10|35|2|10|6|3|3|
 
@@ -21,9 +21,9 @@ In [combat](../../Combat-Rules/), Gangsters will beat on the weakest enemy.  The
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Punch|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a basic [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
+|Punch|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Dragon Kick|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 10 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a physical attack against every enemy in the [front row](../../Combat-Rules/Starting-Battles#term-front-row) that deals physical fire damage on a hit.|
-|Gang Up|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the Effect Phase, the Goon's Physical Attack is [buffed](../../Combat-Rules/Buffs-and-Debuffs#term-buff) by one level on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker) for every one of the Goon's allies more than enemies the Goon has remaining.|
+|Gang Up|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|During the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase), the Goon's Physical Attack is [buffed](../../Combat-Rules/Buffs-and-Debuffs#term-buff) by one level on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker) for every one of the Goon's allies more than enemies the Goon has remaining.|
 
 **Item Table**
 
@@ -51,7 +51,7 @@ In [combat](../../Combat-Rules/), Gangsters will beat on the weakest enemy.  The
 |:-|:-|:-|:-|
 |Hairpin|Melee|1 AP|Makes a basic physical attack.|
 |Veil|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 9 MP|Confers the Protected [status](../../Combat-Rules/Statuses) on a single ally or on the Dancer.  The element that that ally is Protected from is the same as the Dancer's current [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type).|
-|Copycat|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 10 MP|Uses one of the abilities that the Dancer's enemies used after the end of its last turn.|
+|Copycat|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP, 10 MP|Uses one of the abilities that the Dancer's enemies used after the end of its last [turn](../../Combat-Rules/The-Combat-Round#term-turn).|
 
 **Item Table** 
 
@@ -229,7 +229,7 @@ Frost dwellers, if they are attacking, are most likely attempting to defend thei
 |:-|:-|:-|:-|
 |Beak|Melee|1 AP|Makes a basic physical attack.|
 |Diving Attack|Ranged|1 AP, 5 MP|Special|Makes a colorless physical attack against a single target.|
-|Swift Swim|Passive|N/A|The Shrike can spend 1 of its AP per round to act before all other characters.  The other AP has to be used at the proper point in the [Initiative Order](../../Combat-Rules/Starting-Battles#term-initiative-order).|
+|Swift Swim|Passive|N/A|The Shrike can spend 1 of its AP per [round](../../Combat-Rules/The-Combat-Round#term-round) to act before all other characters.  The other AP has to be used at the proper point in the [Initiative Order](../../Combat-Rules/Starting-Battles#term-initiative-order).|
 |Air Bladder|Passive|N/A|The Shrike is immune to Frostbitten, ice damage, and water damage.|
 
 **Item Table** 
