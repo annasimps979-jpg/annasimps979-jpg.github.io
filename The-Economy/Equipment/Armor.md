@@ -70,7 +70,7 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 |:-|:-|
 |Barbed|When an enemy hits you with a [Melee](../../Combat-Rules/Attacking-and-Defending#term-melee) ability while you are wearing this armor, they automatically receive the status specified by this upgrade.|
 |Enchanted|If you are wearing this armor at the beginning of combat, you automatically gain 20 points of Shell of the specified elemental type of this upgrade.  You still gain this even if your [Health](../../Characters/Attributes-and-Statistics#term-health) is less than 20.  All other rules for Shells apply as normal.|
-|Blessed|You are immune to all debuffs while wearing this armor, and you are also immune to any effects that reduce your AP in any capacity.|
+|Blessed|You are immune to all debuffs while wearing this armor, and you are also immune to any effects that reduce your [AP](../../Combat-Rules/The-Combat-Round#term-ap) in any capacity.|
 |[Mana](../../Characters/Attributes-and-Statistics#term-mana) Battery|When you begin a battle, you gain 20 temporary MP in addition to your normal MP.  Any remaining amount of this MP goes away at the end of the battle.|
 |Mechanical|When you are wearing this armor, you are immune to any effects that prevent you from using certain [actions](../Extras/Key-Terms#term-action), such as Silence, Frostbite, or Fear.|
 
@@ -83,11 +83,11 @@ Weighty armor such as plate armor and chainmail counts as _<dfn id = "term-heavy
 |Exoskeleton|If you are wearing this armor at the beginning of a battle, you automatically gain Hasted without having to have it cast on you.  This effect still cannot stack with the effects of the Haste ability.|
 |Vengeful|When you take physical damage due to an enemy's attack while wearing this armor, the enemy immediately also becomes the target of their physical attack as though they had attacked themselves as well as you.|
 |Conductive|When you take magical damage due to an enemy's attack while wearing this armor, the enemy immediately also becomes the target of their magical attack as though they had attacked themselves as well as you.|
-|Weapons Platform|While you are wearing this armor, you can swap weapons and accessories without spending any AP as many times as you like per turn.|
+|Weapons Platform|While you are wearing this armor, you can [swap](../../Combat-Rules/The-Combat-Round#term-swap-equipment) weapons and accessories without spending any AP as many times as you like per [turn](../../Combat-Rules/The-Combat-Round#term-turn).|
 |Angelic|This armor gives you wings that allow you to take the Fly action during combat.  Fly costs 1 AP and puts you within melee range of every enemy on the battlefield as though you were in the [front row](../../Combat-Rules/Starting-Battles#term-front-row), while putting you out of melee range of their attacks as though you were in the [back row](../../Combat-Rules/Starting-Battles#term-back-row).  However, if you are hit by any attacks while Flying, you will fall back down to the front row of the battlefield.|
-|Utility Belt|While you are wearing this armor, you can use one Item from the [party](../Extras/Key-Terms#term-party) inventory per round without spending any AP.|
+|Utility Belt|While you are wearing this armor, you can use one Item from the [party](../../Extras/Key-Terms#term-party) inventory per [round](../../Combat-Rules/The-Combat-Round#term-round) without spending any AP.|
 |Masterwork|This armor is of unusual quality.  Cloth armor with this ability gives +4 Magical Defense and +6 Physical Defense, Light armor gives +5 Magical Defense and +5 Physical Defense, and Heavy armor gives +4 Magical Defense and +6 Physical Defense.|
-|Bound|While wearing this armor during combat, you cannot deal any damage, use the Move action, or use items.  However, you also cannot take any damage that would not automatically kill you or break your current Shell.  You can use any other abilities as normal.|
+|Bound|While wearing this armor during combat, you cannot deal any damage, use the [Move](../../Combat-Rules/The-Combat-Round#term-move) action, or use items.  However, you also cannot take any damage that would not automatically kill you or break your current Shell.  You can use any other abilities as normal.|
 
 ## Example Armor
 
