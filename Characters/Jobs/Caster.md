@@ -12,7 +12,7 @@ While they are Casters, [player characters](../../Extras/Key-Terms#term-player-c
 
 |Rank|Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|:-|
-|1|Magic Missile|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 AP|Make a [colorless](../../Combat-Rules/Elemental-Types#term-colorless) magical attack against a single target.|
+|1|Magic Missile|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|3 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 [AP](../../Combat-Rules/The-Combat-Round#term-ap)|Make a [colorless](../../Combat-Rules/Elemental-Types#term-colorless) magical attack against a single target.|
 |2|Elemental Bolt|Ranged|5 MP, 1 AP|Make a magical attack against a single target whose [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) is the same as your [base](../../Extras/Key-Terms#term-base) elemental type.|
 |3|Trained Spellcaster|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|[Flex powers](../../Characters/Character-Advancement#term-flex-power) that are magical attacks cost 5 MP instead of 10 MP.|
 |4|Magic Chain|[Special](../../Combat-Rules/Attacking-and-Defending#term-special)|8 MP, 1 AP|Make a ranged, colorless magical attack against a single target.  If this results in the target becoming [Shellbroken](../Combat-Rules/Shells#term-shellbroken), you may use this [ability](../../Extras/Key-Terms#term-ability) again against another target without spending any MP or AP.|
