@@ -24,7 +24,6 @@ In the age of social media, finding a group to play with is easier than ever.  H
 *  Go to a game night at your local games store
 *  Get your friends and family involved
 *  Make a post on an rpg-related subreddit, Discord, or forum
-*  Visit our Discord or our subreddit (NOT IMPLEMENTED)
 
 ## Session 0
 Before you begin your campaign, it is customary to meet with your group to decide on the course that it will take.  If you are the GM, you might already have an idea of what you want your game to look like.  However, everyone's vision counts.  That's why it's important to conduct something that's referred to by contemporary FRPers as _session 0._  A session 0 is a session of game in which you do not play the game as normal, but instead prepare the materials you need to play.  It's very important that the majority of the group be present for this, as this is when you will create your characters together.  In Last Odyssey, characters rely on one another's abilities during [combat](../Combat-Rules/) and exploration, and as such it is important for the players to build their characters in ways that complement one another.  If you can avoid it, try not to duplicate archetypes or elemental types, although it is okay to share starting jobs, as each character will perform their role slightly differently in practice.
