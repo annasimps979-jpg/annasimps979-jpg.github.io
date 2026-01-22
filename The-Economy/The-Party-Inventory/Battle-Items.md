@@ -1,6 +1,6 @@
 # Battle Items
 
-_<dfn id = "term-battle-item">Battle items</dfn>_ are a variety of inventory item that is usable during [combat](../../Combat-Rules).  Some battle items reproduce the effects of an ability such as Heal or Restore Mana, while others have more unique effects.  Each individual item, once used, is expended and disappears from the [party](../../Extras/Key-Terms#term-party) inventory.  All battle items cost 1 AP to use unless otherwise specified.
+_<dfn id = "term-battle-item">Battle items</dfn>_ are a variety of inventory item that is usable during [combat](../../Combat-Rules).  Some battle items reproduce the effects of an ability such as Heal or Restore Mana, while others have more unique effects.  Each individual item, once used, is expended and disappears from the [party](../../Extras/Key-Terms#term-party) inventory.  All battle items cost 1 [AP](../../Combat-Rules/The-Combat-Round#term-ap) to use unless otherwise specified.
 
 ## Battle Item Effects
 Each battle item has a discrete effect that it induces during combat.  In theory, multiple items could lead to the same effect.  Rather than having a fixed list of items, Last Odyssey has a fixed set of item effects that could be caused by multiple items.  This is for two reasons.  The first is that the value of an item to the [players](../../Extras/Key-Terms#term-player) is determined by what it does, and not what it looks like, and this is reflected in the item's cost.  The second is that the item that produces an effect in one setting may be different to its equivalent in another.  For example, in a sci-fi setting healing items may take the form of injectors or medkits, while in a fantasy setting they could take the form of healing potions or poultices.
@@ -29,13 +29,13 @@ Every item's base cost is defined by its _<dfn id = "term-item-effect">effect</d
 |Scan|10 cr|This item applies the [Artificer's](../../Characters/Archetypes/Artificer) Scan ability to a single target, revealing all current relevant information about it.|
 |Remove Debuffs|15 cr|This item removes all debuffs from a single character.|
 |Remove status|20 cr|This item removes a status of the specified type from a single character.|
-|Negate Resistances|50 cr|This item negates all of a target's elemental and/or status resistances until the beginning of the target's next turn.|
+|Negate Resistances|50 cr|This item negates all of a target's elemental and/or status resistances until the beginning of the target's next [turn](../../Combat-Rules/The-Combat-Round#term-turn).|
 |Block Physical Damage|100 cr|The next time the target of this item would otherwise take physical damage, they do not take any damage instead.|
 |Block Magical Damage|400 cr|The next time the target of this item would otherwise take magical damage, they do not take any damage instead.|
 |Disable Attacks|700 cr|The target of this item cannot use any magical attacks, physical attacks, or status-inflicting abilities during their next turn.|
 |Haste|800 cr|The target of this item becomes Hasted.  This still cannot stack with any other applications of Hasted.|
 |Slow|900 cr|The target of this item becomes Slowed.  This still cannot stack with any other applications of Slowed.|
-|Summon Creature|1000x(Tier of summoned creature)|When you use this item, it summons a creature, usually a monster of some type, to fight as an ally on your side.  The first time it can take its turn is during the round after you summoned it.|
+|Summon Creature|1000x(Tier of summoned creature)|When you use this item, it summons a creature, usually a monster of some type, to fight as an ally on your side.  The first time it can take its turn is during the [round](../../Combat-Rules/The-Combat-Round#term-round) after you summoned it.|
 
 ## Item Enhancements
 In addition to their base effects, some items have special effects called _<dfn id = "term-item-enhancement">enhancements</dfn>_ that change when and how they can be used and whom they target on the battlefield.  Most items will have only one enhancement, since enhancements that change their target are mutually exclusive, but some extremely rare items could have multiple.  Each enhancement to an item multiplies its base cost by an amount given in the enhancement description.  The possible enhancements are as follows:
@@ -46,7 +46,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Row|This item affects all characters on a single [row](../../Combat-Rules/Starting-Battles#term-row).  When you use the item, you can choose which row it affects.  Multiplies base cost by 5.|
 |Multi|This item affects all characters on the side it targets.  Items that target allies will affect all allies, while items that target enemies will affect all enemies.  Multiplies base cost by 10.|
 |Dual|This item has the effect of two different items at once.  The total cost of the item is the base cost of each item added together, multiplied by 5.|
-|Delay|When you use this item, it does not trigger immediately.  Instead, its effect happens during the Effect Phase of the round.  Multiplies cost by 0.75, rounded down.|
+|Delay|When you use this item, it does not trigger immediately.  Instead, its effect happens during the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase) of the round.  Multiplies cost by 0.75, rounded down.|
 |Random|When you use this item, it inflicts a random effect based on the element you roll on the Random Element Table.|
 
 ## Example Battle Items
@@ -87,7 +87,7 @@ At times, there is a need to quickly create new items.  If the [GM](../../Extras
 |17|Disable Attacks|
 |18|Haste|
 |19|Slow|
-|20|Summon|
+|20|Summon Creature|
 
 The result that matches the number you rolled on the die is the effect of the item in question.  If the item's effect is leveled, determine the item Quality.  Mundane items are appropriate for characters of levels 1-4, Rare items are for characters of levels 5-7, and Expert items are appropriate for characters of levels 8-10, but the margin is thin enough that you can get away with going one tier lower or higher.
 
