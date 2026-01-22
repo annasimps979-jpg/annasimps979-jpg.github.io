@@ -23,7 +23,7 @@ The Sage's core virtue is their **Wisdom.**  At [character creation](../../Chara
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Counterspell|[Reaction](../../Combat-Rules/Attacking-and-Defending#term-reaction)|Variable|When an enemy uses a magical attack, you may expend double the MP cost of the attack in order to prevent the enemy from using it.  They will still expend the MP and AP cost of using the ability as normal.|
+|Counterspell|[Reaction](../../Combat-Rules/Attacking-and-Defending#term-reaction)|Variable|When an enemy uses a magical attack, you may expend double the MP cost of the attack in order to prevent the enemy from using it.  They will still expend the MP and [AP](../../Combat-Rules/The-Combat-Round#term-ap) cost of using the ability as normal.|
 
 **Rank 4:** You gain +1 Magical Attack.
 
@@ -59,7 +59,7 @@ The Sage's core virtue is their **Wisdom.**  At [character creation](../../Chara
 
 **[Healer](../../Characters/Jobs/Healer):** Alchemy.  You may expend Spell Slots in order to use your Healer abilities.
 
-**[Defender](../../Characters/Jobs/Defender):** Arcane Shield.  You may use Counterspell to negate enemy physical attacks.  Negating an enemy's basic attack costs 5 MP.
+**[Defender](../../Characters/Jobs/Defender):** Arcane Shield.  You may use Counterspell to negate enemy physical attacks.  Negating an enemy's [basic attack](../../Combat-Rules/The-Combat-Round#term-basic-attack) costs 5 MP.
 
 **Support:** Ward.  You may use Counterspell to negate enemy debuffs and [status-inflicting abilities](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability).
 
