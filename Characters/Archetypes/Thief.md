@@ -15,7 +15,7 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Steal|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Select an enemy and roll on their [item table](../../Combat-Rules/Ending-Combat#term-item-table).  If you obtain an item from this roll, you may use it immediately without spending any AP or you may put it in your inventory if you have enough Carrying Capacity.  You may only obtain one item per enemy per [battle](../../Extras/Key-Terms#term-battle) with this ability.|
+|Steal|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 [AP](../../Combat-Rules/The-Combat-Round#term-ap)|Select an enemy and roll on their [item table](../../Combat-Rules/Ending-Combat#term-item-table).  If you obtain an item from this roll, you may use it immediately without spending any AP or you may put it in your inventory if you have enough Carrying Capacity.  You may only obtain one item per enemy per [battle](../../Extras/Key-Terms#term-battle) with this ability.|
 
 **Rank 2:** You gain +1 Physical Attack.
 
@@ -23,7 +23,7 @@ The Thief's core virtue is their **Cunning.**  At [character creation](../../Cha
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Hide|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|You apply the Hidden [status](../../Combat-Rules/Statuses) to yourself.  While you are Hidden, you cannot be the target of any single-target enemy abilities.  At the beginning of your next turn, if you act while Hidden, or if you are the only allied [character](../../Extras/Key-Terms#term-character) remaining on the battlefield, the Hidden status is removed.|
+|Hide|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 AP|You apply the Hidden [status](../../Combat-Rules/Statuses) to yourself.  While you are Hidden, you cannot be the target of any single-target enemy abilities.  At the beginning of your next [turn](../../Combat-Rules/The-Combat-Round#term-turn), if you act while Hidden, or if you are the only allied [character](../../Extras/Key-Terms#term-character) remaining on the battlefield, the Hidden status is removed.|
 
 **Rank 4:** You gain +1 Physical Attack.
 
