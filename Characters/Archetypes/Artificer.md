@@ -15,7 +15,7 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 |Name|[Type](../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Scan|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|2 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 [AP](../../Combat-Rules/The-Combat-Round#term-ap)|Select a target.  You immediately learn its current [HP](../../Characters/Attributes-and-Statistics#term-hp), MP, [Shell](../../Combat-Rules/Shells), and [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type).  Subsequent uses of this ability on the same enemy will allow you to learn the same information, or allow you to learn the value of one of its [statistics](../../Extras/Key-Terms#term-statistic), its [item table](../../Combat-Rules/Ending-Combat#term-item-table), or reveal one of its abilities.|
+|Scan|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|2 [MP](../../Characters/Attributes-and-Statistics#term-mp), 1 [AP](../../Combat-Rules/The-Combat-Round#term-ap)|Select a target.  You immediately learn its current [HP](../../Characters/Attributes-and-Statistics#term-hp), MP, [Shell](../../Combat-Rules/Shells), and [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type).  Subsequent uses of this ability on the same target will allow you to learn the same information, or allow you to learn the value of one of its [statistics](../../Extras/Key-Terms#term-statistic), its [item table](../../Combat-Rules/Ending-Combat#term-item-table), or reveal one of its abilities.|
 
 **Rank 2:** You gain +1 Magical Accuracy.
 
@@ -31,7 +31,7 @@ The Artificer's core virtue is their **Knowledge.**  At [character creation](../
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Multiscan|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|10 MP, 1 AP|Target all enemies.  You immediately learn their current HP, MP, Shell, and [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type).  Subsequent uses of this ability on all enemies will allow you to learn the same information, or allow you to learn the value of one of their statistics, their item tables, or reveal one of the abilities of each one individually.|
+|Multiscan|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|10 MP, 1 AP|Target all [enemies](../../Enemies/).  You immediately learn their current HP, MP, Shell, and [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type).  Subsequent uses of this ability on all enemies will allow you to learn the same information, or allow you to learn the value of one of their statistics, their item tables, or reveal one of the abilities of each one individually.|
 
 **Rank 6:** You gain +1 Magical Accuracy.
 
