@@ -51,7 +51,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |:-|:-|:-|:-|
 |Club|Melee|1 AP|Makes a basic physical attack.|
 |Entangle|[Ranged](../../Combat-Rules/Attacking-and-Defending#term-ranged)|1 AP, 7 MP|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) that inflicts [Petrified](../../Combat-Rules/Statuses#term-petrified) on a hit.|
-|Photosynthesis|Passive|N/A|If the Dryad receives [water](../../Combat-Rules/Elemental-Types#term-water) damage, they will receive the damage as healed HP.  If the Dryad receives [Light](../../Combat-Rules/Elemental-Types#term-light) damage, they will receive the damage as healed MP.|
+|Photosynthesis|Passive|N/A|If the Dryad receives [water](../../Combat-Rules/Elemental-Types#term-water) damage, they will receive the damage as healed HP.  If the Dryad receives [light](../../Combat-Rules/Elemental-Types#term-light) damage, they will receive the damage as healed MP.|
 
 **Item Table** 
 
