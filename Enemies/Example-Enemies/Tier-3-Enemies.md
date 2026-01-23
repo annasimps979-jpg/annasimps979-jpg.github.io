@@ -5,7 +5,7 @@ When necromancers or bioengineers create constructs out of dead bodies, these ar
 
 In [combat](../../Combat-Rules/), the living dead are stupid, aggressive, and totally unconcerned with death.  Insofar as they display cunning, it should purely be to create a sense of dramatic tension and to display animus towards the [player characters](../../Extras/Key-Terms#term-player).
 
-### Zombie (Normal 3, Undead, [Shadow](../../Combat-Rules/Elemental-Types#term-shadow))
+### Zombie (Normal 3, Undead, Shadow)
 
 **Statistics**
 
@@ -91,7 +91,7 @@ In [combat](../../Combat-Rules/), the living dead are stupid, aggressive, and to
 |2|Mundane Inflict Frostbitten|
 |3|10 cr|
 
-### Statue (Elite 3, Undead, [Earth](../../Combat-Rules/Elemental-Types#term-earth))
+### Statue (Elite 3, Undead, Earth)
 
 **Statistics**
 
@@ -156,7 +156,7 @@ Tall, enigmatic beings who descended one day from the heavens and now lay claim 
 
 Void elves are powerful combatants, but are also quite arrogant.  As a result, they will fight with intelligence, but will often disregard their enemies' defenses or [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff), assuming that their raw power is enough to prevail.  They will, of course, still [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) their enemies when they want to prove a point.
 
-### Telepath (Normal 3, Angel, [Wind](../../Combat-Rules/Elemental-Types#term-wind))
+### Telepath (Normal 3, Angel, Wind)
 
 **Statistics**
 
