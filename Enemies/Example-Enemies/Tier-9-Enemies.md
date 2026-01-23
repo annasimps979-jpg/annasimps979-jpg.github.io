@@ -5,7 +5,7 @@ Alternate dimensions contain sentients of their own.  While most transdimensiona
 
 Invaders don't follow too many rules in [combat](../../Combat-Rules/), except for one: do whatever the [players](../../Extras/Key-Terms#term-player) expect the least at any given time.
 
-### Grub (Normal 9, Horror, [Colorless](../../Combat-Rules/Elemental-Types#term-colorless))
+### Grub (Normal 9, Horror, Colorless)
 
 **Statistics**
 
@@ -210,7 +210,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |2|Expert Debuff Evasion|
 |3|1000 cr|
 
-### Engineer (Normal 9, Human, [Thunder](../../Combat-Rules/Elemental-Types#term-thunder))
+### Engineer (Normal 9, Human, Thunder)
 
 **Statistics**
 
@@ -238,7 +238,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |2|Expert Restore MP|
 |3|1000 cr|
 
-### Walker (Elite 9, Construct, [Earth](../../Combat-Rules/Elemental-Types#term-earth))
+### Walker (Elite 9, Construct, Earth)
 
 **Statistics**
 
@@ -268,7 +268,7 @@ In battle, robots are part of a single hive mind.  Likewise, they should behave 
 |2|Expert Magical Fire Damage|
 |3|5000 cr|
 
-### Overseer (Elite 9, Construct, [Wind](../../Combat-Rules/Elemental-Types#term-wind))
+### Overseer (Elite 9, Construct, Wind)
 
 **Statistics**
 
