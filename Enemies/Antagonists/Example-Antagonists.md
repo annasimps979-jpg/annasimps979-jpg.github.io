@@ -4,9 +4,9 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 
 ## The Spider Queen
 
-**Domain:** Ancient Ruin.  
+**[Domain](../../Enemies/Antagonists/Monsters#term-domain):** Ancient Ruin.  
 
-**Description:** An underground ruin once home to a lost civilization is now the Domain of the Spider Queen, a Monster whose spawn are the apex predators of its tiny but complex ecosystem.  The Queen herself spins her web throughout the ruin, capturing larger animals and the occasional traveler unwise or unlucky enough to stumble into her Domain.
+**Description:** An underground ruin once home to a lost civilization is now the Domain of the Spider Queen, a [Monster](../../Enemies/Antagonists/Monsters) whose spawn are the apex predators of its tiny but complex ecosystem.  The Queen herself spins her web throughout the ruin, capturing larger animals and the occasional traveler unwise or unlucky enough to stumble into her Domain.
 
 ### Form 1: Webmaster (Monster 1, Animal, Shadow)
 
