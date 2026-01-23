@@ -8,6 +8,8 @@
 
 **[Archetype](../../Characters/Archetypes/):** [Commander](../../Characters/Archetypes/Commander)
 
+**[Elemental Type](../../Combat-Rules/Elemental-Types#term-elemental-type):** [Wind](../../Combat-Rules/Elemental-Types#term-wind)
+
 ## Character Info
 
 ### Attributes
@@ -18,7 +20,7 @@
 
 ### Base Statistics
 
-|[Health](../../Characters/Attributes-and-Statistics#term-health)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mana)|[Carrying Capacity](../../The-Economy/The-Party-Inventory#term-carrying-capacity)|[Action Points](../../Combat-Rules/The-Combat-Round#term-ap)|
+|[Health](../../Characters/Attributes-and-Statistics#term-hp)|[Initiative](../../Characters/Attributes-and-Statistics#term-initiative)|[Mana](../../Characters/Attributes-and-Statistics#term-mp)|[Carrying Capacity](../../The-Economy/The-Party-Inventory#term-carrying-capacity)|[Action Points](../../Combat-Rules/The-Combat-Round#term-ap)|
 |:-|:-|:-|:-|:-|
 |60|18|60|50|3|
 
@@ -56,11 +58,11 @@
 * Neck Accessory: Mystical Choker of Magical Shield.  (+1 R, +1 MD).
 * Belt Accessory: Mystical Rope of Physical Shield.  (+1 R, +1 PD).
 
-**Currency:** 1000 cr.
+**[Currency](../../The-Economy#term-cr):** 1000 cr.
 
 ## Job Info
 
-### [Striker](../../Characters/Jobs/Striker)
+### Striker
 
 **Rank:** 10
 
@@ -79,7 +81,7 @@
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
 |1|Strike|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|3 MP, 1 AP|Make a [colorless](../../Combat-Rules/Elemental-Types#term-colorless) physical attack that deals 1.5x damage on a hit in addition to other modifiers.|
-|2|[Wind](../../Combat-Rules/Elemental-Types#term-wind) Attack|Melee|3 MP, 1 AP|Make a physical attack whose [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type) is the same as your base elemental type.|
+|2|[Wind](../../Combat-Rules/Elemental-Types#term-wind) Attack|Melee|3 MP, 1 AP|Make a physical attack whose elemental type is the same as your base elemental type.|
 |3|Power Attack|Melee|5 MP, 1 AP|Make a colorless physical attack.  On a hit, this attack's damage is multiplied by 2 in addition to other modifiers.|
 |4|Cleave|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|7 MP, 1 AP|Make a colorless, melee physical attack against all enemies in the front row.|
 |5|Leaping Strike|Ranged|5 MP, 1 AP|Make a colorless physical attack against a single target.|
@@ -89,7 +91,7 @@
 |9|Wind Whirlwind|Multi|15 MP, 1 AP|Make a physical attack against all enemies on the battlefield whose elemental type is the same as your base elemental type.|
 |N/A|Vanguard|Passive|N/A|When an ally makes a physical attack using the AP you granted them with Orders, they may substitute your Physical Accuracy and Physical Attack for theirs.|
 
-### [Caster](../../Characters/Jobs/Caster)
+### Caster
 
 **Rank:** 10
 
@@ -117,7 +119,7 @@
 |8|Magic Storm|Multi|13 MP, 1 AP|Make a colorless magical attack against all enemies on the battlefield.|
 |9|Wind Storm|Multi|15 MP, 1 AP|Make a magical attack against all enemies on the battlefield that has the same elemental type as your base elemental type.|
 
-### [Healer](../../Characters/Jobs/Healer)
+### Healer
 
 **Rank:** 10
 
@@ -146,7 +148,7 @@
 |9|Treatment|Ally|18 MP, 1 AP|Remove all status effects from a single target, and reset the Bonus Tracker for all of their statistics back to +0.|
 |N/A|Medical Tent|Passive|N/A|When an ally uses a Healer ability using the AP you granted them with Orders, they may substitute your Magical Attack for theirs.|
 
-### [Defender](../../Characters/Jobs/Defender)
+### Defender
 
 **Rank:** 10
 
@@ -175,7 +177,7 @@
 |9|Deathless|Passive|N/A|When you are hit with an attack that would otherwise down you while at anything but 1 HP and 0 Shell, you are instead reduced to 1 HP and 0 Shell.|
 |N/A|Shield Wall|Passive|N/A|When you use the Taunt or Multitaunt abilities, you may direct the target to attack one of your allies instead of you.|
 
-### [Support](../../Characters/Jobs/Support)
+### Support
 
 **Rank:** 10
 
@@ -204,7 +206,7 @@
 |9|Multihaste|Multi|25 MP, 1 AP|You and all of your allies receive the Hasted status effect during the Effect Phase of this round.  The effect then lasts for three subsequent rounds.  While the target is Hasted, they have +1 AP to use per round.|
 |N/A|Trenches|Passive|N/A|All of your allies gain the bonus from Standard Bearer regardless of their place in the Initiative Order.  This does not apply if you are downed.|
 
-### [Saboteur](../../Characters/Jobs/Saboteur)
+### Saboteur
 
 **Rank:** 5
 
