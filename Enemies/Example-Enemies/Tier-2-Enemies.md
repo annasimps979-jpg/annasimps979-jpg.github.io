@@ -5,7 +5,7 @@ The deep woods are home to hostile creatures that will defend their territory to
 
 Forest Dwellers are interested in murdering their opponents with as little fanfare as possible.  The exception to this is that they will prioritize survival in [combat](../../Combat-Rules/) over a quicker end to things.  You will see them choose to use healing [abilities](../../Extras/Key-Terms#term-ability) even when it isn't strictly needed, and playing it safe with [buffs](../../Combat-Rules/Buffs-and-Debuffs#term-buff) and [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff).
 
-### Wolf (Normal 2, Animal, [Shadow](../../Combat-Rules/Elemental-Types#term-shadow))
+### Wolf (Normal 2, Animal, Shadow)
 
 **Statistics**
 
@@ -33,7 +33,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |2|Cure Blinded|
 |3|10 cr|
 
-### Dryad (Normal 2, Elemental, [Wood](../../Combat-Rules/Elemental-Types#term-wood))
+### Dryad (Normal 2, Elemental, Wood)
 
 **Statistics**
 
@@ -119,7 +119,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |2|Guard| 
 |3|50 cr|
 
-### Pixie (Elite 2, Fairy, [Wind](../../Combat-Rules/Elemental-Types#term-wind))
+### Pixie (Elite 2, Fairy, Wind)
 
 **Statistics**
 
@@ -154,7 +154,7 @@ Dwarves are the enigmatic dwellers of the deep caves.  They are friendly enough 
 
 In combat, dwarves are highly coordinated opponents, with each one focusing on their own niche in [battle](../../Extras/Key-Terms#term-battle).  They should employ smart tactics, and should not show concern for injury except when it threatens their life.
 
-### Digger (Normal 2, Human, [Earth](../../Combat-Rules/Elemental-Types#term-earth))
+### Digger (Normal 2, Human, Earth)
 
 **Statistics**
 
