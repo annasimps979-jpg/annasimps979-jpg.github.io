@@ -90,7 +90,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Lead By Example|Passive|N/A|While the War Leader is on the battlefield, any allies will share all of its buffs and [debuffs](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) on the Bonus Tracker.|
 |Dragonslayer|[Paradigm Action](../../Enemies/Antagonists#term-paradigm-action)|1 [Anima](../../Free-Play/Anima#term-anima)|The War Leader makes a physical attack that deals 4x physical colorless damage on a hit against enemies with full HP.  If an enemy is not at full HP, the attack deals 2x damage instead.|
 
-### Form 2: Leshen (Villain 4, Demon, [Wood](../../Combat-Rules/Elemental-Types#term-wood))
+### Form 2: Leshen (Villain 4, Demon, Wood)
 
 **Statistics**
 
@@ -146,7 +146,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 
 **Description:** A renowned but eccentric scientist, Doctor Strazio discovered the power of Anima by accident while attempting to create a new form of reactor.  Now, he stalks his laboratory, conducting strange and nonsensical experiments that often amount to nothing more than elaborate forms of torture for their subjects.
 
-### Form 1: Doctor (Monster 6, Human, [Wind](../../Combat-Rules/Elemental-Types#term-wind))
+### Form 1: Doctor (Monster 6, Human, Wind)
 
 **Statistics**
 
