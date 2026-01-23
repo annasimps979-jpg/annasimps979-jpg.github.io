@@ -1,8 +1,8 @@
 # Priest
 
 The Priest's core virtue is their **Compassion.**  At [character creation](../../Characters/Character-Creation), they gain the following traits:
-*  [Proficiency](../../Characters/Character-Creation#term-armor-proficiency) in Cloth armor.
-*  [Proficiency](../../Characters/Character-Creation#term-weapon-proficiency) in Scepters.
+*  [Proficiency](../../Characters/Character-Creation#term-armor-proficiency) in [Cloth](../../The-Economy/Equipment/Armor#term-cloth-armor) [armor](../../The-Economy/Equipment/Armor).
+*  [Proficiency](../../Characters/Character-Creation#term-weapon-proficiency) in [Scepters](../../The-Economy/Equipment/Weapons#term-scepter).
 *  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +15 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +2 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
