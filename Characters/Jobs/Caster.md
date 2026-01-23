@@ -21,4 +21,4 @@ While they are Casters, [player characters](../../Extras/Key-Terms#term-player-c
 |7|Elemental Chain|Special|10 MP, 1 AP|Make a ranged magical attack against a single enemy whose elemental type is your base elemental type.  If this results in the target becoming Shellbroken, you may use this ability again against another target without spending any MP or AP.|
 |8|Magic Storm|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|13 MP, 1 AP|Make a colorless magical attack against all enemies on the battlefield.|
 |9|Elemental Storm|Multi|15 MP, 1 AP|Make a magical attack against all enemies on the battlefield that has the same elemental type as your base elemental type.|
-|10|Apocalypse|Multi|1 Anima, 2 AP|Make a magical attack against all enemies on the battlefield that has the same elemental type as your base elemental type.  On a hit, it deals 3x damage in addition to other multipliers.|
+|10|Apocalypse|Multi|1 [Anima](../../Free-Play/Anima#term-anima), 2 AP|Make a magical attack against all enemies on the battlefield that has the same elemental type as your base elemental type.  On a hit, it deals 3x damage in addition to other multipliers.|
