@@ -142,10 +142,10 @@
 |3|Revive|Ally|10 MP, 1 AP|Revive a single downed target back to 1 HP.|
 |4|Life Aura|Multi|2 AP|Heal yourself an all allies for 5 HP.|
 |5|Mend|Ally|11 MP, 1 AP|Heal a single target for an amount of HP equal to twice your Magical Attack.|
-|6|Cure|Ally|12 MP, 1 AP|Remove all status effects from a single target.|
+|6|Cure|Ally|12 MP, 1 AP|Remove all statuses from a single target.|
 |7|Raise Dead|Special|15 MP, 1 AP|Revive a single downed target back to half its current maximum HP, rounded down.|
 |8|Multiheal|Multi|15 MP, 1 AP|Heal yourself and all allies for an amount of HP equal to your Magical Attack.|
-|9|Treatment|Ally|18 MP, 1 AP|Remove all status effects from a single target, and reset the Bonus Tracker for all of their statistics back to +0.|
+|9|Treatment|Ally|18 MP, 1 AP|Remove all statuses from a single target, and reset the Bonus Tracker for all of their statistics back to +0.|
 |N/A|Medical Tent|Passive|N/A|When an ally uses a Healer ability using the AP you granted them with Orders, they may substitute your Magical Attack for theirs.|
 
 ### Defender
@@ -168,12 +168,12 @@
 |:-|:-|:-|:-|:-|
 |1|Taunt|Ranged|1 AP|Inflict the Taunted status on a single target.  A Taunted character can only use single-target magical attacks, physical attacks, and status-inflicting abilities, and only on you.  It can also use the Move action to move into range of you if needed.  Each character can only be Taunted by a single other character at a time.  If the character cannot reach you by any means, they will act as though they are not Taunted.|
 |2|Guard|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|5 MP, 1 AP|Inflict the Guarded status on a single ally, which remains until the beginning of your next turn.  Every time that ally is targeted by a physical attack, magical attack, or status-inflicting ability, you become the target instead.  If they are targeted by a Multi ability, the ability is simply negated against them.|
-|3|Shield|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|7 MP, 1 AP|Inflict the Shielded status effect on yourself.  While you are Shielded, if you are hit by a physical attack the damage dealt to you is automatically reduced to 0 and the Shielded status effect is removed.|
-|4|Counter|Self|7 MP, 1 AP|Inflict the Countering status effect on yourself.  While you are Countering, the next time you are hit with a physical attack the attacker takes damage as though they were also a target of the same attack and the Countering status is removed.|
+|3|Shield|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|7 MP, 1 AP|Inflict the Shielded status on yourself.  While you are Shielded, if you are hit by a physical attack the damage dealt to you is automatically reduced to 0 and the Shielded status is removed.|
+|4|Counter|Self|7 MP, 1 AP|Inflict the Countering status on yourself.  While you are Countering, the next time you are hit with a physical attack the attacker takes damage as though they were also a target of the same attack and the Countering status is removed.|
 |5|Multitaunt|Multi|9 MP, 1 AP|Inflict the Taunted status on every enemy on the battlefield.|
 |6|Multiguard|Multi|10 MP, 1 AP|Inflict the Guarded status on all of your allies.|
-|7|Barrier|Self|9 MP, 1 AP|Inflict the Barred status effect on yourself.  While you are Barred, if you are hit by a magical attack the damage dealt to you is automatically reduced to 0 and the Barred status effect is removed.|
-|8|Reflect|Self|12 MP, 1 AP|Inflict the Reflecting status effect on yourself.  While you are Reflecting, the next time you are hit with a magical attack the attacker takes damage as though they were also a target of the same attack and the Reflecting status is removed.|
+|7|Barrier|Self|9 MP, 1 AP|Inflict the Barred status on yourself.  While you are Barred, if you are hit by a magical attack the damage dealt to you is automatically reduced to 0 and the Barred status is removed.|
+|8|Reflect|Self|12 MP, 1 AP|Inflict the Reflecting status on yourself.  While you are Reflecting, the next time you are hit with a magical attack the attacker takes damage as though they were also a target of the same attack and the Reflecting status is removed.|
 |9|Deathless|Passive|N/A|When you are hit with an attack that would otherwise down you while at anything but 1 HP and 0 Shell, you are instead reduced to 1 HP and 0 Shell.|
 |N/A|Shield Wall|Passive|N/A|When you use the Taunt or Multitaunt abilities, you may direct the target to attack one of your allies instead of you.|
 
@@ -197,13 +197,13 @@
 |:-|:-|:-|:-|:-|
 |1|Buff ([Resistance](../../Characters/Attributes-and-Statistics#term-resistance))|Ally|5 MP, 1 AP|Move the statistic associated with your archetype a single step up the Bonus Tracker for the selected target.|
 |2|Shell (Wind)|Ally|7 MP, 1 AP|Apply an amount of Shell equal to your Magical Attack of the type of your base elemental type to a single ally.  If they already have a Shell of a different elemental type, its elemental type changes to the elemental type of this ability and increases by the same amount.|
-|3|Protect (Wind)|Ally|9 MP, 1 AP|Apply the Protected status effect to a single target, which goes away at the beginning of your next turn.  While a character is Protected, they are immune to receiving damage or status effects of your base elemental type.  Characters can be Protected from more than one elemental type at the same time.|
+|3|Protect (Wind)|Ally|9 MP, 1 AP|Apply the Protected status to a single target, which goes away at the beginning of your next turn.  While a character is Protected, they are immune to receiving damage or statuses of your base elemental type.  Characters can be Protected from more than one elemental type at the same time.|
 |4|Multibuff (Resistance)|Multi|10 MP, 1 AP|Move the statistic associated with your archetype a single step up the Bonus Tracker for yourself and all of your allies.|
-|5|Haste|Ally|12 MP, 1 AP|The target of this ability receives the Hasted status effect during the Effect Phase of this round.  The effect then lasts for three subsequent rounds.  While the target is Hasted, they have +1 AP to use per round.|
+|5|Haste|Ally|12 MP, 1 AP|The target of this ability receives the Hasted status during the Effect Phase of this round.  The effect then lasts for three subsequent rounds.  While the target is Hasted, they have +1 AP to use per round.|
 |6|Multishell (Wind)|Multi|14 MP, 1 AP|Apply an amount of Shell equal to your Magical Attack of the type of your base elemental type to yourself and all of your allies.  If they already have a Shell of a different elemental type, its elemental type changes to the elemental type of this ability and increases by the same amount.|
 |7|Power Buff (Resistance)|Ally|16 MP, 1 AP|Move the statistic associated with your archetype three steps up the Bonus Tracker for the selected target.|
-|8|Multiprotect (Wind)|Multi|20 MP, 1 AP|Apply the Protected status effect to yourself and all of your allies, which goes away at the beginning of your next turn.  While a character is Protected, they are immune to receiving damage or status effects of your base elemental type.  Characters can be Protected from more than one elemental type at the same time.|
-|9|Multihaste|Multi|25 MP, 1 AP|You and all of your allies receive the Hasted status effect during the Effect Phase of this round.  The effect then lasts for three subsequent rounds.  While the target is Hasted, they have +1 AP to use per round.|
+|8|Multiprotect (Wind)|Multi|20 MP, 1 AP|Apply the Protected status to yourself and all of your allies, which goes away at the beginning of your next turn.  While a character is Protected, they are immune to receiving damage or statuses of your base elemental type.  Characters can be Protected from more than one elemental type at the same time.|
+|9|Multihaste|Multi|25 MP, 1 AP|You and all of your allies receive the Hasted status during the Effect Phase of this round.  The effect then lasts for three subsequent rounds.  While the target is Hasted, they have +1 AP to use per round.|
 |N/A|Trenches|Passive|N/A|All of your allies gain the bonus from Standard Bearer regardless of their place in the Initiative Order.  This does not apply if you are downed.|
 
 ### Saboteur
@@ -225,7 +225,7 @@
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
 |1|Debuff ([Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy))|Ranged|3 MP, 1 AP|Move an enemy down one level on the Bonus Tracker for the statistic that your archetype debuffs.|
-|2|Debilitate ([Fatigued](../../Combat-Rules/Statuses#term-fatigued))|Ranged|7 MP, 1 AP|Use a status-inflicting ability on a single target that inflicts the status effect associated with your elemental type on a hit.|
+|2|Debilitate ([Fatigued](../../Combat-Rules/Statuses#term-fatigued))|Ranged|7 MP, 1 AP|Use a status-inflicting ability on a single target that inflicts the status associated with your elemental type on a hit.|
 |3|Slow|Ranged|12 MP, 1 AP|The target of this ability receives the Slowed [status](../../Combat-Rules/Statuses#term-status) during the [Effect Phase](../../Combat-Rules/The-Combat-Round#term-effect-phase) of this [round](../../Combat-Rules/The-Combat-Round#term-round). The effect then lasts for three subsequent rounds, or until it is removed. While the target is Slowed, they have -1 AP to use per round.|
 |4|Multidebuff (Status Accuracy)|Multi|12 MP, 1 AP|Move all of your enemies down one level on the Bonus Tracker for the statistic that your archetype debuffs.|
 |5|Vulnerability (Wind)|Ranged|8 MP, 1 AP|Inflict the Vulnerable status on a single target.  When a target is Vulnerable, the next time they are hit by an attack of your base elemental type, it affects them as though they had a 2x weakness to that elemental type, and the Vulnerable status is removed.  Characters can be Vulnerable to multiple elemental types at a time.  If a character has a 2x or greater weakness to the elemental type it is Vulnerable to, the Vulnerable status does nothing.|
@@ -253,12 +253,12 @@
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Attack|Melee|1 AP|Make a colorless physical attack against a single target.|
-|Full Restore|Self|1 Anima, 1 AP|The eidolon removes all status effects from itself and immediately restores itself to full HP.|
+|Full Restore|Self|1 Anima, 1 AP|The eidolon removes all statuses from itself and immediately restores itself to full HP.|
 |Heal|Ally|1 AP|Heal either the eidolon or a single party member by an amount equal to the eidolon's Magical Attack.  If the ally is downed, they are also revived.|
-|Cure|Ally|1 AP|Removes all debuffs and status effects from the eidolon or one of the party members.|
+|Cure|Ally|1 AP|Removes all debuffs and statuses from the eidolon or one of the party members.|
 |Dragonslayer|Melee|1 Anima, 2 AP|Makes a colorless physical attack against a single target.  If the target's HP is at maximum, the attack's damage is multiplied by 4 in addition to other modifiers.  Otherwise, it is multiplied by 2.|
 |Apocalypse|Multi|1 Anima, 2 AP|Make a magical attack against all enemies on the battlefield that has the same elemental type as your base elemental type.  On a hit, it deals 3x damage in addition to other multipliers.|
-|Second Chance|Multi|1 Anima, 2 AP|Revive yourself and all of your allies, remove all status effects from all of you, reset the Bonus Tracker for all of your statistics, and bring you all back to full HP.|
-|Mirror Shield|Self|1 Anima, 2 AP|Inflict the Mirrored status effect on your eidolon, which goes away at the beginning of its next turn.  While your eidolon is Mirrored, all magical attacks, physical attacks, and status-inflicting abilities are negated and reflected back onto the enemy that used them.|
-|Comeback|Multi|1 Anima, 2 AP|Move yourself and all of your allies to +7 on the Bonus Tracker for the statistic that your archetype buffs and inflict the Hasted status effect on yourself and all of your allies.|
+|Second Chance|Multi|1 Anima, 2 AP|Revive yourself and all of your allies, remove all statuses from all of you, reset the Bonus Tracker for all of your statistics, and bring you all back to full HP.|
+|Mirror Shield|Self|1 Anima, 2 AP|Inflict the Mirrored status on your eidolon, which goes away at the beginning of its next turn.  While your eidolon is Mirrored, all magical attacks, physical attacks, and status-inflicting abilities are negated and reflected back onto the enemy that used them.|
+|Comeback|Multi|1 Anima, 2 AP|Move yourself and all of your allies to +7 on the Bonus Tracker for the statistic that your archetype buffs and inflict the Hasted status on yourself and all of your allies.|
 |Charge!|Special|1 Anima, 2 AP|Your eidolon grants all of your allies an immediate full turn.  When they use abilities during this turn, they can substitute its statistics for theirs.|
