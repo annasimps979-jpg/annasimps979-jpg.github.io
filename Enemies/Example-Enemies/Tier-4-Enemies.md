@@ -5,7 +5,7 @@ The people who run the casinos that act as sieves for the vast wealth trafficked
 
 In [combat](../../Combat-Rules/), Gangsters will beat on the weakest enemy.  They will also never engage in a fair fight unless forced to.
 
-### Goon (Normal 4, Dragon, [Fire](../../Combat-Rules/Elemental-Types#term-fire))
+### Goon (Normal 4, Dragon, Fire)
 
 **Statistics**
 
@@ -33,7 +33,7 @@ In [combat](../../Combat-Rules/), Gangsters will beat on the weakest enemy.  The
 |2|Rare Buff Physical Attack|
 |3|100 cr|
 
-### Dancer (Normal 4, Dragon, [Water](../../Combat-Rules/Elemental-Types#term-water))
+### Dancer (Normal 4, Dragon, Water)
 
 **Statistics**
 
@@ -61,7 +61,7 @@ In [combat](../../Combat-Rules/), Gangsters will beat on the weakest enemy.  The
 |2|Costume Change|
 |3|100 cr|
 
-### Kitsune (Normal 4, Demon, [Wood](../../Combat-Rules/Elemental-Types#term-wood))
+### Kitsune (Normal 4, Demon, Wood)
 
 **Statistics**
 
