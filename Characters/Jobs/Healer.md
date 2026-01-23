@@ -20,4 +20,4 @@ While they are Healers, [player characters](../../Extras/Key-Terms#term-player-c
 |7|Raise Dead|Special|15 MP, 1 AP|Revive a single downed target back to half its current maximum HP, rounded down.|
 |8|Multiheal|Multi|15 MP, 1 AP|Heal yourself and all allies for an amount of HP equal to your Magical Attack.|
 |9|Treatment|Ally|18 MP, 1 AP|Remove all statuses from a single target, and reset the Bonus Tracker for all of their statistics back to +0.|
-|10|Second Chance|Multi|1 Anima, 2 AP|Revive yourself and all of your allies, remove all statuses from all of you, reset the Bonus Tracker for all of your statistics, and bring you all back to full HP.|
+|10|Second Chance|Multi|1 [Anima](../../Free-Play/Anima#term-anima), 2 AP|Revive yourself and all of your allies, remove all statuses from all of you, reset the Bonus Tracker for all of your statistics, and bring you all back to full HP.|
