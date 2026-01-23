@@ -6,12 +6,12 @@ The Priest's core virtue is their **Compassion.**  At [character creation](../..
 *  +10 [Health](../../Characters/Attributes-and-Statistics#term-health)
 *  +15 [Mana](../../Characters/Attributes-and-Statistics#term-mana)
 *  +2 [Initiative](../../Characters/Attributes-and-Statistics#term-initiative)
-*  As a [Support](../../Characters/Jobs/Support), their abilities will [buff](../../Combat-Rules/Buffs-and-Debuffs#term-buff) [Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense).
+*  As a [Support](../../Characters/Jobs/Support), their [abilities](../../Extras/Key-Terms#term-ability) will [buff](../../Combat-Rules/Buffs-and-Debuffs#term-buff) [Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense).
 *  As a [Saboteur](../../Characters/Jobs/Saboteur), their abilities will [debuff](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack).
 
 ## Advancements by Rank
 
-**Rank 1:** [Ability](../../Extras/Key-Terms#term-ability).
+**Rank 1:** Ability.
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
