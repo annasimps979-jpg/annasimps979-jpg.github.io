@@ -5,7 +5,7 @@ The reptilian lords of the sky are extraordinarily long-lived, and guard their a
 
 In [combat](../../Combat-Rules/), the lives of Elite dragons are much more valuable than those of their Normal servants, meaning that the latter will gladly sacrifice themselves for the former.
 
-### Drakeling (Normal 10, Dragon, [Earth](../../Combat-Rules/Elemental-Types#term-earth))
+### Drakeling (Normal 10, Dragon, Earth)
 
 **Statistics**
 
@@ -89,7 +89,7 @@ In [combat](../../Combat-Rules/), the lives of Elite dragons are much more valua
 |2|Multiscan|
 |3|1000 cr|
 
-### Warrior (Elite 10, Dragon, [Thunder](../../Combat-Rules/Elemental-Types#term-thunder))
+### Warrior (Elite 10, Dragon, Thunder)
 
 **Statistics**
 
@@ -154,7 +154,7 @@ Academic magic-users are just as unpredictable, cruel, and violent as any monste
 
 In combat, magi tend to know everything about their opponents, and will play as optimally as they possibly can as a result.
 
-### White Mage (Normal 10, Human, [Light](../../Combat-Rules/Elemental-Types#term-light))
+### White Mage (Normal 10, Human, Light)
 
 **Statistics**
 
@@ -182,7 +182,7 @@ In combat, magi tend to know everything about their opponents, and will play as 
 |2|Expert Restore MP|
 |3|1000 cr|
 
-### Black Mage (Normal 10, Human, [Shadow](../../Combat-Rules/Elemental-Types#term-shadow))
+### Black Mage (Normal 10, Human, Shadow)
 
 **Statistics**
 
