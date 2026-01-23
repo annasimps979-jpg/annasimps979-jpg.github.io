@@ -15,7 +15,7 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 |Name|[Type](../../Combat-Rules/Attacking-and-Defending#term-ability-type)|Cost|Description|
 |:-|:-|:-|:-|
-|Focus|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 [AP](../../Combat-Rules/The-Combat-Round#term-ap)|Apply the Focused [status](../../Combat-Rules/Statuses) to yourself.  While you are Focused, you may only use your basic attack.  You gain a flat +2 bonus to the damage you deal when you hit an enemy with a physical or magical attack.  Every time you hit an enemy, this bonus increases by 1.  When you miss, the Focused status goes away.|
+|Focus|[Self](../../Combat-Rules/Attacking-and-Defending#term-self-ability)|1 [AP](../../Combat-Rules/The-Combat-Round#term-ap)|Apply the Focused [status](../../Combat-Rules/Statuses) to yourself.  While you are Focused, you may only use your [basic attack](../../Combat-Rules/The-Combat-Round#term-basic-attack).  You gain a flat +2 bonus to the damage you deal when you hit an enemy with a [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack) or [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack).  Every time you hit an enemy, this bonus increases by 1.  When you miss, the Focused status goes away.|
 
 **Rank 2:** You gain +1 Physical Defense.
 
@@ -31,7 +31,7 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Disciplined Focus|Passive|N/A|While you are Focused, you may spend 2 AP to take the Calm action, which removes the Focused status from you.|
+|Disciplined Focus|Passive|N/A|While you are Focused, you may spend 2 AP to take the Calm [action](../../Extras/Key-Terms#term-action), which removes the Focused status from you.|
 
 **Rank 6:** You gain +1 Physical Defense.
 
@@ -49,13 +49,13 @@ The Knight's core virtue is their **Discipline.**  At [character creation](../..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Berserk Charge|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 Anima, 2 AP|Applies Focused to your [eidolon](../../Characters/Eidolons#term-eidolon), and may make as many [basic attacks](../../Combat-Rules/The-Combat-Round#term-basic-attack) as possible until Focused is removed.|
+|Berserk Charge|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 [Anima](../../Free-Play/Anima#term-anima), 2 AP|Applies Focused to your [eidolon](../../Characters/Eidolons#term-eidolon), and may make as many basic attacks as possible until Focused is removed.|
 
 ## Talents
 
-**[Striker](../../Characters/Jobs/Striker):** Melee.  While you are Focused, you may use [physical attacks](../../Combat-Rules/Attacking-and-Defending#term-physical-attack) in addition to your basic attack.  Hitting an enemy with a physical attack increases your bonus damage by 1, while missing an enemy with a physical attack removes the Focused status.
+**[Striker](../../Characters/Jobs/Striker):** Melee.  While you are Focused, you may use physical attacks in addition to your basic attack.  Hitting an enemy with a physical attack increases your bonus damage by 1, while missing an enemy with a physical attack removes the Focused status.
 
-**[Caster](../../Characters/Jobs/Caster):** Artillery.  While you are Focused, you may use [magical attacks](../../Combat-Rules/Attacking-and-Defending#term-magical-attack) in addition to your basic attack.  Hitting an enemy with a magical attack increases your bonus damage by 1, while missing an enemy with a magical attack removes the Focused status.
+**[Caster](../../Characters/Jobs/Caster):** Artillery.  While you are Focused, you may use magical attacks in addition to your basic attack.  Hitting an enemy with a magical attack increases your bonus damage by 1, while missing an enemy with a magical attack removes the Focused status.
 
 **[Healer](../../Characters/Jobs/Healer):** Medic.  While you are Focused, you may use your healing abilities.  The damage bonus to your attacks allows you to heal your allies for more [HP](../../Characters/Attributes-and-Statistics#term-hp) equal to your damage bonus with abilities that heal their HP.
 
