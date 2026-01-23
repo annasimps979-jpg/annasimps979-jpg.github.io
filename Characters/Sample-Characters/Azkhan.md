@@ -49,7 +49,7 @@
 
 **[Equipment](../../The-Economy/Equipment):**
 * [Weapon](../../The-Economy/Equipment/Weapons): Obsidian Slab.  [Expert](../../The-Economy/Equipment#term-equipment-quality) [Sword](../../The-Economy/Equipment/Weapons#term-sword) (+8 PA, +5 MA).  Heavy.
-* [Armor](../../The-Economy/Equipment/Armor): Bonespike Harness.  Expert [Heavy](../../The-Economy/Equipment/Armor#term-heavy-armor) (+4 PD, +2 MD).  [Barbed](../../The-Economy/Equipment/Armor#term-barbed-armor) (Paralyzed).
+* [Armor](../../The-Economy/Equipment/Armor): Bonespike Harness.  Expert [Heavy](../../The-Economy/Equipment/Armor#term-heavy-armor) (+4 PD, +2 MD).  Barbed (Paralyzed).
 * Head [Accessory](../../The-Economy/Equipment/Accessories): [Mystical](../../The-Economy/Equipment/Accessories#term-mystical-accessory) Mask of Focus.  (+1 R, Ability: Focus).
 * Arm Accessory: Mystical Ring of Magical Shield.  (+1 R, +1 MD).
 * Arm Accessory: Mystical Ring of Magical Shield.  (+1 R,+1 MD).
