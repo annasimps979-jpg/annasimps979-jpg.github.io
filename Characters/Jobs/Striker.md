@@ -20,4 +20,4 @@ While they are Strikers, [player characters](../../Extras/Key-Terms#term-player-
 |7|Whirlwind|Multi|12 MP, 1 AP|Make a colorless physical attack against all enemies on the battlefield.|
 |8|Elemental Leap|Ranged|8 MP, 1 AP|Make a physical attack against a single target whose elemental type is the same as your base elemental type.|
 |9|Elemental Whirlwind|Multi|15 MP, 1 AP|Make a physical attack against all enemies on the battlefield whose elemental type is the same as your base elemental type.|
-|10|Dragonslayer|Melee|1 Anima, 2 AP|Makes a colorless physical attack against a single target.  If the target's [HP](../../Characters/Attributes-and-Statistics#term-hp) is at maximum, the attack's damage is multiplied by 4 in addition to other modifiers.  Otherwise, it is multiplied by 2.|
+|10|Dragonslayer|Melee|1 [Anima](../../Free-Play/Anima#term-anima), 2 AP|Makes a colorless physical attack against a single target.  If the target's [HP](../../Characters/Attributes-and-Statistics#term-hp) is at maximum, the attack's damage is multiplied by 4 in addition to other modifiers.  Otherwise, it is multiplied by 2.|
