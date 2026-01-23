@@ -1,15 +1,15 @@
 # Weapons
 
 Each [character](../../Extras/Key-Terms#term-character) can wield a single weapon at a time during [combat](../../Combat-Rules), and may swap out their current weapon for another one they are proficient in during combat with the [Swap Weapon](../../Combat-Rules/The-Combat-Round#term-swap-equipment) action.  All weapons give bonuses to a character's [base](../../Extras/Key-Terms#term-base) [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack) and their base [Magical Attack](../../Characters/Attributes-and-Statistics#term-magical-attack) while they are being wielded.  The values of these bonuses are determined by the weapon's Quality and weapon type.  A weapon's _<dfn id = "term-weapon-type">weapon type</dfn>_ determines the base bonuses it gives to the wielder's Physical Attack and Magical Attack.  There are three categories of weapon type: Balanced, Physical, and Magical, and three Qualities, Mundane, Rare, and Expert.  There are also Unique weapons, which are Expert weapons with a single extra weapon upgrade that is not available to any other type.  Each individual weapon type grants an additional unique +1 bonus to a single [statistic](../../Extras/Key-Terms#term-statistic) while a character is wielding them that does not count as a bonus on the Bonus Tracker.  There are 9 weapon types in total:
-*  Lances grant a +1 bonus to the [Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense) of their wielder.
-*  Swords grant a +1 bonus to the Physical Attack of their wielder.
-*  Bows grant a +1 bonus to the [Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy) of their wielder.
-*  Guns grant a +1 bonus to the [Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy) of their wielder.
-*  Daggers grant a +1 bonus to the [Evasion](../../Characters/Attributes-and-Statistics#term-evasion) of their wielder.
-*  Claws grant a +1 bonus to the [Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy) of their wielder.
-*  Staves grant a +1 bonus to the Magical Attack of their wielder.
-*  Fans grant a +1 bonus to the [Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense) of their wielder.
-*  Scepters grant a +1 bonus to the [Resistance](../../Characters/Attributes-and-Statistics#term-resistance) of their wielder.
+*  _<dfn id = "term-lance">Lances</dfn>_ grant a +1 bonus to the [Physical Defense](../../Characters/Attributes-and-Statistics#term-physical-defense) of their wielder.
+*  _<dfn id = "term-sword">Swords</dfn>_ grant a +1 bonus to the Physical Attack of their wielder.
+*  _<dfn id = "term-bow">Bows</dfn>_ grant a +1 bonus to the [Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy) of their wielder.
+*  _<dfn id = "term-gun">Guns</dfn>_ grant a +1 bonus to the [Magical Accuracy](../../Characters/Attributes-and-Statistics#term-magical-accuracy) of their wielder.
+*  _<dfn id = "term-dagger">Daggers</dfn>_ grant a +1 bonus to the [Evasion](../../Characters/Attributes-and-Statistics#term-evasion) of their wielder.
+*  _<dfn id = "term-claw">Claws</dfn>_ grant a +1 bonus to the [Status Accuracy](../../Characters/Attributes-and-Statistics#term-status-accuracy) of their wielder.
+*  _<dfn id = "term-staff">Staves</dfn>_ grant a +1 bonus to the Magical Attack of their wielder.
+*  _<dfn id = "term-fan">Fans</dfn>_ grant a +1 bonus to the [Magical Defense](../../Characters/Attributes-and-Statistics#term-magical-defense) of their wielder.
+*  _<dfn id = "term-scepter">Scepters</dfn>_ grant a +1 bonus to the [Resistance](../../Characters/Attributes-and-Statistics#term-resistance) of their wielder.
 
 ## Physical Weapons 
 
@@ -78,7 +78,7 @@ _<dfn id = "term-magical-weapon">Magical</dfn>_ weapons provide a greater bonus 
 |Name|Description|
 |:-|:-|
 |Reach|This weapon's Melee abilities can hit enemies in the [back row](../../Combat-Rules/Starting-Battles#term-back-row) or the [front row](../../Combat-Rules/Starting-Battles#term-front-row) while the wielder is in the front row, and can also hit enemies in the front row while the wielder is in the back row.|
-|Heavy|This weapon's basic attack costs 2 AP to use instead of 1, but deals 3x its base damage in addition to other multipliers on a hit.|
+|<dfn id = "term-heavy-weapon">Heavy</dfn>|This weapon's basic attack costs 2 AP to use instead of 1, but deals 3x its base damage in addition to other multipliers on a hit.|
 |Primordial|When you make a basic attack while wielding this weapon, you may decide the elemental type of the resulting damage.  However, the damage's elemental type cannot be colorless.|
 |Laser|The damage of this weapon's basic attack ignores the target's Physical Defense.  However, all other abilities or alternate contextual attacks do damage as normal.|
 |Double-Edged|In addition to their usual basic attack, weapons with this upgrade give the wielder a free ability called Double Attack.  When the wielder uses this ability, they make two colorless, Melee, physical attacks against a single target, each one dealing damage multiplied by 1x in addition to other modifiers.|
