@@ -4,7 +4,7 @@ Lands with sunny and breezy climates are represented by this type.  The months o
 
 **Example [Natural Hazards](../../Exploration-Rules/Hazards-and-Encounters#term-natural-hazard):** a rising tide, sheer cliffs, slippery rocks.
 
-**Weather Table**
+## Weather Table
 
 |Result|Weather|
 |:-|:-|
