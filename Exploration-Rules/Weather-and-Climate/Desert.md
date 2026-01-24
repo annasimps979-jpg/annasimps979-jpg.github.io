@@ -1,14 +1,14 @@
 # Desert
 
-Arid, hot regions such as canyons, plateaus, or sandy deserts are represented by the Desert climate.  Characters traveling in these regions should be careful to bring more Supplies than normal.
+Arid, hot regions such as canyons, plateaus, or sandy deserts are represented by the Desert climate.  Characters traveling in these regions should be careful to bring more [Supplies](../../The-Economy/The-Party-Inventory/Travel-Items#term-supplies) than normal.
 
-**Example Natural Hazards:** quicksand, a mirage, a deep canyon.
+**Example [Natural Hazards](../../Exploration-Rules/Hazards-and-Encounters#term-natural-hazard):** quicksand, a mirage, a deep canyon.
 
-**Weather Table**
+## Weather Table
 
 |Result|Weather|
 |:-|:-|
-|1|Cloudy|
+|1|[Cloudy](../../Exploration-Rules/Weather-and-Climate#term-cloudy)|
 |2-6|Bright|
 |7-9|Hot|
 |10|Sandstorm|
