@@ -109,3 +109,9 @@ Before you are finished with your character, you should check--have you:
 18.  Given your character 5 starting Anima?
 
 If you have done all of this, then congratulations, you are now ready to play Last Odyssey!
+
+## Higher Tier Characters
+
+If you intend to create a new character for a pre-existing campaign or for a campaign that will begin at a tier greater than 1, add character advancements per the [Character Advancement](../Characters/Character-Advancement) section one at a time until your character reaches the appropriate tier.  In addition, your character will also start with different equipment depending on their tier:
+* Characters of tier 4-7 will start with a Rare weapon and armor of the appropriate type, as well as two Lucky or Mystical accessories and 100 cr.
+* Characters of tier 8-10 will start with an Expert weapon and armor of the appropriate type, as well as three Lucky or Mystical accessories and 1000 cr.
