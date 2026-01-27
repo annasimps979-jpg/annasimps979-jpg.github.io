@@ -53,7 +53,7 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 ## Talents
 
-**[Striker](../../Characters/Jobs/Striker):** Random Strike.  When you use a [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), you may roll on the Random Element Table to determine its [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type).
+**[Striker](../../Characters/Jobs/Striker):** Random Strike.  When you use a [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack), you may roll on the [Random Element Table](../../Extras/Random-Tables#term-random-element-table) to determine its [elemental type](../../Combat-Rules/Elemental-Types#term-elemental-type).
 
 **[Caster](../../Characters/Jobs/Caster):** Rainbow Bolt.  When you use a [magical attack](../../Combat-Rules/Attacking-and-Defending#term-magical-attack), you may roll on the Random Element Table to determine its elemental type.
 
@@ -61,6 +61,6 @@ The Harlequin's core virtue is their **Daring.**  At [character creation](../../
 
 **[Defender](../../Characters/Jobs/Defender):** Call Bluff.  When a Taunted enemy attacks you with a physical or magical attack, you may roll a 1d10 before the [GM](../../Extras/Key-Terms#term-gm) rolls the [hit die](../../Combat-Rules/Attacking-and-Defending#term-hit-die).  If your result is less than theirs, the attack misses.  Otherwise, if the attack hits, you take double damage.
 
-**Support:** Random Buff.  When you use a buff ability, you may roll on the Random Statistic Table to determine which [statistic](../../Extras/Key-Terms#term-statistic) you buff.
+**Support:** Random Buff.  When you use a buff ability, you may roll on the [Random Statistic Table](../../Extras/Random-Tables#term-random-statistic-table) to determine which [statistic](../../Extras/Key-Terms#term-statistic) you buff.
 
 **Saboteur:** Random Debuff.  When you use a debuff ability, you may roll on the Random Statistic Table to determine which statistic you debuff.
