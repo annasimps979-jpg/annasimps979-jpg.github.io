@@ -61,7 +61,7 @@ In addition to their base effects, some items have special effects called _<dfn 
 |Poison Dart|Rare|Inflict Toxin|Delay|90 cr|
 |Experimental Combat Stim|Expert|Buff [Physical Attack](../../Characters/Attributes-and-Statistics#term-physical-attack)/Buff [Physical Accuracy](../../Characters/Attributes-and-Statistics#term-physical-accuracy)|Dual|9000 cr|
 |Exquisite Fire Gem|Expert|Elemental Damage (Fire)|Multi|7000 cr|
-|Mandragora|N/A|Summon Creature (Dryad)|4000 cr|
+|Mandragora|N/A|Summon Creature (Dryad)|N/A|4000 cr|
 
 ## Battle Item Generation
 At times, there is a need to quickly create new items.  If the [GM](../../Extras/Key-Terms#term-gm) needs to reward the players or their enemies with a new battle item and doesn't have anything on hand, they can follow a relatively simple process to create a new one.  First, roll a d20 and consult the table below:  
