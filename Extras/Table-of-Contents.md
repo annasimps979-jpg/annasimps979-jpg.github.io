@@ -103,3 +103,7 @@
     - [Travel Items](../The-Economy/The-Party-Inventory/Travel-Items)
   - [Followers](../The-Economy/Followers)
   - [Merchants](../The-Economy/Merchants)
+- [**Extras**](../Extras/)
+  -  [Key Terms](../Extras/Key-Terms)
+  -  [Random Tables](../Extras/Random-Tables)
+  -  [Table-of-Contents](../Extras/Table-of-Contents)
