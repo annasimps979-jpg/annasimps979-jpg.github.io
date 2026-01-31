@@ -27,3 +27,4 @@ GMs who need to fill combat encounters with enemies for their [campaign](../Extr
 * [Enemy Creation:](Enemy-Creation) A step-by-step process for creating custom enemies.
 * [Antagonists:](Antagonists/) Special enemies that move the plot forward, and can wield Anima.
 * [Example Enemies:](Example-Enemies/) Ready-made enemies to put into your game world.
+* [Enemy Sheet:](Last-Odyssey-Fillable-Enemy-Sheet.pdf) A page for recording information about custom enemies.
