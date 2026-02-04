@@ -7,7 +7,7 @@ One of the cornerstones of FRP is _free play,_ a state of the game in which the 
 *  [Investigation:](Investigation) Learning new information about the world and about the [party's](../Extras/Key-Terms#term-party) enemies.
 *  [Abilities Outside of Combat:](Abilities-Outside-of-Combat) Tips for making rulings about the use of combat powers during free play.
 *  [Anima:](Anima) How to earn and spend Anima, which gives players an edge over their opponents and is necessary for advancing in tier.
-*  [True Death:](True-Death) What happens when [characters](../Extras/Key-Terms#term-character) really die instead of being [downed](../Characters/Attributes-and-Statistics#term-downed).
+*  [True Death:](True-Death) What happens when [characters](../Extras/Key-Terms#term-character) really die instead of being [downed](../Combat-Rules/Death-and-Injury#term-downed).
 *  [Earning XP:](Earning-XP) The means by which characters grow stronger within a single tier.
 *  [Lore:](Lore) A guide to actionable knowledge, and how players might acquire it.
 *  [Puzzles:](Puzzles) Tips and advice for adding puzzle encounters to [campaigns](../Extras/Key-Terms#term-campaign).
