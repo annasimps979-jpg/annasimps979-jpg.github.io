@@ -51,7 +51,7 @@ Invaders don't follow too many rules in [combat](../../Combat-Rules/), except fo
 |:-|:-|:-|:-|
 |Standard Missile|Ranged|1 AP, 7 MP|Makes a magical attack against a single target that deals magical colorless damage on a hit that is multiplied by 2 in addition to other multipliers.|
 |Standard Shell|[Ally](../../Combat-Rules/Attacking-and-Defending#term-ally-ability)|1 AP, 7 MP|Increases or restores the Shell of the Pupil or one of its allies by 18 points.|
-|Implant Eggs|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP|If another character on the battlefield is already [downed](../../Characters/Attributes-and-Statistics#term-downed), the Pupil can use this [ability](../../Extras/Key-Terms#term-ability) on them.  During the next Effect Phase, a Grub will spawn on the front line of the Pupil's side of the [battle](../../Extras/Key-Terms#term-battle).|
+|Implant Eggs|[Special](../../Combat-Rules/Attacking-and-Defending#term-special-ability)|1 AP|If another character on the battlefield is already [downed](../../Combat-Rules/Death-and-Injury#term-downed), the Pupil can use this [ability](../../Extras/Key-Terms#term-ability) on them.  During the next Effect Phase, a Grub will spawn on the front line of the Pupil's side of the [battle](../../Extras/Key-Terms#term-battle).|
 
 **Item Table** 
 
