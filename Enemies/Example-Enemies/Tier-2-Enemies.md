@@ -139,7 +139,7 @@ Forest Dwellers are interested in murdering their opponents with as little fanfa
 |Taunt|Ranged|1 AP|Works the same way as the Defender's Taunt.|
 |Counterspell|[Reaction](../../Combat-Rules/Attacking-and-Defending#term-reaction)|Variable|Works the same way as a Sage's Counterspell.|
 |Sparkles|Self|2 AP|Restores 10 MP to the Pixie.|
-|Revenge Hex|Passive|N/A|When the Pixie is [downed](../../Characters/Attributes-and-Statistics#term-downed), the character responsible must roll to resist [Silenced](../../Combat-Rules/Statuses#term-silenced) versus the Pixie's Status Accuracy.|
+|Revenge Hex|Passive|N/A|When the Pixie is [downed](../../Combat-Rules/Death-and-Injury#term-downed), the character responsible must roll to resist [Silenced](../../Combat-Rules/Statuses#term-silenced) versus the Pixie's Status Accuracy.|
 
 **Item Table** 
 
