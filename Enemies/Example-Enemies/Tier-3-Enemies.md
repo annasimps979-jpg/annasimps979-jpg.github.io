@@ -23,7 +23,7 @@ In [combat](../../Combat-Rules/), the living dead are stupid, aggressive, and to
 |:-|:-|:-|:-|
 |Smack|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Bite|Melee|1 AP, 5 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Makes a basic physical attack.  On a hit, also inflicts Necrotized.  Necrotized enemies will take damage instead of being healed if they become the target of any abilities that heal HP.|
-|Undeath|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The first time the Zombie would be [downed](../../Characters/Attributes-and-Statistics#term-downed) in a battle, it is reduced to 1 HP instead.  Any further damage it takes will cause it to become downed.|
+|Undeath|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|The first time the Zombie would be [downed](../../Combat-Rules/Death-and-Injury#term-downed) in a battle, it is reduced to 1 HP instead.  Any further damage it takes will cause it to become downed.|
 
 **Item Table** 
 
