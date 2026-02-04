@@ -34,7 +34,7 @@ Nick: Quirty's Body attribute is 5.
 
 Trystan: Okay.  Go ahead and make the roll.
 
-(Nick rolls a 1d10.  The result is a 7, meaning that he may ask 1d6 questions of the GM for "free," in the sense that he doesn't have to narrate his character's actions.  He gets 4 questions.)
+(Nick rolls the [outcome die](../Extras/Key-Terms#term-outcome-die).  The result is a 7, meaning that he may ask 1d6 questions of the GM for "free," in the sense that he doesn't have to narrate his character's actions.  He gets 4 questions.)
 
 Nick: Let me think for a minute.  I'm not sure what to ask.
 
