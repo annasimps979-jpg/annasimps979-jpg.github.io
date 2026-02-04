@@ -23,7 +23,7 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |:-|:-|:-|:-|
 |Strike|[Melee](../../Combat-Rules/Attacking-and-Defending#term-melee)|1 AP|Makes a [basic](../../Combat-Rules/The-Combat-Round#term-basic-attack) [physical attack](../../Combat-Rules/Attacking-and-Defending#term-physical-attack).|
 |Behold!|[Multi](../../Combat-Rules/Attacking-and-Defending#term-multi)|1 AP, 18 [MP](../../Characters/Attributes-and-Statistics#term-mp)|Uses a [status-inflicting ability](../../Combat-Rules/Attacking-and-Defending#term-status-inflicting-ability) on all of the Herald's enemies that inflicts the [Blinded](../../Combat-Rules/Statuses#term-blinded) [status](../../Combat-Rules/Statuses) on a hit.|
-|The First Seal|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|When the Herald is [downed](../../Characters/Attributes-and-Statistics#term-downed), all of the Herald's enemies have their Magical Accuracy [debuffed](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
+|The First Seal|[Passive](../../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|When the Herald is [downed](../../Combat-Rules/Death-and-Injury#term-downed), all of the Herald's enemies have their Magical Accuracy [debuffed](../../Combat-Rules/Buffs-and-Debuffs#term-debuff) by one step on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).|
 
 **Item Table** 
 
