@@ -198,7 +198,7 @@ Entire [adventures](../../Extras/Key-Terms#term-adventure) or even [campaigns](.
 |Deep Cuts|Passive|N/A|If the Torture Rack rolls a 1 when making a physical attack against one of its enemies, it will also inflict 1 random [injury](../../Combat-Rules/Death-and-Injury#term-injury).|
 |Pain Suppressors|Passive|N/A|The Torture Rack is immune to all debuffs.|
 |Torture|Paradigm Action|1 Anima|The Torture Rack inflicts 2d8 random debuffs on a single target that are determined by the [Random Statistic Table](../../Extras/Random-Tables#term-random-statistic-table).|
-|Assassinate|Paradigm Action|1 Anima|The Torture rack designates an enemy, and the [GM](../../Extras/Key-Terms#term-gm) rolls a 1d10.  The target then loses a percentage of their total [Health](../../Characters/Attributes-and-Statistics#term-health) from their combined HP and Shell equal to the result of the roll multiplied by 10.|
+|Assassinate|Paradigm Action|1 Anima|The Torture rack designates an enemy, and the [GM](../../Extras/Key-Terms#term-gm) rolls the [outcome die](../../Extras/Key-Terms#term-outcome-die).  The target then loses a percentage of their total [Health](../../Characters/Attributes-and-Statistics#term-health) from their combined HP and Shell equal to the result of the roll multiplied by 10.|
 
 ### Form 3 (Growable): Infernal Engine.  (Monster 8, Dragon, Fire)
 
