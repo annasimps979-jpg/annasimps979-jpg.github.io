@@ -23,7 +23,7 @@ The Commander's core virtue is their **Leadership.**  At [character creation](..
 
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
-|Standard Bearer|[Passive](../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Your allies gain a +1 bonus to their [Status](../../Characters/Attributes-and-Statistics#term-status-accuracy), [Physical](../../Characters/Attributes-and-Statistics#term-physical-accuracy), and [Magical Accuracies](../../Characters/Attributes-and-Statistics#term-magical-accuracy) when they act after you in the [Initiative Order](../../Combat-Rules/Starting-Battles#term-initiative-order) that does not count on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).  If you are [downed](../../Characters/Attributes-and-Statistics#term-downed), this effect does not apply.|
+|Standard Bearer|[Passive](../Combat-Rules/Attacking-and-Defending#term-passive)|N/A|Your allies gain a +1 bonus to their [Status](../../Characters/Attributes-and-Statistics#term-status-accuracy), [Physical](../../Characters/Attributes-and-Statistics#term-physical-accuracy), and [Magical Accuracies](../../Characters/Attributes-and-Statistics#term-magical-accuracy) when they act after you in the [Initiative Order](../../Combat-Rules/Starting-Battles#term-initiative-order) that does not count on the [Bonus Tracker](../../Combat-Rules/Buffs-and-Debuffs#term-bonus-tracker).  If you are [downed](../../Combat-Rules/Death-and-Injury#term-downed), this effect does not apply.|
 
 **Rank 4:** You gain +1 Resistance.
 
