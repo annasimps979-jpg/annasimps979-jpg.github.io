@@ -140,7 +140,7 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 |Orb|Ranged|1 AP, 7 MP|Makes a magical attack against a single target that deals magical damage of the Conflagration's elemental type that is multiplied by 2 in addition to other modifiers.|
 |Storm|Multi|1 AP, 13 MP|Makes a magical attack against every enemy of the Conflagration's that deals magical damage of the Conflagration's elemental type on a hit.|
 |Chain Spell|Ranged|1 AP, 8 MP|Makes a magical attack against a single target that deals magical damage of the Conflagration's elemental type.  On a hit, the Conflagration makes another attack against another character for free.  Each subsequent attack lets the Conflagration attack another character for free.|
-|Pure Elemental|Passive|N/A|When the Conflagration is reduced to 0 MP, it is automatically [downed](../../Characters/Attributes-and-Statistics#term-downed) and cannot be revived.|
+|Pure Elemental|Passive|N/A|When the Conflagration is reduced to 0 MP, it is automatically [downed](../../Combat-Rules/Death-and-Injury#term-downed) and cannot be revived.|
 
 **Item Table** 
 
